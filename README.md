@@ -1,13 +1,12 @@
 # guardsmen-generator
-Scripts for generating and processing unique Imperial Guardsmen for the Warhammer 40k tabletop game
-Guardsmen Generator
-Justin Mansell (2018)
+Scripts for generating and processing unique Imperial Guardsmen for the Warhammer 40k tabletop game.
+Author: Justin Mansell (2018)
 
 Description:
 These codes procedurally generate squads of characters for Astra Militarum units. The purpose is to add personality and quirks to the units and give a "band of brothers" feel to battles and their aftermath. Many players enjoy fleshing out backstories for their favourite characters in their army. This tool fills in the rest; adding a touch of life and story to the everyday men and women without whom no battle could be won.
 
 Installation (Mac OS):
-Unzip this folder in a location of your choosing. Open the terminal (Applications>Utilities>Terminal). Drag any file from this folder into the terminal. You should see the directory path appear on the command line. On the command line, delete the name of the file you dragged (the stuff after the last slash), then press control-a. This moves the cursor to the beginning of the command. Type cd and add a space. Hit enter to navigate to the folder directory. Then type: sudo pip install names and hit enter. The tool is then ready to use.
+Download the program files (RandomGuardsman.py, PostBattle.py, and NewSquad.py) to a location of your choice. Open the terminal (Applications>Utilities>Terminal). Drag any file from the folder where you downloaded the files into the terminal. You should see the directory path appear on the command line. On the command line, delete the name of the file you dragged (the stuff after the last slash), then press control-a. This moves the cursor to the beginning of the command. Type cd and add a space. Hit enter to navigate to the folder directory. Then type: sudo pip install names and hit enter. The tool is then ready to use.
 
 Usage:
 1) Navigate to the directory using the method described in Installation above. You do not have to do this every time, just each time you restart the terminal.
@@ -33,7 +32,7 @@ Limitations:
 Notes:
 The ultimate fate for guardsmen is to end up in one of two places: the graveyard or the alumni. The graveyard stores all of the guardsmen killed so far. Alumni stores the guardsmen who left the regiment for other reasons, including: being invalided by an injury, being awarded an officer commission etc.
 
-The 'definitely dead' parameter is used to represent the number of guardsmen who are unequivocally slain. Given the destructiveness of weapons in 40k it is tempting to treat all casualties this way, but doing misses the point of the tool: to help create an interesting story of camaraderie. Keep in mind that humans are extremely weak relative to other combatants in the 40k universe. Even minor wounds (ricochets, glancing hits, single gunshot wounds, shrapnel from nearby blasts) are likely to put a guardsmen out of action. Therefore, while guardsmen are more likely to be killed in battle, they are also more likely to be wounded. It is recommended that the 'definitely dead' parameter be reserved for situations where an 'all-wounded' casualty result word be contradictory. For instance, summary executions or the Fire On My Position stratagem. It may also be appropriate to represent a certain amount of overkill such as being hit with titan-grade weapons.
+The 'definitely dead' parameter is used to represent the number of guardsmen who are unequivocally slain. Given the destructiveness of weapons in 40k it is tempting to treat all casualties this way, but doing so misses the point of the tool: to help create an interesting story of camaraderie. Keep in mind that humans are extremely weak relative to other combatants in the 40k universe. Even minor wounds (ricochets, glancing hits, single gunshot wounds, shrapnel from nearby blasts) are likely to put a guardsmen out of action. Therefore, while guardsmen are more likely to be killed in battle, they are also more likely to be wounded. It is recommended that the 'definitely dead' parameter be reserved for situations where a 'wounded' casualty result word be contradictory. For instance, summary executions or the Fire On My Position stratagem. It may also be appropriate to represent a certain amount of overkill such as being hit with titan-grade weapons.
 
 Slightly less than 50% of the casualties specified by the 'casualties' parameter will be killed, the others are wounded. The percentage is 'slightly' less than 50% because certain traits (e.g. Die hard) can turn a lethal result into just a wound. Friends of the character can also attempt to intervene and save the character. In short, characters with many friends and a high skill-to-flaw ratio are less likely to be killed in battle.
 
