@@ -1,0 +1,89 @@
+Name: Donavan Carscallen
+Age: 22
+Rank: Sergeant
+Battles: 5
+Personality: Void
+Wants to: kill heretics
+Skills: ['Deadeye', 'Calm', 'Cautious', 'Hard target', 'Awesome eye patch', 'Bionic leg']
+Flaws: ['Overzealous']
+Confirmed kills: 9
+Awards: ['Medallion Crimson', 'Service Badge']
+Liked by: ['Edward Klein']
+Disliked by: ['Steven Jackson']
+Remarks: ['Deployed 2018-07-03', 'Wounded in combat 2018-07-09', 'Promoted to Corporal 2018-07-09', 'Promoted to Lance Corporal 2018-07-19', 'Wounded in combat 2018-07-30', 'Awarded the Medallion Crimson 2018-07-30', 'Promoted to Sergeant 2018-08-05', 'Awarded the Service Badge 2018-08-05']
+
+Name: Edward Klein
+Age: 39
+Rank: Corporal
+Battles: 2
+Personality: Loner
+Background: Agri worker
+Wants to: protect a friend
+Skills: ['Tireless', 'Awesome scar', 'Handyman']
+Flaws: []
+Confirmed kills: 0
+Awards: []
+Liked by: ['Donavan Carscallen']
+Disliked by: []
+Remarks: ['Deployed 2018-07-24', 'Wounded in combat 2018-07-30', 'Promoted to Corporal 2018-08-05']
+
+Name: Christopher Khim
+Age: 16
+Rank: Corporal
+Battles: 2
+Personality: Naive
+Background: Ganger
+Wants to: redeem themselves
+Skills: ['Hard target', 'Hardy']
+Flaws: ['Careless', 'Poor discipline']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-07-24', 'Wounded in combat 2018-07-30', 'Promoted to Guardsman 2018-07-30', 'Promoted to Corporal 2018-08-05']
+
+Name: Thomas Andres
+Age: 25
+Rank: Corporal
+Battles: 2
+Personality: Dissenter
+Background: Administratum menial
+Wants to: write a book
+Skills: ['Unarmed warrior', 'Quick draw']
+Flaws: []
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: ['Edward Klein']
+Remarks: ['Deployed 2018-07-24', 'Wounded in combat 2018-07-30', 'Promoted to Corporal 2018-08-05']
+
+Name: Jerome Philipp
+Age: 34
+Rank: Guardsman
+Battles: 2
+Personality: Cocky
+Background: Planetary defence
+Wants to: bring honor to their family
+Skills: ['Good looking', 'Crack shot', 'Bionic arm']
+Flaws: []
+Confirmed kills: 0
+Awards: ['Medallion Crimson']
+Liked by: ['Robert Wheeler']
+Disliked by: []
+Remarks: ['Deployed 2018-07-24', 'Wounded in combat 2018-07-30', 'Awarded the Medallion Crimson 2018-07-30']
+
+Name: Robert Wheeler
+Age: 23
+Rank: Guardsman
+Battles: 1
+Personality: Pragmatic
+Background: Hiver
+Wants to: earn the respect of their comrades
+Skills: ['Technical knock']
+Flaws: ['Unlucky', 'Coward', 'Hive bound']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-07-30']
+

@@ -1,0 +1,60 @@
+Name: Austin Stangl
+Age: 27
+Rank: Corporal
+Battles: 3
+Personality: Dissenter
+Background: Voidborn
+Wants to: meet someone famous
+Skills: ['Lucky', 'Survivalist', 'Technical knock', 'Duelist']
+Flaws: ['Insomniac', 'Death-wish', 'Mistrusted']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Charles Larimore', 'Larry Pistilli']
+Disliked by: ['Donald Boyd']
+Remarks: ['Deployed 2018-07-30', 'Promoted to Corporal 2018-08-02']
+
+Name: Larry Pistilli
+Age: 24
+Rank: Guardsman
+Battles: 3
+Personality: Braggart
+Background: Slave
+Wants to: get laid
+Skills: ['Lightning reflexes', 'Unremarkable', 'Tireless', 'Bulging biceps']
+Flaws: ['Absent minded', 'Clumsy']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Austin Stangl']
+Disliked by: ['Donald Boyd', 'Charles Larimore']
+Remarks: ['Deployed 2018-07-30']
+
+Name: Donald Boyd
+Age: 22
+Rank: Corporal
+Battles: 3
+Personality: Sarcastic
+Background: Forge worker
+Wants to: redeem themselves
+Skills: ['Crack shot', 'Unshakeable pride', 'Lateral thinker']
+Flaws: ['Insomniac', 'Hive bound']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Larry Pistilli', 'Austin Stangl']
+Disliked by: ['Charles Larimore']
+Remarks: ['Deployed 2018-07-30', 'Promoted to Corporal 2018-08-02']
+
+Name: Charles Larimore
+Age: 24
+Rank: Corporal
+Battles: 3
+Personality: Leech
+Background: Forge worker
+Wants to: bring honor to their family
+Skills: ['Patient', 'Combat master']
+Flaws: ['Impulsive', 'Unlucky']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Larry Pistilli']
+Disliked by: ['Austin Stangl', 'Donald Boyd']
+Remarks: ['Deployed 2018-07-30', 'Promoted to Corporal 2018-08-02']
+

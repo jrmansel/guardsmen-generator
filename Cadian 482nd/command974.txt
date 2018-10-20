@@ -1,0 +1,58 @@
+Name: Robert Rivera
+Age: 25
+Rank: Lance Corporal
+Battles: 4
+Personality: Reckless
+Wants to: start a family
+Skills: ['Unshakeable faith', 'Brave', 'Bionic leg', 'Tireless']
+Flaws: []
+Confirmed kills: 0
+Awards: ['Medallion Crimson']
+Liked by: ['Ronald Jackson']
+Disliked by: []
+Remarks: ['Deployed 2018-07-03', 'Wounded in combat 2018-07-09', 'Awarded the Medallion Crimson 2018-07-09', 'Promoted to Corporal 2018-07-09', 'Transferred to command974 from squad382 2018-07-24', 'Promoted to Lance Corporal 2018-08-10']
+
+Name: Allen Stevenson
+Age: 28
+Rank: Corporal
+Battles: 5
+Personality: Sympathizer
+Background: Planetary defence
+Wants to: write a book
+Skills: ['Combat master', 'Athlete', 'Good sense of direction', 'Lateral thinker']
+Flaws: ['Insomniac', 'Paranoid']
+Confirmed kills: 0
+Awards: ['Service Badge']
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-07-19', 'Wounded in combat 2018-07-24', 'Wounded in combat 2018-07-30', 'Transferred to command974 from squad650 2018-08-10', 'Promoted to Corporal 2018-08-10', 'Awarded the Service Badge 2018-08-10']
+
+Name: Ronald Jackson
+Age: 20
+Rank: Guardsman
+Battles: 5
+Personality: Steely
+Background: Voidborn
+Wants to: be remembered
+Skills: ['Die hard', 'Ambidextrous', 'Handyman', 'Unshakeable faith']
+Flaws: ['Careless', 'Old wound', 'Mistrusted', 'Shell-shock', 'Hesitant']
+Confirmed kills: 0
+Awards: ['Service Badge']
+Liked by: ['Kenneth Vogt', 'Allen Stevenson']
+Disliked by: ['Tony Thomas']
+Remarks: ['Deployed 2018-07-24', 'Wounded in combat 2018-07-30', 'Wounded in combat 2018-08-05', 'Transferred to command974 from squad650 2018-08-10', 'Awarded the Service Badge 2018-08-10']
+
+Name: Kevin Clayton
+Age: 20
+Rank: Corporal
+Battles: 4
+Personality: Quiet
+Wants to: get promoted
+Skills: ['Good looking', 'Awesome scar']
+Flaws: ['Addict', 'Illiterate', 'Shell-shock', 'Nightmares']
+Confirmed kills: 0
+Awards: ['Triple Skull']
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-07-03', 'Wounded in combat 2018-07-09', 'Promoted to Corporal 2018-07-09', 'Wounded in combat 2018-07-19', 'Awarded the Triple Skull 2018-07-19', 'Transferred to command974 from squad137 2018-07-24']
+

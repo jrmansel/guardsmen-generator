@@ -1,0 +1,150 @@
+Name: Raymond Tep
+Age: 21
+Rank: Lance Corporal
+Battles: 4
+Personality: Obsessive
+Background: Forge worker
+Wants to: earn the respect of their comrades
+Skills: ['Lightning reflexes']
+Flaws: ['Dishonest', 'Mostly deaf', 'Old wound']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Walter Bledsoe']
+Disliked by: []
+Remarks: ['Deployed 2018-07-24', 'Wounded in combat 2018-07-30', 'Wounded in combat 2018-08-02', 'Promoted to Corporal 2018-08-02', 'Wounded in combat 2018-08-05', 'Promoted to Lance Corporal 2018-08-05', 'Wounded in combat 2018-08-10']
+
+Name: Luke Hill
+Age: 26
+Rank: Guardsman
+Battles: 1
+Personality: Awkward
+Background: Hiver
+Wants to: kill xenos
+Skills: ['Sound judgement']
+Flaws: []
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-08-05', 'Wounded in combat 2018-08-10']
+
+Name: Walter Bledsoe
+Age: 22
+Rank: Guardsman
+Battles: 1
+Personality: Numb
+Background: Slave
+Wants to: transfer to a different regiment
+Skills: ['Cautious', 'Tireless']
+Flaws: ['Fragile', 'Addict', 'Unlucky', 'Mostly deaf', 'Hesitant']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Raymond Tep', 'Douglas Redman']
+Disliked by: []
+Remarks: ['Deployed 2018-08-05', 'Wounded in combat 2018-08-10']
+
+Name: Andrew Criner
+Age: 25
+Rank: Guardsman
+Battles: 1
+Personality: Sensible
+Background: Planetary defence
+Wants to: own their own house
+Skills: ['Street fighter', 'Unshakeable pride']
+Flaws: ['Mostly deaf', 'Coward']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: ['Arthur Barlow']
+Remarks: ['Deployed 2018-08-05', 'Wounded in combat 2018-08-10']
+
+Name: Howard Bieniek
+Age: 54
+Rank: Corporal
+Battles: 1
+Personality: Loyal
+Background: Planetary defence
+Wants to: kill heretics
+Skills: ['Bulging biceps', 'Tinkerer']
+Flaws: ['Gullible']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Andrew Criner']
+Disliked by: []
+Remarks: ['Deployed 2018-08-05', 'Wounded in combat 2018-08-10']
+
+Name: Walter Stevenson
+Age: 27
+Rank: Guardsman
+Battles: 0
+Personality: Steely
+Background: Voidborn
+Wants to: survive
+Skills: []
+Flaws: []
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: ['Howard Bieniek']
+Remarks: ['Deployed 2018-08-10']
+
+Name: Arthur Barlow
+Age: 23
+Rank: Guardsman
+Battles: 0
+Personality: Awkward
+Background: Forge worker
+Wants to: be remembered
+Skills: ['Tireless', 'Bionic leg']
+Flaws: ['Hive bound']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-08-10']
+
+Name: Douglas Redman
+Age: 21
+Rank: Guardsman
+Battles: 0
+Personality: Narcissist
+Background: Slave
+Wants to: sleep in
+Skills: ['Rapid reload', 'Bookworm']
+Flaws: []
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-08-10']
+
+Name: Zachary Clifford
+Age: 20
+Rank: Guardsman
+Battles: 0
+Personality: Jaded
+Background: Voidborn
+Wants to: get back to the good old days
+Skills: ['Beard', 'Technical knock']
+Flaws: ['Oblivious', 'Ignorant', 'Tainted']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-08-10']
+
+Name: Allan Deloach
+Age: 21
+Rank: Guardsman
+Battles: 0
+Personality: Sensible
+Background: Agri worker
+Wants to: own their own house
+Skills: []
+Flaws: ['Poor discipline', 'Oblivious']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Luke Hill']
+Disliked by: []
+Remarks: ['Deployed 2018-08-10']
+

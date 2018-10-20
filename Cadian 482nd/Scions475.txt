@@ -1,0 +1,150 @@
+Name: Robert Stewart
+Age: 56
+Rank: Sergeant
+Battles: 3
+Personality: Obsessive
+Background: Vaunted wealth
+Wants to: impress the commissar
+Skills: ['Hard target', 'Bionic arm', 'Bionic eye']
+Flaws: ['Dyslexic', 'Coward', 'Old wound']
+Confirmed kills: 0
+Awards: ['Ribbon Intrinsic', 'Medallion Crimson']
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-07-30', 'Wounded in combat 2018-07-30', 'Promoted to Lance Corporal 2018-07-30', 'Awarded the Ribbon Intrinsic 2018-07-30', 'Wounded in combat 2018-08-02', 'Awarded the Medallion Crimson 2018-08-02', 'Wounded in combat 2018-08-05', 'Promoted to Sergeant 2018-08-05']
+
+Name: Joshua Kellogg
+Age: 56
+Rank: Lance Corporal
+Battles: 2
+Personality: Sarcastic
+Background: Arbiter
+Wants to: protect a friend
+Skills: ['Duelist', 'Bookworm', 'Quick draw']
+Flaws: ['Absent minded', 'Cruel', 'Concussion']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-07-30', 'Wounded in combat 2018-08-02', 'Wounded in combat 2018-08-05', 'Promoted to Lance Corporal 2018-08-05']
+
+Name: Michael Duncan
+Age: 23
+Rank: Lance Sergeant
+Battles: 3
+Personality: Numb
+Background: Militarum
+Wants to: die for the Emperor
+Skills: ['Tireless', 'Duelist']
+Flaws: ['Poor health', 'Careless', 'Nightmares']
+Confirmed kills: 0
+Awards: ['Eagle Ordinary', 'Ribbon Intrinsic', 'Eagle Ordinary']
+Liked by: ['Leslie Partee']
+Disliked by: ['Joshua Kellogg']
+Remarks: ['Deployed 2018-07-30', 'Promoted to Lance Corporal 2018-07-30', 'Awarded the Eagle Ordinary 2018-07-30', 'Awarded the Ribbon Intrinsic 2018-07-30', 'Promoted to Sergeant 2018-08-02', 'Wounded in combat 2018-08-05', 'Promoted to Lance Sergeant 2018-08-05', 'Awarded the Eagle Ordinary 2018-08-05']
+
+Name: Leslie Partee
+Age: 26
+Rank: Lance Corporal
+Battles: 2
+Personality: Sensible
+Background: Vaunted wealth
+Wants to: travel the galaxy
+Skills: ['Good looking', 'Handyman', 'Observant', 'Combat master']
+Flaws: ['Poor discipline', 'Hesitant']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Michael Duncan', 'Joshua Kellogg']
+Disliked by: []
+Remarks: ['Deployed 2018-07-30', 'Wounded in combat 2018-08-05', 'Promoted to Lance Corporal 2018-08-05']
+
+Name: Christopher Kaina
+Age: 22
+Rank: Corporal
+Battles: 0
+Personality: Smooth
+Background: Militarum
+Wants to: get back to the good old days
+Skills: ['Patient', 'Bulging biceps', 'Bionic leg']
+Flaws: ['Gullible', 'Short temper']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-08-05']
+
+Name: Philip Mease
+Age: 21
+Rank: Corporal
+Battles: 0
+Personality: Gambler
+Background: Merchant house
+Wants to: earn the respect of their comrades
+Skills: ['Sound judgement']
+Flaws: ['Cruel']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-08-05']
+
+Name: Dwight Gebo
+Age: 21
+Rank: Corporal
+Battles: 0
+Personality: Slacker
+Background: Disgraced
+Wants to: start a family
+Skills: ['Good sense of direction', 'Survivalist']
+Flaws: ['Absent minded', 'Short temper']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Christopher Kaina']
+Disliked by: ['Cory Fullmer']
+Remarks: ['Deployed 2018-08-05']
+
+Name: Lee Stein
+Age: 24
+Rank: Corporal
+Battles: 0
+Personality: Edgy
+Background: Disgraced
+Wants to: serve up a cold plate of vengeance
+Skills: ['Street fighter', 'Bionic eye', 'Beard']
+Flaws: ['Cruel']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Christopher Kaina']
+Disliked by: []
+Remarks: ['Deployed 2018-08-05']
+
+Name: Cory Fullmer
+Age: 24
+Rank: Corporal
+Battles: 0
+Personality: Dreamer
+Background: Bastard child
+Wants to: impress the commissar
+Skills: ['Cook', 'Brave', 'Foresight']
+Flaws: ['Overweight', 'Careless']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-08-05']
+
+Name: Marion Young
+Age: 22
+Rank: Corporal
+Battles: 0
+Personality: Incompetent
+Background: Savant
+Wants to: write a book
+Skills: ['Zealous', 'Bookworm', 'Beard']
+Flaws: ['Poor discipline', 'Death-wish']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: ['Joshua Kellogg']
+Remarks: ['Deployed 2018-08-05']
+

@@ -1,0 +1,60 @@
+Name: William Richardson
+Age: 19
+Rank: Lance Corporal
+Battles: 2
+Personality: Slacker
+Background: Outcast
+Wants to: kill heretics
+Skills: ['Awesome scar', 'Beard', 'Unshakeable faith']
+Flaws: ['Short temper']
+Confirmed kills: 1
+Awards: []
+Liked by: []
+Disliked by: ['Byron Wilson', 'Jeffrey Wilson', 'Jeffrey Rush']
+Remarks: ['Deployed 2018-07-30', 'Promoted to Corporal 2018-07-30', 'Promoted to Lance Corporal 2018-08-02']
+
+Name: Jeffrey Wilson
+Age: 27
+Rank: Corporal
+Battles: 2
+Personality: Awkward
+Background: Administratum menial
+Wants to: get back to the good old days
+Skills: ['Survivalist', 'Bulging biceps']
+Flaws: ['Bad back']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: ['Byron Wilson', 'Jeffrey Rush']
+Remarks: ['Deployed 2018-07-30', 'Promoted to Corporal 2018-07-30']
+
+Name: Byron Wilson
+Age: 18
+Rank: Guardsman
+Battles: 2
+Personality: Jaded
+Background: Hiver
+Wants to: serve up a cold plate of vengeance
+Skills: ['Unarmed warrior']
+Flaws: ['Poor aim', 'Flat footed']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Jeffrey Wilson']
+Disliked by: ['William Richardson', 'Jeffrey Rush']
+Remarks: ['Deployed 2018-07-30']
+
+Name: Jeffrey Rush
+Age: 25
+Rank: Corporal
+Battles: 2
+Personality: Dreamer
+Background: Hiver
+Wants to: marry a distant paramour
+Skills: ['Lateral thinker', 'Rapid reload']
+Flaws: ['Asthma', 'Old wound']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Jeffrey Wilson', 'Byron Wilson']
+Disliked by: ['William Richardson']
+Remarks: ['Deployed 2018-07-30', 'Promoted to Corporal 2018-07-30']
+

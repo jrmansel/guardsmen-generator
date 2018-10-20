@@ -1,0 +1,5632 @@
+Name: Michael Antle
+Age: 23
+Rank: Guardsman
+Squad: HWP84
+Battles: 1
+Personality: Quiet
+Favorite food: protein paste
+Wants to: survive
+Skills: ['Zealous']
+Flaws: []
+Liked by: ['Antonio Edwards']
+Disliked by: []
+Awards: []
+Remarks: ['Killed in action 2018-05-08']
+Legacy: Inscription on a comrade's weapon
+
+Name: David Montpas
+Age: 21
+Rank: Corporal
+Squad: squad68
+Battles: 1
+Personality: Steely
+Favorite food: ration biscuits
+Wants to: serve up a cold plate of vengeance
+Skills: []
+Flaws: ['Coward', 'Death-wish']
+Liked by: ['Isaiah Whitting']
+Disliked by: ['Charlie Barden']
+Awards: []
+Remarks: ['Killed in action 2018-05-08']
+Legacy: Inscription on a nearby ruin
+
+Name: Charlie Barden
+Age: 25
+Rank: Guardsman
+Squad: squad68
+Battles: 1
+Personality: Joker
+Favorite food: reprocessed grox meat
+Wants to: start a business
+Skills: ['Crack shot']
+Flaws: []
+Liked by: ['James Rodgers', 'Anthony Catalano']
+Disliked by: ['Carl Christensen', 'Ray Hudson']
+Awards: []
+Remarks: ['Killed in action 2018-05-08']
+Legacy: Cross with oath tag draped over it
+
+Name: Isaiah Whitting
+Age: 21
+Rank: Corporal
+Squad: squad68
+Battles: 1
+Personality: Obsessive
+Favorite food: protein paste
+Wants to: desert at the first opportunity
+Skills: ['Heightened senses']
+Flaws: ['Weak', 'Flat footed']
+Liked by: ['Fred Hudgins', 'James Rodgers']
+Disliked by: ['Charlie Barden']
+Awards: []
+Remarks: ['Killed in action 2018-05-08']
+Legacy: A tombstone amongst thousands
+
+Name: Carl Christensen
+Age: 21
+Rank: Guardsman
+Squad: squad68
+Battles: 1
+Personality: Backwater
+Favorite food: ration biscuits
+Wants to: desert at the first opportunity
+Skills: ['Tough as nails', 'Bionic leg']
+Flaws: []
+Liked by: ['William Wilson']
+Disliked by: ['David Montpas']
+Awards: []
+Remarks: ['Killed in action 2018-05-08']
+Legacy: Cross with oath tag draped over it
+
+Name: Anthony Catalano
+Age: 21
+Rank: Guardsman
+Squad: squad68
+Battles: 1
+Personality: Joker
+Favorite food: ration biscuits
+Wants to: own their own house
+Skills: []
+Flaws: []
+Liked by: ['William Wilson', 'Larry Murrell']
+Disliked by: []
+Awards: []
+Remarks: ['Killed in action 2018-05-08']
+Legacy: A tombstone amongst thousands
+
+Name: Nicholas Williamson
+Age: 27
+Rank: Corporal
+Squad: squad137
+Battles: 1
+Personality: Narcissist
+Favorite food: corpse-starch
+Wants to: make it home
+Skills: ['Lucky']
+Flaws: ['Oblivious', 'Death-wish']
+Liked by: ['Brian Smith']
+Disliked by: ['Edward Mclaughlin']
+Awards: []
+Remarks: ['Killed in action 2018-05-08']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: Anthony Braunstein
+Age: 25
+Rank: Guardsman
+Squad: squad137
+Battles: 1
+Personality: Dreamer
+Favorite food: corpse-starch
+Wants to: survive
+Skills: []
+Flaws: ['Allergies', 'Hesitant']
+Liked by: ['Thomas Sutton']
+Disliked by: []
+Awards: []
+Remarks: ['Killed in action 2018-05-08']
+Legacy: Cross with oath tag draped over it
+
+Name: Robert Mancuso
+Age: 20
+Rank: Guardsman
+Squad: squad382
+Battles: 1
+Personality: Sensible
+Favorite food: amasec is a food, right?
+Wants to: redeem themselves
+Skills: ['Unshakeable faith', 'Good sense of direction']
+Flaws: ['Old wound']
+Liked by: []
+Disliked by: ['Alfred Regan']
+Awards: []
+Remarks: ['Killed in action 2018-05-08']
+Legacy: Cross with oath tag draped over it
+
+Name: Francis Alward
+Age: 21
+Rank: Guardsman
+Squad: squad382
+Battles: 1
+Personality: Loyal
+Favorite food: recaf beans
+Wants to: redeem themselves
+Skills: []
+Flaws: ['Fragile']
+Liked by: ['Alfred Regan', 'Jeffrey Ellerbe', 'Vince Berti']
+Disliked by: []
+Awards: []
+Remarks: ['Killed in action 2018-05-08']
+Legacy: A cautionary tale
+
+Name: Jeffrey Ellerbe
+Age: 16
+Rank: Cadet
+Squad: squad382
+Battles: 1
+Personality: Green
+Favorite food: ration biscuits
+Wants to: learn to fly
+Skills: []
+Flaws: []
+Liked by: ['Robert Mancuso']
+Disliked by: ['Clinton Valentine']
+Awards: []
+Remarks: ['Killed in action 2018-05-08']
+Legacy: Inscription on a nearby ruin
+
+Name: Edwardo Wilkinson
+Age: 22
+Rank: Guardsman
+Squad: squad382
+Battles: 1
+Personality: Superstitious
+Favorite food: protein paste
+Wants to: learn to fly
+Skills: ['Musician', 'Unshakeable pride']
+Flaws: []
+Liked by: ['Jeffrey Ellerbe', 'Robert Mancuso']
+Disliked by: []
+Awards: []
+Remarks: ['Killed in action 2018-05-08']
+Legacy: Fond memories in the minds of his friends
+
+Name: Alfred Regan
+Age: 28
+Rank: Corporal
+Squad: squad382
+Battles: 1
+Personality: Thief
+Favorite food: ration biscuits
+Wants to: learn to fly
+Skills: []
+Flaws: ['Unbearable guilt']
+Liked by: []
+Disliked by: ['David Vice']
+Awards: []
+Remarks: ['Killed in action 2018-05-08']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: John Gonzalez
+Age: 26
+Rank: Guardsman
+Squad: squad382
+Battles: 1
+Personality: Thief
+Favorite food: hydro fungus
+Wants to: kill heretics
+Skills: []
+Flaws: ['Poor discipline']
+Liked by: []
+Disliked by: ['Francis Alward', 'Clinton Valentine', 'Robert Mancuso']
+Awards: []
+Remarks: ['Killed in action 2018-05-08']
+Legacy: Cross with oath tag draped over it
+
+Name: Vince Berti
+Age: 19
+Rank: Guardsman
+Squad: squad382
+Battles: 1
+Personality: Smooth
+Favorite food: ploin fruit
+Wants to: be remembered
+Skills: ['Die hard']
+Flaws: ['Oblivious']
+Liked by: []
+Disliked by: ['John Gonzalez', 'Alfred Regan']
+Awards: []
+Remarks: ['Killed in action 2018-05-08']
+Legacy: Fond memories in the minds of his friends
+
+Name: William Vaughan
+Age: 26
+Rank: Guardsman
+Squad: SWT590
+Battles: 1
+Personality: Loner
+Favorite food: corpse-starch
+Wants to: set a record
+Skills: ['Silent move', 'Nerves of steel']
+Flaws: ['Poor health', 'Unbearable guilt']
+Liked by: ['Mark Johnson']
+Disliked by: ['Jason Ellis']
+Awards: []
+Remarks: ['Killed in action 2018-05-17']
+Legacy: Cross with oath tag draped over it
+
+Name: Mark Johnson
+Age: 20
+Rank: Guardsman
+Squad: SWT590
+Battles: 1
+Personality: Sarcastic
+Favorite food: ploin fruit
+Wants to: set a record
+Skills: []
+Flaws: ['Basically deaf']
+Liked by: ['William Vaughan']
+Disliked by: []
+Awards: []
+Remarks: ['Killed in action 2018-05-17']
+Legacy: Inscription on a comrade's weapon
+
+Name: Ruben Erwin
+Age: 59
+Rank: Guardsman
+Squad: SWT590
+Battles: 1
+Personality: Dreamer
+Favorite food: hydro fungus
+Wants to: bring honor to their family
+Skills: ['Zealous']
+Flaws: []
+Liked by: ['William Colunga']
+Disliked by: []
+Awards: []
+Remarks: ['Killed in action 2018-05-17']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: Jason Ellis
+Age: 28
+Rank: Guardsman
+Squad: SWT590
+Battles: 1
+Personality: Never bathes
+Favorite food: ration biscuits
+Wants to: earn the respect of their superiors
+Skills: ['Survivalist', 'Combat master']
+Flaws: []
+Liked by: ['Mark Johnson']
+Disliked by: ['James Hruska']
+Awards: []
+Remarks: ['Killed in action 2018-05-17']
+Legacy: Cross with oath tag draped over it
+
+Name: James Hruska
+Age: 23
+Rank: Guardsman
+Squad: SWT590
+Battles: 1
+Personality: Loyal
+Favorite food: ploin fruit
+Wants to: make a difference
+Skills: []
+Flaws: ['Pacifist']
+Liked by: ['Ruben Erwin']
+Disliked by: []
+Awards: []
+Remarks: ['Killed in action 2018-05-17']
+Legacy: Cross with oath tag draped over it
+
+Name: Brian Smith
+Age: 60
+Rank: Sergeant
+Squad: squad137
+Battles: 2
+Personality: Boisterous
+Favorite food: amasec is a food, right?
+Wants to: become rich
+Skills: ['Born leader', 'Bionic leg', 'Silent move']
+Flaws: []
+Liked by: []
+Disliked by: ['Robert Lewis']
+Awards: []
+Remarks: ['Wounded in combat 2018-05-08', 'Killed in action 2018-05-17']
+Legacy: Fond memories in the minds of his friends
+
+Name: Lyle Mier
+Age: 27
+Rank: Corporal
+Squad: squad137
+Battles: 2
+Personality: Nihilist
+Favorite food: ploin fruit
+Wants to: die for the Emperor
+Skills: ['Awesome scar', 'Sound judgement']
+Flaws: ['Dumb', 'Unbearable guilt']
+Liked by: ['Matthew Curtis', 'Juan Newitt']
+Disliked by: ['Edward Mclaughlin']
+Awards: []
+Remarks: ['Wounded in combat 2018-05-08', 'Promoted to Corporal 2018-05-08', 'Killed in action 2018-05-17']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: Edward Matthey
+Age: 19
+Rank: Cadet
+Squad: squad137
+Battles: 2
+Personality: Joker
+Favorite food: reprocessed grox meat
+Wants to: acquire knowledge
+Skills: []
+Flaws: ['Paranoid']
+Liked by: []
+Disliked by: []
+Awards: []
+Remarks: ['Demoted to Cadet 2018-05-08', 'Killed in action 2018-05-17']
+Legacy: Inscription on a nearby ruin
+
+Name: Randy Ramos
+Age: 19
+Rank: Guardsman
+Squad: squad137
+Battles: 1
+Personality: Sensible
+Favorite food: ration biscuits
+Wants to: make a difference
+Skills: ['Street fighter', 'Rapid reload']
+Flaws: []
+Liked by: ['Juan Newitt']
+Disliked by: []
+Awards: []
+Remarks: ['Killed in action 2018-05-17']
+Legacy: A tombstone amongst thousands
+
+Name: Joe Littlefield
+Age: 22
+Rank: Corporal
+Squad: Scions738
+Battles: 2
+Personality: Leech
+Favorite food: ploin fruit
+Wants to: eat like a king
+Skills: ['Hardy', 'Street fighter']
+Flaws: ['Allergies', 'Oblivious']
+Liked by: []
+Disliked by: ['Gregory Valentine', 'Peter Bell']
+Awards: []
+Remarks: ['Killed in action 2018-05-22']
+Legacy: Fond memories in the minds of his friends
+
+Name: Charles Mailloux
+Age: 28
+Rank: Corporal
+Squad: Scions738
+Battles: 2
+Personality: Loner
+Favorite food: reprocessed grox meat
+Wants to: just get five god damn minutes of peace and quiet for once
+Skills: ['Observant']
+Flaws: ['Paranoid', 'Basically deaf']
+Liked by: ['Zachary Rountree']
+Disliked by: ['Jimmy Jeanlouis']
+Awards: []
+Remarks: ['Killed in action 2018-05-22']
+Legacy: Cross with oath tag draped over it
+
+Name: Brent Brigman
+Age: 20
+Rank: Lance Corporal
+Squad: Scions738
+Battles: 2
+Personality: Optimist
+Favorite food: reprocessed grox meat
+Wants to: survive
+Skills: ['Bionic eye', 'Cook', 'Zealous']
+Flaws: []
+Liked by: ['Peter Bell', 'Joe Littlefield', 'Ryan Tisdale']
+Disliked by: ['Steven Garcia', 'Gregory Valentine']
+Awards: []
+Remarks: ['Promoted to Lance Corporal 2018-05-17', 'Killed in action 2018-05-22']
+Legacy: Cross with oath tag draped over it
+
+Name: Frederick Morgan
+Age: 27
+Rank: Sergeant
+Squad: squad382
+Battles: 3
+Personality: Superstitious
+Favorite food: hydro fungus
+Wants to: bring honor to their family
+Skills: ['Street fighter', 'Sound judgement', 'Foresight']
+Flaws: ['Tainted', 'Concussion', 'Unbearable guilt']
+Liked by: []
+Disliked by: ['David Vice', 'Rudolf Tran']
+Awards: ['Triple Skull', 'Macharian Cross']
+Remarks: ['Wounded in combat 2018-05-08', 'Awarded the Triple Skull 2018-05-08', 'Awarded the Macharian Cross 2018-05-17', 'Killed in action 2018-05-22']
+Legacy: Fond memories in the minds of his friends
+
+Name: Stephen Kuhlman
+Age: 24
+Rank: Corporal
+Squad: squad382
+Battles: 2
+Personality: Never bathes
+Favorite food: ploin fruit
+Wants to: just get five god damn minutes of peace and quiet for once
+Skills: ['Born leader', 'Heightened senses']
+Flaws: ['Old wound', 'Pacifist']
+Liked by: ['Justin Hamilton']
+Disliked by: ['Jeff Latham']
+Awards: []
+Remarks: ['Promoted to Corporal 2018-05-17', 'Killed in action 2018-05-22']
+Legacy: Cross with oath tag draped over it
+
+Name: Brian Woodward
+Age: 19
+Rank: Corporal
+Squad: squad382
+Battles: 2
+Personality: Affable
+Favorite food: amasec is a food, right?
+Wants to: marry a distant paramour
+Skills: ['Good looking', 'Ambidextrous']
+Flaws: []
+Liked by: []
+Disliked by: []
+Awards: []
+Remarks: ['Promoted to Corporal 2018-05-17', 'Killed in action 2018-05-22']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: James Rodgers
+Age: 19
+Rank: Corporal
+Squad: squad68
+Battles: 3
+Personality: Optimist
+Favorite food: reprocessed grox meat
+Wants to: just get five god damn minutes of peace and quiet for once
+Skills: ['Unshakeable pride', 'Sound judgement']
+Flaws: ['Awkward', 'Bad back']
+Liked by: []
+Disliked by: ['William Wilson', 'Terry Caldwell']
+Awards: []
+Remarks: ['Wounded in combat 2018-05-08', 'Promoted to Corporal 2018-05-17', 'Killed in action 2018-05-22']
+Legacy: Anonymous sacrifice
+
+Name: Michael Le
+Age: 18
+Rank: Cadet
+Squad: squad137
+Battles: 1
+Personality: Green
+Favorite food: ploin fruit
+Wants to: get back to the good old days
+Skills: ['Bionic eye', 'Bionic eye']
+Flaws: []
+Liked by: []
+Disliked by: []
+Awards: []
+Remarks: ['Killed in action 2018-05-22']
+Legacy: Fond memories in the minds of his friends
+
+Name: Jimmie Armenta
+Age: 18
+Rank: Cadet
+Squad: squad137
+Battles: 2
+Personality: Green
+Favorite food: amasec is a food, right?
+Wants to: kill heretics
+Skills: ['Good sense of direction', 'Unarmed warrior']
+Flaws: []
+Liked by: ['Edward Mclaughlin']
+Disliked by: []
+Awards: []
+Remarks: ['Killed in action 2018-05-26']
+Legacy: A tombstone amongst thousands
+
+Name: Edward Mclaughlin
+Age: 18
+Rank: Guardsman
+Squad: squad137
+Battles: 4
+Personality: Braggart
+Favorite food: corpse-starch
+Wants to: get promoted
+Skills: ['Cook', 'Bionic eye']
+Flaws: ['Unbearable guilt', 'Coward', 'Flashbacks']
+Liked by: ['Daniel Coffey']
+Disliked by: ['Michael Reaves']
+Awards: []
+Remarks: ['Wounded in combat 2018-05-17', 'Killed in action 2018-05-26']
+Legacy: Fond memories in the minds of his friends
+
+Name: Walter Simpson
+Age: 23
+Rank: Guardsman
+Squad: squad137
+Battles: 2
+Personality: Nihilist
+Favorite food: corpse-starch
+Wants to: just get five god damn minutes of peace and quiet for once
+Skills: ['Unarmed warrior', 'Lateral thinker', 'Survivalist']
+Flaws: ['Addict']
+Liked by: []
+Disliked by: []
+Awards: []
+Remarks: ['Wounded in combat 2018-05-22', 'Killed in action 2018-05-26']
+Legacy: Inscription on a comrade's weapon
+
+Name: Daniel Wilt
+Age: 21
+Rank: Lance Corporal
+Squad: squad68
+Battles: 3
+Personality: Backwater
+Favorite food: hydro fungus
+Wants to: write a book
+Skills: ['Beard', 'Tinkerer']
+Flaws: []
+Liked by: []
+Disliked by: ['Jonathan Meadors']
+Awards: []
+Remarks: ['Promoted to Corporal 2018-05-17', 'Promoted to Lance Corporal 2018-05-22', 'Killed in action 2018-05-26']
+Legacy: Vengeful relative
+
+Name: Jonathan Hebner
+Age: 25
+Rank: Guardsman
+Squad: squad68
+Battles: 1
+Personality: Sarcastic
+Favorite food: hydro fungus
+Wants to: travel the world
+Skills: ['Lightning reflexes', 'Lucky']
+Flaws: ['Clumsy']
+Liked by: []
+Disliked by: []
+Awards: []
+Remarks: ['Killed in action 2018-05-26']
+Legacy: Cross with oath tag draped over it
+
+Name: Zachary Rountree
+Age: 23
+Rank: Corporal
+Squad: scions738
+Battles: 3
+Personality: Thief
+Favorite food: ploin fruit
+Wants to: desert at the first opportunity
+Skills: ['Hard target', 'Patient', 'Unarmed warrior']
+Flaws: ['Unlucky', 'Dumb']
+Liked by: []
+Disliked by: ['Peter Bell', 'Steven Garcia', 'Gregory Valentine']
+Awards: []
+Remarks: ['Wounded in combat 2018-05-22', 'Killed in action 2018-05-26']
+Legacy: Cross with oath tag draped over it
+
+Name: Marshall Lord
+Age: 22
+Rank: Guardsman
+Squad: scions738
+Battles: 1
+Personality: Nihilist
+Favorite food: recaf beans
+Wants to: become rich
+Skills: []
+Flaws: ['Awkward', 'Dumb']
+Liked by: []
+Disliked by: []
+Awards: []
+Remarks: ['Killed in action 2018-05-26']
+Legacy: Anonymous sacrifice
+
+Name: James Schroeder
+Age: 24
+Rank: Guardsman
+Squad: scions738
+Battles: 1
+Personality: Slacker
+Favorite food: corpse-starch
+Wants to: survive
+Skills: ['Good looking']
+Flaws: ['Pacifist', 'Dumb']
+Liked by: []
+Disliked by: ['Steven Garcia']
+Awards: []
+Remarks: ['Killed in action 2018-05-26']
+Legacy: Anonymous sacrifice
+
+Name: Ryan Tisdale
+Age: 23
+Rank: Corporal
+Squad: scions738
+Battles: 3
+Personality: Optimist
+Favorite food: ration biscuits
+Wants to: survive
+Skills: ['Nerves of steel', 'Foresight', 'Die hard', 'Ambidextrous']
+Flaws: ['Insomniac', 'Overweight']
+Liked by: ['Peter Bell']
+Disliked by: []
+Awards: []
+Remarks: ['Killed in action 2018-05-26']
+Legacy: Inscription on a nearby ruin
+
+Name: Davis Burkley
+Age: 28
+Rank: Guardsman
+Squad: HWP84
+Battles: 4
+Personality: Numb
+Favorite food: ploin fruit
+Wants to: protect a friend
+Skills: ['Unshakeable pride', 'Handyman']
+Flaws: ['Dyslexic', 'Death-wish']
+Liked by: ['Robert Boggan']
+Disliked by: ['Antonio Edwards', 'Herb Wendt', 'Rene Winesett']
+Awards: []
+Remarks: ['Killed in action 2018-05-26']
+Legacy: Fond memories in the minds of his friends
+
+Name: Herb Wendt
+Age: 27
+Rank: Guardsman
+Squad: HWP84
+Battles: 4
+Personality: Boisterous
+Favorite food: amasec is a food, right?
+Wants to: be remembered
+Skills: ['Sound judgement', 'Unshakeable pride']
+Flaws: []
+Liked by: []
+Disliked by: ['Davis Burkley']
+Awards: []
+Remarks: ['Killed in action 2018-05-26']
+Legacy: Inscription on a comrade's weapon
+
+Name: Antonio Edwards
+Age: 18
+Rank: Lance Corporal
+Squad: HWP84
+Battles: 4
+Personality: Never bathes
+Favorite food: ploin fruit
+Wants to: transfer to a different regiment
+Skills: ['Survivalist', 'Unshakeable pride']
+Flaws: ['Death-wish']
+Liked by: ['Rene Winesett']
+Disliked by: ['Robert Boggan', 'Jose Coplan']
+Awards: []
+Remarks: ['Promoted to Corporal 2018-05-17', 'Promoted to Lance Corporal 2018-05-22', 'Killed in action 2018-05-26']
+Legacy: Cross with oath tag draped over it
+
+Name: Jose Coplan
+Age: 22
+Rank: Guardsman
+Squad: HWP84
+Battles: 3
+Personality: Dissenter
+Favorite food: amasec is a food, right?
+Wants to: make a difference
+Skills: ['Hardy']
+Flaws: []
+Liked by: []
+Disliked by: ['Davis Burkley']
+Awards: []
+Remarks: ['Killed in action 2018-05-26']
+Legacy: Inscription on a nearby ruin
+
+Name: Robert Boggan
+Age: 22
+Rank: Guardsman
+Squad: HWP84
+Battles: 4
+Personality: Spiteful
+Favorite food: corpse-starch
+Wants to: make it home
+Skills: ['Unremarkable']
+Flaws: []
+Liked by: ['Rene Winesett']
+Disliked by: ['Antonio Edwards', 'Jose Coplan', 'Herb Wendt']
+Awards: []
+Remarks: ['Killed in action 2018-05-26']
+Legacy: Cross with oath tag draped over it
+
+Name: Edmond Battle
+Age: 26
+Rank: Corporal
+Squad: RussD668
+Battles: 3
+Personality: Loose cannon
+Favorite food: protein paste
+Wants to: start a family
+Skills: ['Athlete', 'Observant']
+Flaws: ['Pacifist', 'Careless']
+Liked by: ['Donald Troup', 'Williams Anderson']
+Disliked by: ['Byron Ordonez']
+Awards: []
+Remarks: ['Promoted to Corporal 2018-05-22', 'Killed in action 2018-05-26']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: Williams Anderson
+Age: 20
+Rank: Guardsman
+Squad: RussD668
+Battles: 3
+Personality: Pious
+Favorite food: corpse-starch
+Wants to: make it home
+Skills: ['Cautious', 'Observant']
+Flaws: ['Weak', 'Weak']
+Liked by: ['Dana Ellis']
+Disliked by: ['Donald Troup']
+Awards: []
+Remarks: ['Killed in action 2018-05-26']
+Legacy: Vengeful relative
+
+Name: Stanley Creasy
+Age: 23
+Rank: Corporal
+Squad: RussD668
+Battles: 3
+Personality: Loose cannon
+Favorite food: recaf beans
+Wants to: redeem themselves
+Skills: ['Combat master', 'Bald', 'Beard']
+Flaws: []
+Liked by: []
+Disliked by: ['Edmond Battle', 'Williams Anderson']
+Awards: []
+Remarks: ['Promoted to Corporal 2018-05-22', 'Killed in action 2018-05-26']
+Legacy: Vengeful relative
+
+Name: Donald Troup
+Age: 28
+Rank: Guardsman
+Squad: RussD668
+Battles: 3
+Personality: Gambler
+Favorite food: amasec is a food, right?
+Wants to: get promoted
+Skills: ['Awesome scar']
+Flaws: ['Death-wish', 'Careless']
+Liked by: ['Williams Anderson', 'Byron Ordonez']
+Disliked by: ['Dana Ellis']
+Awards: []
+Remarks: ['Killed in action 2018-05-26']
+Legacy: Cross with oath tag draped over it
+
+Name: James Regalado
+Age: 21
+Rank: Lance Corporal
+Squad: command679
+Battles: 4
+Personality: Affable
+Favorite food: ration biscuits
+Wants to: set a record
+Skills: ['Crack shot', 'Nerves of steel']
+Flaws: ['Pacifist', 'Poor discipline']
+Liked by: ['Chad Hugill', 'James Miller']
+Disliked by: ['Joseph Hoffstetter']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Promoted to Lance Corporal 2018-05-26', 'Killed in action 2018-05-30']
+Legacy: A tombstone amongst thousands
+
+Name: Joseph Hoffstetter
+Age: 23
+Rank: Sergeant
+Squad: command679
+Battles: 4
+Personality: Talkative
+Favorite food: recaf beans
+Wants to: survive
+Skills: ['Heightened senses', 'Sound judgement', 'Good sense of direction']
+Flaws: ['Clumsy', 'Dumb']
+Liked by: []
+Disliked by: ['James Miller']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Promoted to Lance Corporal 2018-05-08', 'Promoted to Sergeant 2018-05-26', 'Killed in action 2018-05-30']
+Legacy: Vengeful relative
+
+Name: Ross Calicott
+Age: 23
+Rank: Guardsman
+Squad: HWP84
+Battles: 1
+Personality: Gambler
+Favorite food: ration biscuits
+Wants to: transfer to a different regiment
+Skills: []
+Flaws: ['Allergies', 'Overweight']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Killed in action 2018-05-30']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: Rene Winesett
+Age: 18
+Rank: Corporal
+Squad: HWP84
+Battles: 5
+Personality: Sensible
+Favorite food: ration biscuits
+Wants to: earn the respect of their comrades
+Skills: ['Street fighter', 'Bionic leg']
+Flaws: ['Old wound', 'Dyslexic']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Medallion Crimson', 'Triple Skull']
+Remarks: ['Wounded in combat 2018-05-26', 'Awarded the Medallion Crimson 2018-05-26', 'Promoted to Corporal 2018-05-26', 'Awarded the Triple Skull 2018-05-26', 'Killed in action 2018-05-30']
+Legacy: Inscription on an overgrown memorial plaque
+
+Name: Charles Pass
+Age: 21
+Rank: Guardsman
+Squad: RussD668
+Battles: 1
+Personality: Boisterous
+Favorite food: reprocessed grox meat
+Wants to: travel the world
+Skills: []
+Flaws: []
+Liked by: []
+Disliked by: ['William Kelly']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Killed in action 2018-05-30']
+Legacy: Anonymous sacrifice
+
+Name: Claude Catalan
+Age: 20
+Rank: Guardsman
+Squad: RussD668
+Battles: 1
+Personality: Backwater
+Favorite food: ration biscuits
+Wants to: become a movie star
+Skills: ['Combat master']
+Flaws: ['Insomniac']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Killed in action 2018-05-30']
+Legacy: Cross with oath tag draped over it
+
+Name: Arthur Cisneros
+Age: 28
+Rank: Guardsman
+Squad: RussD668
+Battles: 1
+Personality: Steely
+Favorite food: recaf beans
+Wants to: make it home
+Skills: ['Unshakeable faith']
+Flaws: ['Poor discipline', 'Dumb']
+Liked by: ['Byron Ordonez']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Killed in action 2018-05-30']
+Legacy: Inscription on a comrade's weapon
+
+Name: Dana Ellis
+Age: 21
+Rank: Lance Corporal
+Squad: RussD668
+Battles: 4
+Personality: Incompetent
+Favorite food: reprocessed grox meat
+Wants to: eat like a king
+Skills: ['Foresight']
+Flaws: ['Flat footed', 'Ugly', 'Unbearable guilt']
+Liked by: ['Byron Ordonez']
+Disliked by: ['William Kelly']
+Confirmed kills: 0
+Awards: ['Triple Skull']
+Remarks: ['Promoted to Corporal 2018-05-22', 'Wounded in combat 2018-05-26', 'Promoted to Lance Corporal 2018-05-26', 'Awarded the Triple Skull 2018-05-26', 'Killed in action 2018-05-30']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: Cecil Chadwick
+Age: 27
+Rank: Corporal
+Squad: Scions738
+Battles: 1
+Personality: Strict
+Favorite food: amasec is a food, right?
+Wants to: make it home
+Skills: ['Athlete', 'Combat master']
+Flaws: ['Addict', 'Fragile']
+Liked by: ['Brandon Clegg']
+Disliked by: ['David White', 'John Adams']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Killed in action 2018-05-30']
+Legacy: Fond memories in the minds of his friends
+
+Name: Jeff Rann
+Age: 26
+Rank: Guardsman
+Squad: Scions738
+Battles: 2
+Personality: Dreamer
+Favorite food: ration biscuits
+Wants to: make a difference
+Skills: ['Bald']
+Flaws: ['Tainted', 'Death-wish']
+Liked by: ['Peter Bell']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Killed in action 2018-05-30']
+Legacy: A tombstone amongst thousands
+
+Name: Peter Bell
+Age: 22
+Rank: Corporal
+Squad: Scions738
+Battles: 4
+Personality: Gambler
+Favorite food: reprocessed grox meat
+Wants to: get back to the good old days
+Skills: ['Bulging biceps', 'Unremarkable', 'Trustworthy', 'Good looking', 'Bionic leg']
+Flaws: ['Paranoid']
+Liked by: ['Steven Garcia']
+Disliked by: ['Gregory Valentine']
+Confirmed kills: 0
+Awards: ['Medallion Crimson']
+Remarks: ['Wounded in combat 2018-05-17', 'Awarded the Medallion Crimson 2018-05-17', 'Killed in action 2018-05-30']
+Legacy: Fond memories in the minds of his friends
+
+Name: Ray Hudson
+Age: 22
+Rank: Guardsman
+Squad: squad68
+Battles: 5
+Personality: Narcissist
+Favorite food: corpse-starch
+Wants to: eat like a king
+Skills: ['Sound judgement', 'Hard target', 'Lightning reflexes']
+Flaws: ['Awkward', 'Slow', 'Missing eye', 'Mostly deaf']
+Liked by: ['William Wilson']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Wounded in combat 2018-05-08', 'Wounded in combat 2018-05-22', 'Killed in action 2018-05-30']
+Legacy: Cross with oath tag draped over it
+
+Name: Terry Caldwell
+Age: 27
+Rank: Guardsman
+Squad: squad68
+Battles: 4
+Personality: Loose cannon
+Favorite food: ration biscuits
+Wants to: survive
+Skills: ['Ambidextrous', 'Observant', 'Good sense of direction']
+Flaws: ['Death-wish', 'Basically deaf']
+Liked by: ['Ray Hudson', 'Dwight Goodwin']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Killed in action 2018-05-30']
+Legacy: A tombstone amongst thousands
+
+Name: Ray Martinez
+Age: 25
+Rank: Guardsman
+Squad: squad68
+Battles: 1
+Personality: Spiteful
+Favorite food: protein paste
+Wants to: get back to the good old days
+Skills: ['Bald']
+Flaws: []
+Liked by: []
+Disliked by: ['Terry Caldwell']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Killed in action 2018-05-30']
+Legacy: Inscription on a comrade's weapon
+
+Name: Kyle Zimmerman
+Age: 27
+Rank: Corporal
+Squad: squad68
+Battles: 4
+Personality: Smooth
+Favorite food: hydro fungus
+Wants to: transfer to a different regiment
+Skills: ['Bionic eye', 'Bionic leg', 'Observant']
+Flaws: ['Clumsy', 'Addict']
+Liked by: ['Jonathan Meadors']
+Disliked by: ['Jonathan Meadors']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Promoted to Corporal 2018-05-26', 'Killed in action 2018-05-30']
+Legacy: Inscription on a nearby ruin
+
+Name: Jonathan Meadors
+Age: 27
+Rank: Guardsman
+Squad: squad68
+Battles: 4
+Personality: Twitchy
+Favorite food: protein paste
+Wants to: earn the respect of their superiors
+Skills: ['Quick draw', 'Mustache', 'Rapid reload']
+Flaws: []
+Liked by: ['Kyle Zimmerman', 'Fred Hudgins']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Killed in action 2018-05-30']
+Legacy: A tombstone amongst thousands
+
+Name: Larry Murrell
+Age: 19
+Rank: Corporal
+Squad: squad68
+Battles: 5
+Personality: Joker
+Favorite food: amasec is a food, right?
+Wants to: bring honor to their family
+Skills: ['Hard target', 'Lightning reflexes', 'Unshakeable pride']
+Flaws: []
+Liked by: ['Jonathan Meadors', 'Kyle Zimmerman']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Wounded in combat 2018-05-08', 'Promoted to Corporal 2018-05-17', 'Wounded in combat 2018-05-22', 'Killed in action 2018-05-30']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: Boyce Mcmahan
+Age: 20
+Rank: Corporal
+Squad: squad68
+Battles: 4
+Personality: Never bathes
+Favorite food: amasec is a food, right?
+Wants to: desert at the first opportunity
+Skills: ['Die hard', 'Zealous', 'Street fighter']
+Flaws: ['Fragile']
+Liked by: []
+Disliked by: ['Dwight Goodwin']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Promoted to Corporal 2018-05-22', 'Killed in action 2018-05-30']
+Legacy: Cross with oath tag draped over it
+
+Name: Robert Lewis
+Age: 22
+Rank: Corporal
+Squad: squad137
+Battles: 5
+Personality: Mentor
+Favorite food: recaf beans
+Wants to: make it home
+Skills: ['Street fighter', 'Awesome scar']
+Flaws: ['Illiterate', 'Nightmares']
+Liked by: ['Matthew Curtis']
+Disliked by: ['Jack Odom']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Wounded in combat 2018-05-08', 'Promoted to Lance Corporal 2018-05-08', 'Wounded in combat 2018-05-17', 'Demoted to Corporal 2018-05-22', 'Wounded in combat 2018-05-26', 'Killed in action 2018-05-30']
+Legacy: Cross with oath tag draped over it
+
+Name: Christopher Barden
+Age: 25
+Rank: Guardsman
+Squad: squad137
+Battles: 1
+Personality: Leech
+Favorite food: ploin fruit
+Wants to: kill heretics
+Skills: []
+Flaws: ['Hesitant', 'Weak']
+Liked by: []
+Disliked by: ['William Doss']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Killed in action 2018-05-30']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: Daniel Coffey
+Age: 27
+Rank: Guardsman
+Squad: squad137
+Battles: 3
+Personality: Loyal
+Favorite food: ploin fruit
+Wants to: serve up a cold plate of vengeance
+Skills: ['Nerves of steel', 'Unremarkable']
+Flaws: ['Poor health']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Wounded in combat 2018-05-26', 'Killed in action 2018-05-30']
+Legacy: Cross with oath tag draped over it
+
+Name: Matthew Curtis
+Age: 23
+Rank: Guardsman
+Squad: squad137
+Battles: 5
+Personality: Loner
+Favorite food: ploin fruit
+Wants to: earn the respect of their superiors
+Skills: ['Die hard', 'Ambidextrous']
+Flaws: ['Paranoid']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Wounded in combat 2018-05-17', 'Promoted to Corporal 2018-05-17', 'Wounded in combat 2018-05-22', 'Demoted to Guardsman 2018-05-26', 'Killed in action 2018-05-30']
+Legacy: Cross with oath tag draped over it
+
+Name: Jack Odom
+Age: 18
+Rank: Cadet
+Squad: squad137
+Battles: 3
+Personality: Green
+Favorite food: protein paste
+Wants to: travel the world
+Skills: ['Good sense of direction', 'Bulging biceps', 'Foresight']
+Flaws: ['Dyslexic', 'Pacifist', 'Death-wish']
+Liked by: ['Robert Lewis']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Wounded in combat 2018-05-26', 'Killed in action 2018-05-30']
+Legacy: Vengeful relative
+
+Name: Michael Reaves
+Age: 20
+Rank: Guardsman
+Squad: squad137
+Battles: 2
+Personality: Backwater
+Favorite food: ploin fruit
+Wants to: transfer to a different regiment
+Skills: ['Quick draw', 'Combat master', 'Good sense of direction']
+Flaws: ['Tainted', 'Old wound', 'Shell-shock']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Wounded in combat 2018-05-26', 'Killed in action 2018-05-30']
+Legacy: Inscription on a comrade's weapon
+
+Name: William Doss
+Age: 25
+Rank: Guardsman
+Squad: squad137
+Battles: 1
+Personality: Nihilist
+Favorite food: reprocessed grox meat
+Wants to: transfer to a different regiment
+Skills: []
+Flaws: ['Short temper', 'Overweight']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Killed in action 2018-05-30']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: Manuel Haynes
+Age: 44
+Rank: Guardsman
+Squad: squad137
+Battles: 1
+Personality: Smooth
+Favorite food: reprocessed grox meat
+Wants to: learn to fly
+Skills: []
+Flaws: ['Short temper']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Killed in action 2018-05-30']
+Legacy: Anonymous sacrifice
+
+Name: Justin Hamilton
+Age: 18
+Rank: Corporal
+Squad: squad382
+Battles: 4
+Personality: Narcissist
+Favorite food: amasec is a food, right?
+Wants to: protect a friend
+Skills: ['Sound judgement', 'Trustworthy']
+Flaws: []
+Liked by: []
+Disliked by: ['Sammy Grieb']
+Confirmed kills: 0
+Awards: ['Macharian Cross', 'Ribbon Intrinsic']
+Remarks: ['Awarded the Macharian Cross 2018-05-17', 'Wounded in combat 2018-05-22', 'Promoted to Corporal 2018-05-22', 'Awarded the Ribbon Intrinsic 2018-05-22', 'Killed in action 2018-05-30']
+Legacy: Vengeful relative
+
+Name: Daniel Cook
+Age: 21
+Rank: Corporal
+Squad: squad382
+Battles: 4
+Personality: Jaded
+Favorite food: reprocessed grox meat
+Wants to: become a movie star
+Skills: ['Unshakeable pride', 'Beard']
+Flaws: []
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Ribbon Intrinsic']
+Remarks: ['Promoted to Corporal 2018-05-22', 'Awarded the Ribbon Intrinsic 2018-05-22', 'Killed in action 2018-05-30']
+Legacy: Vengeful relative
+
+Name: Jeff Latham
+Age: 26
+Rank: Guardsman
+Squad: squad382
+Battles: 4
+Personality: Numb
+Favorite food: ration biscuits
+Wants to: acquire knowledge
+Skills: ['Heightened senses', 'Foresight']
+Flaws: ['Short temper', 'Mostly deaf', 'Nightmares']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Ribbon Intrinsic']
+Remarks: ['Wounded in combat 2018-05-22', 'Awarded the Ribbon Intrinsic 2018-05-22', 'Killed in action 2018-05-30']
+Legacy: Fond memories in the minds of his friends
+
+Name: Sammy Grieb
+Age: 19
+Rank: Corporal
+Squad: squad382
+Battles: 2
+Personality: Loyal
+Favorite food: recaf beans
+Wants to: travel the world
+Skills: ['Good sense of direction', 'Born leader']
+Flaws: ['Overweight', 'Overweight']
+Liked by: ['Rudolf Tran', 'William Drouin']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Promoted to Corporal 2018-05-26', 'Killed in action 2018-05-30']
+Legacy: Inscription on a comrade's weapon
+
+Name: Thomas Sutton
+Age: 20
+Rank: Lance Corporal
+Squad: command679
+Battles: 6
+Personality: Loner
+Favorite food: protein paste
+Wants to: desert at the first opportunity
+Skills: ['Die hard', 'Rapid reload', 'Cautious']
+Flaws: ['Shell-shock', 'Flashbacks', 'Old wound']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Triple Skull', 'Service Badge']
+Remarks: ['Promoted to Corporal 2018-05-17', 'Wounded in combat 2018-05-26', 'Promoted to Lance Corporal 2018-05-26', 'Wounded in combat 2018-05-30', 'Awarded the Triple Skull 2018-05-30', 'Awarded the Service Badge 2018-05-30', 'Transferred to command679 from squad137 2018-05-31', 'Killed in action 2018-06-05']
+Legacy: Cross with oath tag draped over it
+
+Name: James Huff
+Age: 26
+Rank: Guardsman
+Squad: RussD668
+Battles: 1
+Personality: Leech
+Favorite food: recaf beans
+Wants to: start a family
+Skills: []
+Flaws: []
+Liked by: ['Donnie Lane']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-05-30', 'Killed in action 2018-06-05']
+Legacy: Inscription on a comrade's weapon
+
+Name: David Barajas
+Age: 24
+Rank: Guardsman
+Squad: squad68
+Battles: 1
+Personality: Affable
+Favorite food: ration biscuits
+Wants to: acquire knowledge
+Skills: []
+Flaws: []
+Liked by: ['Cameron Sims']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-05-30', 'Killed in action 2018-06-05']
+Legacy: A tombstone amongst thousands
+
+Name: David Stinchcomb
+Age: 20
+Rank: Guardsman
+Squad: squad68
+Battles: 1
+Personality: Steely
+Favorite food: amasec is a food, right?
+Wants to: survive
+Skills: ['Patient']
+Flaws: ['Coward', 'Ugly']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-05-30', 'Killed in action 2018-06-05']
+Legacy: Cross with oath tag draped over it
+
+Name: John Paul
+Age: 28
+Rank: Guardsman
+Squad: squad68
+Battles: 1
+Personality: Pessimist
+Favorite food: ploin fruit
+Wants to: sleep in
+Skills: ['Bionic eye']
+Flaws: ['Weak']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-05-30', 'Killed in action 2018-06-05']
+Legacy: Fond memories in the minds of his friends
+
+Name: Rogelio Smith
+Age: 24
+Rank: Guardsman
+Squad: squad68
+Battles: 1
+Personality: Gambler
+Favorite food: protein paste
+Wants to: die for the Emperor
+Skills: ['Handyman', 'Hardy']
+Flaws: ['Old wound', 'Bad back']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-05-30', 'Killed in action 2018-06-05']
+Legacy: Fond memories in the minds of his friends
+
+Name: James Barrow
+Age: 26
+Rank: Guardsman
+Squad: squad68
+Battles: 1
+Personality: Never bathes
+Favorite food: recaf beans
+Wants to: become rich
+Skills: ['Rapid reload', 'Bookworm']
+Flaws: ['Allergies']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-05-30', 'Killed in action 2018-06-05']
+Legacy: Anonymous sacrifice
+
+Name: Brandon Jochum
+Age: 18
+Rank: Guardsman
+Squad: squad68
+Battles: 1
+Personality: Smooth
+Favorite food: amasec is a food, right?
+Wants to: protect a friend
+Skills: ['Handyman']
+Flaws: ['Oblivious', 'Ugly']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-05-30', 'Killed in action 2018-06-05']
+Legacy: Anonymous sacrifice
+
+Name: Thomas Adleman
+Age: 16
+Rank: Cadet
+Squad: squad68
+Battles: 1
+Personality: Green
+Favorite food: corpse-starch
+Wants to: survive
+Skills: ['Unarmed warrior']
+Flaws: []
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-05-30', 'Killed in action 2018-06-05']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: Richard Connell
+Age: 23
+Rank: Guardsman
+Squad: squad137
+Battles: 1
+Personality: Loose cannon
+Favorite food: corpse-starch
+Wants to: kill heretics
+Skills: ['Bionic eye']
+Flaws: ['Poor discipline', 'Basically deaf']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-05-30', 'Killed in action 2018-06-05']
+Legacy: Inscription on a nearby ruin
+
+Name: Gary Smith
+Age: 26
+Rank: Guardsman
+Squad: squad137
+Battles: 1
+Personality: Nihilist
+Favorite food: protein paste
+Wants to: make it home
+Skills: ['Cautious']
+Flaws: ['Flat footed', 'Dumb']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-05-30', 'Killed in action 2018-06-05']
+Legacy: Cross with oath tag draped over it
+
+Name: Charles Weiss
+Age: 23
+Rank: Guardsman
+Squad: squad137
+Battles: 1
+Personality: Sarcastic
+Favorite food: corpse-starch
+Wants to: earn the respect of their superiors
+Skills: ['Quick draw']
+Flaws: []
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-05-30', 'Killed in action 2018-06-05']
+Legacy: Cross with oath tag draped over it
+
+Name: Alex Weatherill
+Age: 28
+Rank: Guardsman
+Squad: squad137
+Battles: 1
+Personality: Never bathes
+Favorite food: hydro fungus
+Wants to: desert at the first opportunity
+Skills: ['Heightened senses']
+Flaws: ['Flat footed', 'Hesitant']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-05-30', 'Killed in action 2018-06-05']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: Edward Lafond
+Age: 27
+Rank: Guardsman
+Squad: squad137
+Battles: 1
+Personality: Incompetent
+Favorite food: reprocessed grox meat
+Wants to: survive
+Skills: ['Lateral thinker', 'Quick draw']
+Flaws: ['Unlucky', 'Poor discipline']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-05-30', 'Killed in action 2018-06-05']
+Legacy: Inscription on a comrade's weapon
+
+Name: Charles Riera
+Age: 18
+Rank: Guardsman
+Squad: squad137
+Battles: 1
+Personality: Narcissist
+Favorite food: hydro fungus
+Wants to: survive
+Skills: ['Tireless']
+Flaws: ['Short temper', 'Bad eyesight']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-05-30', 'Killed in action 2018-06-05']
+Legacy: Inscription on a nearby ruin
+
+Name: Ray Brooks
+Age: 27
+Rank: Corporal
+Squad: Scions738
+Battles: 1
+Personality: Narcissist
+Favorite food: protein paste
+Wants to: make a difference
+Skills: ['Lightning reflexes', 'Combat master']
+Flaws: ['Asthma', 'Clumsy']
+Liked by: []
+Disliked by: ['Joseph Tesh']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-05', 'Killed in action 2018-06-08']
+Legacy: Cross with oath tag draped over it
+
+Name: Brandon Clegg
+Age: 21
+Rank: Lance Corporal
+Squad: Scions738
+Battles: 3
+Personality: Loner
+Favorite food: ploin fruit
+Wants to: start a business
+Skills: ['Born leader', 'Ambidextrous']
+Flaws: ['Awkward', 'Oblivious']
+Liked by: []
+Disliked by: ['David White']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Wounded in combat 2018-05-30', 'Promoted to Lance Corporal 2018-05-30', 'Killed in action 2018-06-08']
+Legacy: Inscription on a nearby ruin
+
+Name: Edward Parilla
+Age: 18
+Rank: Guardsman
+Squad: squad137
+Battles: 1
+Personality: Optimist
+Favorite food: ploin fruit
+Wants to: eat like a king
+Skills: ['Beard']
+Flaws: []
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-05', 'Killed in action 2018-06-08']
+Legacy: Fond memories in the minds of his friends
+
+Name: James Davis
+Age: 22
+Rank: Guardsman
+Squad: squad382
+Battles: 2
+Personality: Mentor
+Favorite food: reprocessed grox meat
+Wants to: impress the commissar
+Skills: ['Unarmed warrior', 'Handyman']
+Flaws: ['Concussion']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-05-30', 'Wounded in combat 2018-06-05', 'Killed in action 2018-06-08']
+Legacy: Inscription on a comrade's weapon
+
+Name: Benjamin Wofford
+Age: 20
+Rank: Guardsman
+Squad: squad382
+Battles: 2
+Personality: Nihilist
+Favorite food: ploin fruit
+Wants to: kill heretics
+Skills: ['Musician', 'Rapid reload', 'Survivalist']
+Flaws: ['Bad eyesight', 'Slow']
+Liked by: ['Danny Koetter']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-05-30', 'Killed in action 2018-06-08']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: William Drouin
+Age: 23
+Rank: Corporal
+Squad: squad382
+Battles: 6
+Personality: Spiteful
+Favorite food: reprocessed grox meat
+Wants to: protect a friend
+Skills: ['Cook', 'Street fighter']
+Flaws: ['Pacifist', 'Allergies', 'Flashbacks']
+Liked by: ['Rudolf Tran']
+Disliked by: ['Matthew Wellman', 'Danny Koetter']
+Confirmed kills: 0
+Awards: ['Ribbon Intrinsic', 'Service Badge']
+Remarks: ['Promoted to Corporal 2018-05-22', 'Awarded the Ribbon Intrinsic 2018-05-22', 'Awarded the Service Badge 2018-06-05', 'Killed in action 2018-06-08']
+Legacy: A tombstone amongst thousands
+
+Name: Curtis Hill
+Age: 25
+Rank: Lance Corporal
+Squad: squad382
+Battles: 6
+Personality: Numb
+Favorite food: reprocessed grox meat
+Wants to: make it home
+Skills: ['Die hard', 'Sound judgement']
+Flaws: ['Ugly']
+Liked by: ['Rudolf Tran', 'William Drouin']
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Ribbon Intrinsic', 'Service Badge']
+Remarks: ['Promoted to Corporal 2018-05-22', 'Awarded the Ribbon Intrinsic 2018-05-22', 'Wounded in combat 2018-05-30', 'Promoted to Lance Corporal 2018-06-05', 'Awarded the Service Badge 2018-06-05', 'Killed in action 2018-06-08']
+Legacy: Inscription on an overgrown memorial plaque
+
+Name: Rudolf Tran
+Age: 28
+Rank: Sergeant
+Squad: squad382
+Battles: 6
+Personality: Sarcastic
+Favorite food: reprocessed grox meat
+Wants to: travel the world
+Skills: ['Combat master', 'Heightened senses', 'Street fighter', 'Awesome scar', 'Trustworthy']
+Flaws: ['Death-wish']
+Liked by: ['Curtis Hill', 'Jayson Nelson', 'James Davis', 'William Drouin']
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Macharian Cross', 'Ribbon Intrinsic', 'Service Badge', 'Honorifica Imperialis']
+Remarks: ['Promoted to Corporal 2018-05-17', 'Awarded the Macharian Cross 2018-05-17', 'Promoted to Lance Corporal 2018-05-22', 'Awarded the Ribbon Intrinsic 2018-05-22', 'Wounded in combat 2018-05-30', 'Promoted to Sergeant 2018-05-30', 'Awarded the Service Badge 2018-06-05', 'Killed in action 2018-06-08', 'Posthumously awarded the Honorifica Imperialis 2018-06-09']
+Legacy: Local deity
+
+Name: Dwight Goodwin
+Age: 20
+Rank: Guardsman
+Squad: command679
+Battles: 6
+Personality: Backwater
+Favorite food: amasec is a food, right?
+Wants to: become rich
+Skills: ['Awesome scar', 'Awesome scar', 'Ambidextrous']
+Flaws: ['Coward']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Triple Skull', 'Service Badge']
+Remarks: ['Wounded in combat 2018-05-30', 'Awarded the Triple Skull 2018-05-30', 'Transferred to command679 from squad68 2018-05-31', 'Wounded in combat 2018-06-05', 'Awarded the Service Badge 2018-06-05', 'Killed in action 2018-06-11']
+Legacy: Vengeful relative
+
+Name: Antone Hirsch
+Age: 25
+Rank: Guardsman
+Squad: RussE440
+Battles: 4
+Personality: Obsessive
+Favorite food: recaf beans
+Wants to: earn the respect of their superiors
+Skills: ['Cautious', 'Hardy', 'Ambidextrous']
+Flaws: ['Tainted']
+Liked by: []
+Disliked by: ['Anthony Roman', 'Martin Campbell', 'Tyler Collins']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Killed in action 2018-06-11']
+Legacy: Inscription on a comrade's weapon
+
+Name: Isaac Humphrey
+Age: 22
+Rank: Guardsman
+Squad: RussE440
+Battles: 4
+Personality: Loner
+Favorite food: corpse-starch
+Wants to: become a sports star
+Skills: ['Good sense of direction', 'Athlete']
+Flaws: ['Unbearable guilt', 'Fragile']
+Liked by: ['Anthony Roman']
+Disliked by: ['Antone Hirsch']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Killed in action 2018-06-11']
+Legacy: Vengeful relative
+
+Name: Willie Kuhn
+Age: 27
+Rank: Guardsman
+Squad: squad68
+Battles: 2
+Personality: Optimist
+Favorite food: ration biscuits
+Wants to: set a record
+Skills: ['Bookworm']
+Flaws: ['Insomniac', 'Awkward']
+Liked by: []
+Disliked by: ['Cameron Sims']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-05', 'Killed in action 2018-06-11']
+Legacy: Inscription on a comrade's weapon
+
+Name: Jay Persing
+Age: 20
+Rank: Guardsman
+Squad: squad68
+Battles: 2
+Personality: Obsessive
+Favorite food: protein paste
+Wants to: kill heretics
+Skills: ['Nerves of steel']
+Flaws: ['Oblivious']
+Liked by: ['John Webb']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-05', 'Killed in action 2018-06-11']
+Legacy: Inscription on a nearby ruin
+
+Name: Lloyd Sundby
+Age: 26
+Rank: Guardsman
+Squad: squad68
+Battles: 2
+Personality: Boisterous
+Favorite food: ploin fruit
+Wants to: protect a friend
+Skills: ['Rapid reload']
+Flaws: ['Basically deaf']
+Liked by: ['John Webb', 'Charles Lloyd']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-05', 'Killed in action 2018-06-11']
+Legacy: A tombstone amongst thousands
+
+Name: Guy Hawkins
+Age: 28
+Rank: Guardsman
+Squad: squad382
+Battles: 1
+Personality: Sympathizer
+Favorite food: ploin fruit
+Wants to: serve up a cold plate of vengeance
+Skills: ['Street fighter']
+Flaws: ['Dyslexic', 'Addict']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-08', 'Killed in action 2018-06-11']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: Robert Riley
+Age: 19
+Rank: Guardsman
+Squad: squad382
+Battles: 1
+Personality: Steely
+Favorite food: protein paste
+Wants to: become a sports star
+Skills: ['Lightning reflexes']
+Flaws: []
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-08', 'Killed in action 2018-06-11']
+Legacy: Inscription on a nearby ruin
+
+Name: Matthew Wellman
+Age: 26
+Rank: Corporal
+Squad: squad382
+Battles: 5
+Personality: Never bathes
+Favorite food: hydro fungus
+Wants to: set a record
+Skills: ['Nerves of steel', 'Foresight', 'Bionic leg', 'Handyman']
+Flaws: ['Clumsy', 'Paranoid', 'Old wound', 'Unbearable guilt']
+Liked by: ['Jayson Nelson']
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Medallion Crimson']
+Remarks: ['Wounded in combat 2018-05-30', 'Wounded in combat 2018-06-08', 'Awarded the Medallion Crimson 2018-06-08', 'Promoted to Corporal 2018-06-08', 'Killed in action 2018-06-11']
+Legacy: Inscription on an overgrown memorial plaque
+
+Name: Robert Reidinger
+Age: 20
+Rank: Guardsman
+Squad: squad382
+Battles: 1
+Personality: Pious
+Favorite food: amasec is a food, right?
+Wants to: survive
+Skills: ['Beard']
+Flaws: ['Bad eyesight', 'Insomniac']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-08', 'Killed in action 2018-06-11']
+Legacy: Inscription on a nearby ruin
+
+Name: Jayson Nelson
+Age: 24
+Rank: Corporal
+Squad: squad382
+Battles: 5
+Personality: Loose cannon
+Favorite food: amasec is a food, right?
+Wants to: survive
+Skills: ['Musician', 'Cook', 'Combat master', 'Awesome scar', 'Duelist']
+Flaws: []
+Liked by: ['Danny Koetter', 'Marvin Northrop']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Wounded in combat 2018-05-30', 'Promoted to Corporal 2018-06-08', 'Killed in action 2018-06-11']
+Legacy: Inscription on a comrade's weapon
+
+Name: Marvin Northrop
+Age: 16
+Rank: Cadet
+Squad: squad382
+Battles: 1
+Personality: Green
+Favorite food: ploin fruit
+Wants to: make it home
+Skills: []
+Flaws: ['Asthma', 'Nightmares', 'Hesitant']
+Liked by: []
+Disliked by: ['David Vice']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-08', 'Executed for desertion 2018-06-11']
+Legacy: Fond memories in the minds of his friends
+
+Name: Steven Garcia
+Age: 19
+Rank: Tempestor Prime
+Squad: TempestorPrime533
+Battles: 6
+Personality: Mentor
+Favorite food: reprocessed grox meat
+Wants to: Kill xenos
+Skills: ['Bionic eye', 'Trustworthy']
+Flaws: ['Fragile', 'Basically deaf', 'Shell-shock']
+Liked by: ['Gregory Valentine', 'Jimmy Jeanlouis']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Promoted to Lance Corporal 2018-05-17', 'Promoted to Sergeant 2018-05-26', 'Wounded in combat 2018-05-30', 'Promoted to Lance Sergeant 2018-05-30', 'Earned officer commission 2018-06-05', 'Killed in action 2018-06-14']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: Henry Harris
+Age: 26
+Rank: Guardsman
+Squad: squad137
+Battles: 2
+Personality: Mentor
+Favorite food: ploin fruit
+Wants to: protect a friend
+Skills: ['Mustache', 'Unremarkable', 'Crack shot']
+Flaws: ['Careless']
+Liked by: ['Wayne Connelly']
+Disliked by: ['Scott Brown']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-05', 'Killed in action 2018-06-14']
+Legacy: Fond memories in the minds of his friends
+
+Name: Joseph Yancey
+Age: 27
+Rank: Guardsman
+Squad: squad137
+Battles: 2
+Personality: Narcissist
+Favorite food: corpse-starch
+Wants to: start a family
+Skills: ['Sound judgement']
+Flaws: []
+Liked by: ['Henry Harris']
+Disliked by: ['Tony White']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-05', 'Killed in action 2018-06-14']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: Daniel Yates
+Age: 26
+Rank: Guardsman
+Squad: squad137
+Battles: 3
+Personality: Gambler
+Favorite food: corpse-starch
+Wants to: start a family
+Skills: ['Sound judgement', 'Hardy', 'Bulging biceps']
+Flaws: ['Unbearable guilt', 'Fragile', 'Mostly deaf']
+Liked by: ['Juan Newitt']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-05-30', 'Wounded in combat 2018-06-05', 'Killed in action 2018-06-14']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: Adrian Baker
+Age: 19
+Rank: Guardsman
+Squad: squad137
+Battles: 2
+Personality: Sensible
+Favorite food: reprocessed grox meat
+Wants to: write a book
+Skills: ['Ambidextrous', 'Hardy']
+Flaws: ['Poor aim']
+Liked by: ['Henry Harris']
+Disliked by: ['Daniel Yates']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-05', 'Killed in action 2018-06-14']
+Legacy: Inscription on a comrade's weapon
+
+Name: Edward Landry
+Age: 18
+Rank: Corporal
+Squad: scions738
+Battles: 1
+Personality: Sensible
+Favorite food: amasec is a food, right?
+Wants to: survive
+Skills: ['Tinkerer', 'Beard', 'Duelist']
+Flaws: ['Insomniac', 'Unlucky']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-08', 'Killed in action 2018-06-14']
+Legacy: Cross with oath tag draped over it
+
+Name: Joseph Tesh
+Age: 24
+Rank: Lance Corporal
+Squad: scions738
+Battles: 3
+Personality: Superstitious
+Favorite food: hydro fungus
+Wants to: desert at the first opportunity
+Skills: ['Nerves of steel', 'Musician', 'Hard target', 'Mustache']
+Flaws: ['Flat footed', 'Hesitant', 'Concussion']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-05-30', 'Promoted to Lance Corporal 2018-06-05', 'Wounded in combat 2018-06-08', 'Killed in action 2018-06-14']
+Legacy: Inscription on a comrade's weapon
+
+Name: Thomas Summers
+Age: 26
+Rank: Corporal
+Squad: scions738
+Battles: 1
+Personality: Joker
+Favorite food: ration biscuits
+Wants to: survive
+Skills: ['Patient', 'Unarmed warrior', 'Ambidextrous']
+Flaws: ['Fragile', 'Flat footed']
+Liked by: ['Jason Smith', 'David White']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-08', 'Killed in action 2018-06-14']
+Legacy: Fond memories in the minds of his friends
+
+Name: Jeffrey Collins
+Age: 23
+Rank: Guardsman
+Squad: command679
+Battles: 1
+Personality: Incompetent
+Favorite food: recaf beans
+Wants to: survive
+Skills: ['Observant', 'Tough as nails']
+Flaws: ['Flat footed']
+Liked by: ['James Miller']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-11', 'Killed in action 2018-06-14']
+Legacy: Vengeful relative
+
+Name: James Miller
+Age: 21
+Rank: Sergeant
+Squad: command679
+Battles: 7
+Personality: Cocky
+Favorite food: ploin fruit
+Wants to: sleep in
+Skills: ['Rapid reload', 'Awesome scar', 'Rapid reload', 'Crack shot', 'Bionic leg']
+Flaws: ['Paranoid', 'Slow']
+Liked by: ['Chad Hugill', 'Jeffrey Collins']
+Disliked by: ['Wayne Connelly']
+Confirmed kills: 4
+Awards: ['Medallion Crimson', 'Service Badge']
+Remarks: ['Promoted to Lance Corporal 2018-05-26', 'Wounded in combat 2018-05-30', 'Awarded the Medallion Crimson 2018-05-30', 'Wounded in combat 2018-06-05', 'Awarded the Service Badge 2018-06-05', 'Wounded in combat 2018-06-11', 'Promoted to Sergeant 2018-06-11', 'Killed in action 2018-06-14']
+Legacy: A tombstone amongst thousands
+
+Name: Raymond Lyell
+Age: 21
+Rank: Sergeant
+Squad: Sentinel938
+Battles: 5
+Personality: Numb
+Favorite food: protein paste
+Wants to: become a movie star
+Skills: ['Born leader', 'Die hard', 'Lightning reflexes']
+Flaws: []
+Liked by: []
+Disliked by: []
+Confirmed kills: 2
+Awards: []
+Remarks: ['Deployed 2018-05-08', 'Promoted to Corporal 2018-05-22', 'Promoted to Lance Corporal 2018-05-26', 'Promoted to Sergeant 2018-05-30', 'Killed in action 2018-06-14']
+Legacy: Fond memories in the minds of his friends
+
+Name: Herman Miller
+Age: 19
+Rank: Guardsman
+Squad: HWP84
+Battles: 3
+Personality: Obsessive
+Favorite food: ploin fruit
+Wants to: write a book
+Skills: ['Unshakeable faith', 'Heightened senses']
+Flaws: ['Old wound']
+Liked by: ['Joseph Pinkney']
+Disliked by: ['Wm Clay']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Wounded in combat 2018-06-05', 'Killed in action 2018-06-14']
+Legacy: Fond memories in the minds of his friends
+
+Name: William Kelly
+Age: 32
+Rank: Lance Corporal
+Squad: RussD668
+Battles: 3
+Personality: Never bathes
+Favorite food: amasec is a food, right?
+Wants to: sleep in
+Skills: ['Unremarkable', 'Survivalist']
+Flaws: ['Illiterate']
+Liked by: []
+Disliked by: ['Dennis Pack']
+Confirmed kills: 0
+Awards: ['Triple Skull']
+Remarks: ['Wounded in combat 2018-05-30', 'Promoted to Corporal 2018-05-30', 'Awarded the Triple Skull 2018-05-30', 'Promoted to Lance Corporal 2018-06-05', 'Killed in action 2018-06-14']
+Legacy: Cross with oath tag draped over it
+
+Name: Byron Ordonez
+Age: 26
+Rank: Lance Corporal
+Squad: RussD668
+Battles: 6
+Personality: Nihilist
+Favorite food: reprocessed grox meat
+Wants to: serve up a cold plate of vengeance
+Skills: ['Unshakeable pride', 'Silent move', 'Bionic eye', 'Rapid reload', 'Hardy']
+Flaws: ['Disfigurement', 'Shell-shock']
+Liked by: []
+Disliked by: ['Williams Anderson']
+Confirmed kills: 0
+Awards: ['Medallion Crimson', 'Triple Skull', 'Triple Skull', 'Service Badge']
+Remarks: ['Promoted to Corporal 2018-05-22', 'Wounded in combat 2018-05-26', 'Awarded the Medallion Crimson 2018-05-26', 'Awarded the Triple Skull 2018-05-26', 'Wounded in combat 2018-05-30', 'Awarded the Triple Skull 2018-05-30', 'Promoted to Lance Corporal 2018-06-05', 'Awarded the Service Badge 2018-06-05', 'Killed in action 2018-06-14']
+Legacy: Inscription on the regimental standard
+
+Name: Johnny Jarvis
+Age: 19
+Rank: Corporal
+Squad: RussD668
+Battles: 2
+Personality: Slacker
+Favorite food: hydro fungus
+Wants to: transfer to a different regiment
+Skills: ['Hard target', 'Lightning reflexes']
+Flaws: []
+Liked by: ['William Kelly']
+Disliked by: ['John Frye']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-05-30', 'Promoted to Corporal 2018-06-05', 'Killed in action 2018-06-14']
+Legacy: Inscription on a comrade's weapon
+
+Name: Donnie Lane
+Age: 17
+Rank: Cadet
+Squad: RussD668
+Battles: 2
+Personality: Numb
+Favorite food: recaf beans
+Wants to: survive
+Skills: ['Born leader', 'Nerves of steel']
+Flaws: ['Illiterate', 'Dumb']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-05-30', 'Wounded in combat 2018-06-05', 'Killed in action 2018-06-14']
+Legacy: Fond memories in the minds of his friends
+
+Name: John Frye
+Age: 18
+Rank: Guardsman
+Squad: RussD668
+Battles: 1
+Personality: Quiet
+Favorite food: ration biscuits
+Wants to: kill heretics
+Skills: ['Sound judgement', 'Silent move']
+Flaws: []
+Liked by: ['William Kelly']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-05', 'Killed in action 2018-06-14']
+Legacy: Inscription on a comrade's weapon
+
+Name: Dennis Pack
+Age: 21
+Rank: Corporal
+Squad: RussD668
+Battles: 2
+Personality: Sensible
+Favorite food: ploin fruit
+Wants to: write a book
+Skills: ['Ambidextrous', 'Foresight', 'Observant']
+Flaws: ['Ugly']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-05-30', 'Promoted to Corporal 2018-06-05', 'Killed in action 2018-06-14']
+Legacy: Inscription on a comrade's weapon
+
+Name: Cameron Sims
+Age: 18
+Rank: Corporal
+Squad: command679
+Battles: 4
+Personality: Dreamer
+Favorite food: ploin fruit
+Wants to: sleep in
+Skills: ['Crack shot', 'Combat master']
+Flaws: ['Death-wish', 'Hesitant', 'Disfigurement']
+Liked by: ['Floyd Truax']
+Disliked by: ['Fred Hudgins']
+Confirmed kills: 2
+Awards: ['Triple Skull', 'Medallion Crimson', 'Eagle Ordinary']
+Remarks: ['Deployed 2018-05-30', 'Wounded in combat 2018-06-05', 'Promoted to Corporal 2018-06-05', 'Awarded the Triple Skull 2018-06-05', 'Wounded in combat 2018-06-11', 'Awarded the Medallion Crimson 2018-06-11', 'Transferred from squad68 2018-06-19', 'Killed in action 2018-06-21', 'Posthumously awarded the Eagle Ordinary 2018-06-21']
+Legacy: A cautionary tale
+
+Name: Roger Wood
+Age: 20
+Rank: Corporal
+Squad: command679
+Battles: 3
+Personality: Strict
+Favorite food: recaf beans
+Wants to: impress the commissar
+Skills: ['Die hard', 'Handyman', 'Silent move', 'Awesome scar']
+Flaws: ['Death-wish', 'Slow']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Eagle Ordinary']
+Remarks: ['Deployed 2018-06-05', 'Promoted to Corporal 2018-06-11', 'Killed in action 2018-06-21', 'Posthumously awarded the Eagle Ordinary 2018-06-21']
+Legacy: Inscription on a comrade's weapon
+
+Name: Chandra Westmark
+Age: 27
+Rank: Corporal
+Squad: command679
+Battles: 3
+Personality: Spiteful
+Favorite food: reprocessed grox meat
+Wants to: acquire knowledge
+Skills: ['Awesome scar', 'Survivalist', 'Trustworthy']
+Flaws: ['Nightmares']
+Liked by: ['Terry Puente', 'Glenn Glasby']
+Disliked by: ['David Alarcon', 'Elsa Gruska']
+Confirmed kills: 0
+Awards: ['Eagle Ordinary']
+Remarks: ['Deployed 2018-06-08', 'Wounded in combat 2018-06-11', 'Promoted to Corporal 2018-06-11', 'Transferred from squad382 2018-06-19', 'Killed in action 2018-06-21', 'Posthumously awarded the Eagle Ordinary 2018-06-21']
+Legacy: Vengeful relative
+
+Name: Glenn Glasby
+Age: 24
+Rank: Guardsman
+Squad: command679
+Battles: 2
+Personality: Obsessive
+Favorite food: reprocessed grox meat
+Wants to: get promoted
+Skills: ['Bookworm']
+Flaws: ['Poor health']
+Liked by: []
+Disliked by: ['Roger Wood']
+Confirmed kills: 0
+Awards: ['Eagle Ordinary']
+Remarks: ['Deployed 2018-06-11', 'Wounded in combat 2018-06-14', 'Killed in action 2018-06-21', 'Posthumously awarded the Eagle Ordinary 2018-06-21']
+Legacy: Cross with oath tag draped over it
+
+Name: Adam Lee
+Age: 20
+Rank: Guardsman
+Squad: SWT291
+Battles: 1
+Personality: Quiet
+Favorite food: reprocessed grox meat
+Wants to: earn the respect of their superiors
+Skills: ['Observant', 'Trustworthy']
+Flaws: []
+Liked by: ['Ralph Curtis']
+Disliked by: ['Tim Duran', 'Leonard Labonte']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-20', 'Killed in action 2018-06-21']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: Luis Daugherty
+Age: 25
+Rank: Corporal
+Squad: HWP84
+Battles: 4
+Personality: Optimist
+Favorite food: protein paste
+Wants to: survive
+Skills: ['Bionic arm', 'Beard', 'Tireless']
+Flaws: ['Disfigurement']
+Liked by: ['Kevin Padilla', 'Wm Clay']
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Medallion Crimson']
+Remarks: ['Promoted to Corporal 2018-05-30', 'Wounded in combat 2018-06-05', 'Wounded in combat 2018-06-14', 'Awarded the Medallion Crimson 2018-06-14', 'Killed in action 2018-06-21']
+Legacy: A cautionary tale
+
+Name: Marty Franz
+Age: 21
+Rank: Lance Corporal
+Squad: HWP281
+Battles: 4
+Personality: Never bathes
+Favorite food: protein paste
+Wants to: survive
+Skills: ['Unshakeable pride', 'Unremarkable', 'Awesome scar']
+Flaws: ['Addict', 'Short temper']
+Liked by: ['Lisa Decarr']
+Disliked by: ['Gary Wermers']
+Confirmed kills: 1
+Awards: []
+Remarks: ['Deployed 2018-05-30', 'Promoted to Corporal 2018-06-08', 'Wounded in combat 2018-06-11', 'Promoted to Lance Corporal 2018-06-11', 'Killed in action 2018-06-21']
+Legacy: Cross with oath tag draped over it
+
+Name: Michael Hammers
+Age: 24
+Rank: Guardsman
+Squad: Scions738
+Battles: 1
+Personality: Cocky
+Favorite food: amasec is a food, right?
+Wants to: impress the commissar
+Skills: ['Unremarkable', 'Bionic leg']
+Flaws: []
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-14', 'Killed in action 2018-06-21']
+Legacy: Anonymous sacrifice
+
+Name: Lynn Huff
+Age: 21
+Rank: Lance Corporal
+Squad: Scions738
+Battles: 4
+Personality: Boisterous
+Favorite food: hydro fungus
+Wants to: bring honor to their family
+Skills: ['Bionic leg', 'Lightning reflexes']
+Flaws: ['Coward', 'Mostly deaf']
+Liked by: ['Jimmy Jeanlouis']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-05-30', 'Promoted to Lance Corporal 2018-06-05', 'Wounded in combat 2018-06-14', 'Killed in action 2018-06-21']
+Legacy: Cross with oath tag draped over it
+
+Name: Chad Hugill
+Age: 25
+Rank: Lieutenant
+Squad: PlatoonOfficer508
+Battles: 8
+Personality: Affable
+Favorite food: amasec is a food, right?
+Wants to: make it home
+Skills: ['Musician', 'Street fighter', 'Bionic leg', 'Tactical genius', 'Awesome scar']
+Flaws: ['Oblivious', 'Dyslexic']
+Liked by: []
+Disliked by: ['Roger Wood']
+Confirmed kills: 1
+Awards: ['Medallion Crimson', 'Service Badge']
+Remarks: ['Promoted to Lance Sergeant 2018-05-26', 'Wounded in combat 2018-05-30', 'Awarded the Medallion Crimson 2018-05-30', 'Wounded in combat 2018-06-05', 'Awarded the Service Badge 2018-06-05', 'Earned officer commission 2018-06-11', 'Killed in action 2018-06-21']
+Legacy: Cross with oath tag draped over it
+
+Name: Nicholas Tidwell
+Age: 28
+Rank: Corporal
+Squad: squad68
+Battles: 3
+Personality: Affable
+Favorite food: ploin fruit
+Wants to: own their own house
+Skills: ['Tireless', 'Duelist']
+Flaws: ['Old wound', 'Poor aim', 'Disfigurement']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Medallion Crimson']
+Remarks: ['Deployed 2018-06-05', 'Wounded in combat 2018-06-11', 'Awarded the Medallion Crimson 2018-06-11', 'Promoted to Corporal 2018-06-11', 'Killed in action 2018-06-21']
+Legacy: Vengeful relative
+
+Name: Octavio Chang
+Age: 27
+Rank: Guardsman
+Squad: squad137
+Battles: 3
+Personality: Cocky
+Favorite food: ration biscuits
+Wants to: transfer to a different regiment
+Skills: ['Survivalist']
+Flaws: ['Missing eye']
+Liked by: ['Scott Brown']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-05', 'Wounded in combat 2018-06-14', 'Killed in action 2018-06-21']
+Legacy: Inscription on a comrade's weapon
+
+Name: Wayne Connelly
+Age: 19
+Rank: Corporal
+Squad: squad137
+Battles: 4
+Personality: Numb
+Favorite food: ration biscuits
+Wants to: get laid
+Skills: ['Trustworthy', 'Lightning reflexes', 'Mustache']
+Flaws: ['Pacifist', 'Nightmares', 'Old wound']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-05-30', 'Wounded in combat 2018-06-05', 'Wounded in combat 2018-06-14', 'Promoted to Corporal 2018-06-14', 'Killed in action 2018-06-21']
+Legacy: Inscription on a comrade's weapon
+
+Name: Andrew Cote
+Age: 26
+Rank: Guardsman
+Squad: squad137
+Battles: 2
+Personality: Heroic
+Favorite food: corpse-starch
+Wants to: earn the respect of their comrades
+Skills: ['Heightened senses']
+Flaws: ['Mostly deaf']
+Liked by: []
+Disliked by: ['Tony White']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-08', 'Wounded in combat 2018-06-14', 'Killed in action 2018-06-21']
+Legacy: Inscription on a comrade's weapon
+
+Name: Frank Rodriguez
+Age: 26
+Rank: Guardsman
+Squad: squad137
+Battles: 1
+Personality: Dreamer
+Favorite food: ration biscuits
+Wants to: write a book
+Skills: ['Unshakeable pride']
+Flaws: ['Flat footed', 'Careless']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-14', 'Killed in action 2018-06-21']
+Legacy: Anonymous sacrifice
+
+Name: Tony White
+Age: 17
+Rank: Guardsman
+Squad: squad137
+Battles: 4
+Personality: Green
+Favorite food: hydro fungus
+Wants to: acquire knowledge
+Skills: ['Die hard', 'Survivalist']
+Flaws: ['Asthma', 'Nightmares']
+Liked by: ['Juan Newitt', 'Scott Brown']
+Disliked by: ['Jose Woods']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-05-30', 'Promoted to Guardsman 2018-06-08', 'Wounded in combat 2018-06-14', 'Sent to a penal legion 2018-06-21']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: Robert Mcguffey
+Age: 27
+Rank: Guardsman
+Squad: HWP281
+Battles: 1
+Personality: Dissenter
+Favorite food: protein paste
+Wants to: kill heretics
+Skills: ['Tough as nails']
+Flaws: []
+Liked by: ['Steven Santos']
+Disliked by: ['Lisa Decarr']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-21', 'Killed in action 2018-06-26']
+Legacy: Vengeful relative
+
+Name: Russel Marrow
+Age: 19
+Rank: Lance Corporal
+Squad: HWP281
+Battles: 5
+Personality: Psychotic
+Favorite food: ploin fruit
+Wants to: set a record
+Skills: ['Street fighter', 'Bulging biceps', 'Rapid reload', 'Bionic arm']
+Flaws: []
+Liked by: ['Gary Wermers']
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Macharian Cross', 'Medallion Crimson']
+Remarks: ['Deployed 2018-05-30', 'Promoted to Corporal 2018-06-08', 'Awarded the Macharian Cross 2018-06-08', 'Wounded in combat 2018-06-11', 'Awarded the Medallion Crimson 2018-06-11', 'Promoted to Lance Corporal 2018-06-21', 'Killed in action 2018-06-26']
+Legacy: Vengeful relative
+
+Name: David Little
+Age: 21
+Rank: Lance Corporal
+Squad: HWP281
+Battles: 5
+Personality: Sarcastic
+Favorite food: ration biscuits
+Wants to: acquire knowledge
+Skills: ['Musician', 'Nerves of steel']
+Flaws: []
+Liked by: ['Russel Marrow', 'Lisa Decarr', 'Robert Mcguffey']
+Disliked by: []
+Confirmed kills: 1
+Awards: []
+Remarks: ['Deployed 2018-05-30', 'Promoted to Corporal 2018-05-30', 'Wounded in combat 2018-06-11', 'Promoted to Lance Corporal 2018-06-21', 'Killed in action 2018-06-26']
+Legacy: Inscription on an overgrown memorial plaque
+
+Name: Floyd Truax
+Age: 18
+Rank: Lance Corporal
+Squad: squad68
+Battles: 6
+Personality: Narcissist
+Favorite food: amasec is a food, right?
+Wants to: eat like a king
+Skills: ['Musician', 'Tireless']
+Flaws: ['Unlucky', 'Disfigurement', 'Death-wish', 'Coward']
+Liked by: []
+Disliked by: ['Danial Ferguson']
+Confirmed kills: 2
+Awards: ['Medallion Crimson', 'Triple Skull', 'Triple Skull', 'Ribbon Intrinsic', 'Service Badge']
+Remarks: ['Wounded in combat 2018-05-30', 'Awarded the Medallion Crimson 2018-05-30', 'Awarded the Triple Skull 2018-05-30', 'Wounded in combat 2018-06-05', 'Promoted to Corporal 2018-06-05', 'Awarded the Triple Skull 2018-06-05', 'Wounded in combat 2018-06-11', 'Promoted to Lance Corporal 2018-06-21', 'Awarded the Ribbon Intrinsic 2018-06-21', 'Awarded the Service Badge 2018-06-21', 'Killed in action 2018-06-26']
+Legacy: Service in death as a servo skull
+
+Name: Eldridge Hannah
+Age: 17
+Rank: Cadet
+Squad: squad137
+Battles: 1
+Personality: Green
+Favorite food: ration biscuits
+Wants to: become a movie star
+Skills: []
+Flaws: ['Poor discipline', 'Unlucky']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-21', 'Killed in action 2018-06-26']
+Legacy: Inscription on a comrade's weapon
+
+Name: Dennis Wilson
+Age: 25
+Rank: Guardsman
+Squad: squad137
+Battles: 2
+Personality: Loner
+Favorite food: protein paste
+Wants to: survive
+Skills: ['Bionic eye']
+Flaws: ['Insomniac', 'Unbearable guilt', 'Death-wish']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-14', 'Killed in action 2018-06-26']
+Legacy: Inscription on a comrade's weapon
+
+Name: James Gilbert
+Age: 28
+Rank: Guardsman
+Squad: RussE440
+Battles: 3
+Personality: Cocky
+Favorite food: protein paste
+Wants to: become a sports star
+Skills: ['Bionic eye', 'Hardy']
+Flaws: ['Awkward', 'Poor aim']
+Liked by: ['Anthony Roman']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-11', 'Killed in action 2018-06-30']
+Legacy: Vengeful relative
+
+Name: Pasquale Burns
+Age: 20
+Rank: Lance Corporal
+Squad: RussE440
+Battles: 7
+Personality: Sarcastic
+Favorite food: protein paste
+Wants to: get laid
+Skills: ['Bald', 'Combat master', 'Awesome scar', 'Tactical genius']
+Flaws: []
+Liked by: ['Martin Campbell']
+Disliked by: ['Vincent Franco']
+Confirmed kills: 0
+Awards: ['Service Badge']
+Remarks: ['Promoted to Corporal 2018-05-26', 'Promoted to Lance Corporal 2018-05-30', 'Awarded the Service Badge 2018-06-21', 'Killed in action 2018-06-30']
+Legacy: Vengeful relative
+
+Name: Larry Warren
+Age: 19
+Rank: Guardsman
+Squad: squad137
+Battles: 1
+Personality: Nihilist
+Favorite food: ration biscuits
+Wants to: desert at the first opportunity
+Skills: ['Tough as nails']
+Flaws: ['Unbearable guilt']
+Liked by: ['Corey Munoz']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-26', 'Killed in action 2018-06-30']
+Legacy: Vengeful relative
+
+Name: Rodney Abner
+Age: 24
+Rank: Guardsman
+Squad: squad137
+Battles: 2
+Personality: Loyal
+Favorite food: recaf beans
+Wants to: get laid
+Skills: ['Silent move']
+Flaws: []
+Liked by: ['Mathew Gonzalez']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-21', 'Killed in action 2018-06-30']
+Legacy: Fond memories in the minds of his friends
+
+Name: Dale Huffman
+Age: 22
+Rank: Guardsman
+Squad: squad137
+Battles: 2
+Personality: Loyal
+Favorite food: reprocessed grox meat
+Wants to: kill xenos
+Skills: ['Nerves of steel']
+Flaws: ['Illiterate', 'Poor aim', 'Coward']
+Liked by: ['Gary Woodside']
+Disliked by: ['Mathew Gonzalez']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-21', 'Killed in action 2018-06-30']
+Legacy: Cross with oath tag draped over it
+
+Name: Scott Brown
+Age: 19
+Rank: Corporal
+Squad: squad137
+Battles: 5
+Personality: Numb
+Favorite food: ploin fruit
+Wants to: survive
+Skills: ['Trustworthy', 'Tactical genius', 'Rapid reload', 'Bionic leg']
+Flaws: ['Slow', 'Poor health', 'Hesitant']
+Liked by: ['Gary Woodside']
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Medallion Crimson', 'Eagle Ordinary']
+Remarks: ['Deployed 2018-06-05', 'Wounded in combat 2018-06-14', 'Wounded in combat 2018-06-21', 'Awarded the Medallion Crimson 2018-06-21', 'Promoted to Corporal 2018-06-21', 'Killed in action 2018-06-30', 'Posthumously awarded the Eagle Ordinary 2018-06-30']
+Legacy: Fond memories in the minds of his friends
+
+Name: Bryan Isaacson
+Age: 28
+Rank: Guardsman
+Squad: squad137
+Battles: 1
+Personality: Pious
+Favorite food: reprocessed grox meat
+Wants to: make a difference
+Skills: ['Musician']
+Flaws: ['Illiterate', 'Poor health']
+Liked by: ['Scott Brown']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-26', 'Killed in action 2018-06-30']
+Legacy: A tombstone amongst thousands
+
+Name: Craig Chamberlin
+Age: 25
+Rank: Guardsman
+Squad: squad382
+Battles: 3
+Personality: Never bathes
+Favorite food: reprocessed grox meat
+Wants to: transfer to a different regiment
+Skills: ['Athlete', 'Patient']
+Flaws: ['Poor aim']
+Liked by: ['Milton Karins']
+Disliked by: ['Michael Alston']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-11', 'Killed in action 2018-06-30']
+Legacy: Cross with oath tag draped over it
+
+Name: Shawanda Gates
+Age: 16
+Rank: Cadet
+Squad: squad382
+Battles: 2
+Personality: Green
+Favorite food: amasec is a food, right?
+Wants to: become a sports star
+Skills: ['Duelist', 'Hardy']
+Flaws: ['Paranoid', 'Addict']
+Liked by: ['Brent Wahl']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-14', 'Killed in action 2018-06-30']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: Milton Karins
+Age: 16
+Rank: Guardsman
+Squad: squad382
+Battles: 3
+Personality: Green
+Favorite food: ploin fruit
+Wants to: earn the respect of their comrades
+Skills: ['Good looking', 'Mustache']
+Flaws: ['Clumsy']
+Liked by: ['Mike Avila', 'David Alarcon']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-11', 'Promoted to Guardsman 2018-06-26', 'Killed in action 2018-06-30']
+Legacy: Cross with oath tag draped over it
+
+Name: Michael Alston
+Age: 18
+Rank: Corporal
+Squad: squad382
+Battles: 3
+Personality: Smooth
+Favorite food: ploin fruit
+Wants to: become rich
+Skills: ['Athlete', 'Hardy', 'Ambidextrous']
+Flaws: ['Oblivious', 'Paranoid']
+Liked by: ['Mike Avila']
+Disliked by: ['Elsa Gruska']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-11', 'Promoted to Corporal 2018-06-26', 'Killed in action 2018-06-30']
+Legacy: Cross with oath tag draped over it
+
+Name: Elsa Gruska
+Age: 23
+Rank: Sergeant
+Squad: squad382
+Battles: 6
+Personality: Joker
+Favorite food: ration biscuits
+Wants to: be remembered
+Skills: ['Good sense of direction', 'Awesome scar', 'Tireless']
+Flaws: ['Fragile', 'Tainted', 'Death-wish']
+Liked by: ['David Vice']
+Disliked by: ['Craig Chamberlin']
+Confirmed kills: 0
+Awards: ['Service Badge']
+Remarks: ['Deployed 2018-05-30', 'Promoted to Corporal 2018-06-05', 'Wounded in combat 2018-06-08', 'Promoted to Lance Corporal 2018-06-08', 'Wounded in combat 2018-06-11', 'Promoted to Sergeant 2018-06-11', 'Awarded the Service Badge 2018-06-26', 'Killed in action 2018-06-30']
+Legacy: A cautionary tale
+
+Name: Terry Puente
+Age: 25
+Rank: Corporal
+Squad: squad382
+Battles: 3
+Personality: Jaded
+Favorite food: recaf beans
+Wants to: get promoted
+Skills: ['Unarmed warrior', 'Good sense of direction', 'Duelist']
+Flaws: ['Clumsy']
+Liked by: ['David Alarcon']
+Disliked by: ['John Williams']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-11', 'Promoted to Corporal 2018-06-14', 'Killed in action 2018-06-30']
+Legacy: Inscription on a nearby ruin
+
+Name: James Sheppard
+Age: 19
+Rank: Corporal
+Squad: scions738
+Battles: 3
+Personality: Never bathes
+Favorite food: ration biscuits
+Wants to: get back to the good old days
+Skills: ['Duelist', 'Hard target']
+Flaws: ['Clumsy']
+Liked by: []
+Disliked by: ['Jason Smith', 'John Adams', 'Wendell Huffman']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-14', 'Promoted to Corporal 2018-06-21', 'Killed in action 2018-06-30']
+Legacy: Fond memories in the minds of his friends
+
+Name: Al Soto
+Age: 22
+Rank: Guardsman
+Squad: SWT291
+Battles: 3
+Personality: Superstitious
+Favorite food: ploin fruit
+Wants to: get laid
+Skills: ['Bulging biceps']
+Flaws: ['Pacifist', 'Short temper', 'Concussion']
+Liked by: ['Leonard Labonte']
+Disliked by: ['Tim Duran', 'Rebecca Preston']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-20', 'Wounded in combat 2018-06-21', 'Killed in action 2018-06-30']
+Legacy: A tombstone amongst thousands
+
+Name: Tim Duran
+Age: 18
+Rank: Guardsman
+Squad: SWT291
+Battles: 3
+Personality: Steely
+Favorite food: recaf beans
+Wants to: make a difference
+Skills: ['Duelist', 'Bookworm', 'Awesome scar']
+Flaws: ['Clumsy', 'Old wound']
+Liked by: ['Leonard Labonte']
+Disliked by: ['Al Soto']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-20', 'Wounded in combat 2018-06-21', 'Killed in action 2018-06-30']
+Legacy: Inscription on a nearby ruin
+
+Name: Ralph Curtis
+Age: 18
+Rank: Guardsman
+Squad: SWT291
+Battles: 3
+Personality: Never bathes
+Favorite food: corpse-starch
+Wants to: redeem themselves
+Skills: ['Beard', 'Sound judgement']
+Flaws: ['Short temper', 'Insomniac']
+Liked by: ['Leonard Labonte']
+Disliked by: ['Tim Duran', 'Rebecca Preston', 'Joseph Markarian']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-20', 'Wounded in combat 2018-06-21', 'Killed in action 2018-06-30']
+Legacy: Vengeful relative
+
+Name: Joseph Markarian
+Age: 27
+Rank: Guardsman
+Squad: SWT291
+Battles: 3
+Personality: Affable
+Favorite food: protein paste
+Wants to: impress the commissar
+Skills: ['Awesome scar', 'Observant', 'Foresight']
+Flaws: ['Old wound']
+Liked by: ['Al Soto', 'Ralph Curtis']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-20', 'Wounded in combat 2018-06-21', 'Killed in action 2018-06-30']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: Jose Alvarez
+Age: 25
+Rank: Corporal
+Squad: HWP84
+Battles: 2
+Personality: Joker
+Favorite food: protein paste
+Wants to: acquire knowledge
+Skills: ['Good sense of direction']
+Flaws: ['Paranoid']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-21', 'Promoted to Corporal 2018-06-26', 'Killed in action 2018-06-30']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: Owen Howe
+Age: 26
+Rank: Corporal
+Squad: HWP84
+Battles: 3
+Personality: Reckless
+Favorite food: hydro fungus
+Wants to: bring honor to their family
+Skills: ['Unshakeable pride', 'Tactical genius']
+Flaws: ['Basically deaf', 'Coward']
+Liked by: ['Robert Carpenter']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-14', 'Promoted to Corporal 2018-06-21', 'Killed in action 2018-06-30']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: Cleveland Osborne
+Age: 22
+Rank: Guardsman
+Squad: HWP281
+Battles: 1
+Personality: Smooth
+Favorite food: reprocessed grox meat
+Wants to: earn the respect of their superiors
+Skills: ['Hard target']
+Flaws: []
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-26', 'Killed in action 2018-06-30']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: Anthony Roman
+Age: 21
+Rank: Lance Sergeant
+Squad: RussE440
+Battles: 8
+Personality: Numb
+Favorite food: corpse-starch
+Wants to: bring honor to their family
+Skills: ['Hardy', 'Hard target', 'Tireless', 'Trustworthy', 'Bionic arm', 'Combat master']
+Flaws: ['Slow']
+Liked by: ['Steven Jackson']
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Service Badge', 'Medallion Crimson', 'Honorifica Imperialis']
+Remarks: ['Promoted to Corporal 2018-05-26', 'Promoted to Lance Corporal 2018-05-30', 'Promoted to Sergeant 2018-06-11', 'Awarded the Service Badge 2018-06-21', 'Promoted to Lance Sergeant 2018-06-26', 'Wounded in combat 2018-06-30', 'Awarded the Medallion Crimson 2018-06-30', 'Killed in action 2018-07-03', 'Posthumously awarded the Honorifica Imperialis 2018-07-03']
+Legacy: Equipment becomes a family heirloom
+
+Name: Gary Woodside
+Age: 18
+Rank: Guardsman
+Squad: squad137
+Battles: 3
+Personality: Quiet
+Favorite food: hydro fungus
+Wants to: earn the respect of their superiors
+Skills: ['Awesome scar', 'Trustworthy', 'Silent move']
+Flaws: []
+Liked by: ['James Watters', 'Jose Woods']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-21', 'Wounded in combat 2018-06-30', 'Killed in action 2018-07-03']
+Legacy: Inscription on an overgrown memorial plaque
+
+Name: Charles Hardin
+Age: 27
+Rank: Guardsman
+Squad: squad137
+Battles: 1
+Personality: Quiet
+Favorite food: ploin fruit
+Wants to: start a family
+Skills: []
+Flaws: []
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-30', 'Killed in action 2018-07-03']
+Legacy: Cross with oath tag draped over it
+
+Name: Patrick Hunter
+Age: 22
+Rank: Guardsman
+Squad: squad137
+Battles: 1
+Personality: Numb
+Favorite food: amasec is a food, right?
+Wants to: redeem themselves
+Skills: []
+Flaws: ['Illiterate', 'Unlucky']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-30', 'Killed in action 2018-07-03']
+Legacy: Inscription on a comrade's weapon
+
+Name: James Watters
+Age: 23
+Rank: Corporal
+Squad: squad137
+Battles: 2
+Personality: Sympathizer
+Favorite food: ploin fruit
+Wants to: impress the commissar
+Skills: ['Patient']
+Flaws: ['Fragile', 'Awkward', 'Nightmares']
+Liked by: []
+Disliked by: ['Corey Munoz']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-26', 'Wounded in combat 2018-06-30', 'Promoted to Corporal 2018-06-30', 'Killed in action 2018-07-03']
+Legacy: Inscription on a comrade's weapon
+
+Name: Mark Payson
+Age: 24
+Rank: Guardsman
+Squad: squad137
+Battles: 1
+Personality: Pious
+Favorite food: protein paste
+Wants to: survive
+Skills: ['Hard target']
+Flaws: ['Short temper']
+Liked by: ['David Collinsworth']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-30', 'Killed in action 2018-07-03']
+Legacy: Inscription on a comrade's weapon
+
+Name: Jose Woods
+Age: 19
+Rank: Corporal
+Squad: squad137
+Battles: 4
+Personality: Optimist
+Favorite food: ploin fruit
+Wants to: earn the respect of their comrades
+Skills: ['Brave', 'Sound judgement']
+Flaws: ['Bad back', 'Death-wish', 'Nightmares']
+Liked by: ['Gary Woodside']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-14', 'Wounded in combat 2018-06-30', 'Promoted to Corporal 2018-06-30', 'Killed in action 2018-07-03']
+Legacy: Fond memories in the minds of his friends
+
+Name: Daniel Lopez
+Age: 19
+Rank: Guardsman
+Squad: squad382
+Battles: 1
+Personality: Sympathizer
+Favorite food: recaf beans
+Wants to: eat like a king
+Skills: ['Beard']
+Flaws: ['Ugly', 'Paranoid']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-30', 'Killed in action 2018-07-03']
+Legacy: Fond memories in the minds of his friends
+
+Name: George Anderson
+Age: 26
+Rank: Corporal
+Squad: squad382
+Battles: 2
+Personality: Jaded
+Favorite food: hydro fungus
+Wants to: write a book
+Skills: ['Beard', 'Handyman']
+Flaws: ['Dyslexic', 'Nightmares']
+Liked by: ['David Alarcon', 'Marco Peters']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-26', 'Wounded in combat 2018-06-30', 'Promoted to Corporal 2018-06-30', 'Killed in action 2018-07-03']
+Legacy: Inscription on a comrade's weapon
+
+Name: David Alarcon
+Age: 29
+Rank: Guardsman
+Squad: squad382
+Battles: 4
+Personality: Affable
+Favorite food: corpse-starch
+Wants to: become rich
+Skills: ['Hardy', 'Survivalist', 'Patient']
+Flaws: ['Hesitant']
+Liked by: ['David Vice', 'John Williams']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-11', 'Wounded in combat 2018-06-30', 'Killed in action 2018-07-03']
+Legacy: Inscription on a comrade's weapon
+
+Name: Tommy Pinto
+Age: 28
+Rank: Guardsman
+Squad: squad382
+Battles: 1
+Personality: Thief
+Favorite food: ration biscuits
+Wants to: impress the commissar
+Skills: []
+Flaws: ['Illiterate']
+Liked by: []
+Disliked by: ['Daniel Lopez']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-30', 'Killed in action 2018-07-03']
+Legacy: Inscription on a comrade's weapon
+
+Name: Mark Nelson
+Age: 26
+Rank: Guardsman
+Squad: squad382
+Battles: 1
+Personality: Loyal
+Favorite food: corpse-starch
+Wants to: write a book
+Skills: []
+Flaws: ['Weak']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-30', 'Killed in action 2018-07-03']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: Galik Bluth
+Age: 23
+Rank: Guardsman
+Squad: SWT291
+Battles: 1
+Personality: Optimistic
+Favorite food: noodles
+Wants to: set foot on Terra
+Skills: ['Supportive', 'Mentor', 'Loyal']
+Flaws: ['Overconfident', 'Headstrong']
+Liked by: ['Owyn Tarik']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-01', 'Killed in action 2018-07-03']
+Legacy: Cross with oath tag draped over it
+
+Name: Charles Lloyd
+Age: 18
+Rank: Corporal
+Battles: 6
+Squad: squad68
+Personality: Thief
+Favorite food: ploin fruit
+Wants to: start a family
+Skills: ['Lucky', 'Bionic leg', 'Lightning reflexes', 'Good sense of direction', 'Bionic eye']
+Flaws: ['Coward', 'Tainted']
+Confirmed kills: 0
+Awards: ['Ribbon Intrinsic', 'Service Badge']
+Liked by: []
+Disliked by: ['Cameron Sims', 'Ryan Torres', 'David Davis', 'Danial Ferguson']
+Remarks: ['Deployed 2018-06-05', 'Wounded in combat 2018-06-11', 'Promoted to Corporal 2018-06-21', 'Awarded the Ribbon Intrinsic 2018-06-21', 'Awarded the Service Badge 2018-06-30', 'Wounded in combat 2018-07-08', 'Executed due to Nurgle infection 2018-07-08']
+Legacy: A cautionary tale
+
+Name: Richard Walker
+Age: 21
+Rank: Lance Sergeant
+Squad: RussB692
+Battles: 10
+Personality: Gambler
+Favorite food: reprocessed grox meat
+Wants to: meet someone famous
+Skills: ['Street fighter', 'Handyman', 'Cautious']
+Flaws: ['Poor aim']
+Liked by: ['Mack Clevenger', 'Bernard Gibbs', 'Timothy Jones']
+Disliked by: ['Justin Huff']
+Confirmed kills: 0
+Awards: ['Service Badge', 'Ribbon Intrinsic']
+Remarks: ['Promoted to Corporal 2018-05-26', 'Awarded the Service Badge 2018-06-08', 'Promoted to Lance Corporal 2018-06-21', 'Promoted to Sergeant 2018-06-30', 'Promoted to Lance Sergeant 2018-07-03', 'Awarded the Ribbon Intrinsic 2018-07-03', 'Killed in action 2018-07-09']
+Legacy: Equipment becomes a family heirloom
+
+Name: Kenneth Koczera
+Age: 18
+Rank: Guardsman
+Squad: squad382
+Battles: 1
+Personality: Psychotic
+Favorite food: hydro fungus
+Wants to: get promoted
+Skills: ['Bulging biceps']
+Flaws: []
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-03', 'Killed in action 2018-07-09']
+Legacy: Inscription on a comrade's weapon
+
+Name: Charles Keyser
+Age: 20
+Rank: Guardsman
+Squad: squad382
+Battles: 1
+Personality: Smooth
+Favorite food: ploin fruit
+Wants to: protect a friend
+Skills: []
+Flaws: []
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-03', 'Killed in action 2018-07-09']
+Legacy: Cross with oath tag draped over it
+
+Name: Marco Peters
+Age: 21
+Rank: Cadet
+Squad: squad382
+Battles: 2
+Personality: Obsessive
+Favorite food: corpse-starch
+Wants to: bring honor to their family
+Skills: ['Patient']
+Flaws: ['Paranoid', 'Paranoid']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-30', 'Demoted to Cadet 2018-07-03', 'Killed in action 2018-07-09']
+Legacy: Inscription on a comrade's weapon
+
+Name: Esteban Tims
+Age: 27
+Rank: Corporal
+Squad: squad382
+Battles: 2
+Personality: Slacker
+Favorite food: ration biscuits
+Wants to: make a difference
+Skills: ['Mustache']
+Flaws: ['Mostly deaf']
+Liked by: []
+Disliked by: ['Marco Peters']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-30', 'Wounded in combat 2018-07-03', 'Promoted to Corporal 2018-07-03', 'Killed in action 2018-07-09']
+Legacy: Cross with oath tag draped over it
+
+Name: Eduardo Mitchell
+Age: 16
+Rank: Cadet
+Squad: squad382
+Battles: 1
+Personality: Green
+Favorite food: ration biscuits
+Wants to: survive
+Skills: ['Beard', 'Ambidextrous']
+Flaws: ['Pacifist']
+Liked by: ['Robert Rivera']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-03', 'Killed in action 2018-07-09']
+Legacy: Inscription on a nearby ruin
+
+Name: John Williams
+Age: 27
+Rank: Lance Sergeant
+Squad: squad382
+Battles: 6
+Personality: Braggart
+Favorite food: recaf beans
+Wants to: become rich
+Skills: ['Lateral thinker', 'Hardy', 'Crack shot', 'Good sense of direction']
+Flaws: ['Old wound', 'Hesitant', 'Mostly deaf', 'Unbearable guilt', 'Old wound', 'Paranoid']
+Liked by: []
+Disliked by: ['Esteban Tims', 'Mike Avila']
+Confirmed kills: 1
+Awards: ['Service Badge']
+Remarks: ['Deployed 2018-06-08', 'Wounded in combat 2018-06-11', 'Promoted to Corporal 2018-06-11', 'Promoted to Lance Corporal 2018-06-26', 'Wounded in combat 2018-06-30', 'Promoted to Sergeant 2018-06-30', 'Wounded in combat 2018-07-03', 'Promoted to Lance Sergeant 2018-07-03', 'Awarded the Service Badge 2018-07-03', 'Killed in action 2018-07-09']
+Legacy: Inscription on a comrade's weapon
+
+Name: David Joosten
+Age: 20
+Rank: Guardsman
+Squad: squad137
+Battles: 1
+Personality: Sensible
+Favorite food: protein paste
+Wants to: be remembered
+Skills: []
+Flaws: []
+Liked by: []
+Disliked by: ['Lawrence Dye']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-03', 'Killed in action 2018-07-09']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: Anthony Denney
+Age: 24
+Rank: Guardsman
+Squad: squad137
+Battles: 1
+Personality: Dissenter
+Favorite food: amasec is a food, right?
+Wants to: marry a distant paramour
+Skills: ['Heightened senses', 'Good looking']
+Flaws: ['Coward']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-03', 'Killed in action 2018-07-09']
+Legacy: Cross with oath tag draped over it
+
+Name: Kevin Berry
+Age: 25
+Rank: Guardsman
+Squad: squad137
+Battles: 1
+Personality: Braggart
+Favorite food: recaf beans
+Wants to: kill heretics
+Skills: ['Observant', 'Lucky']
+Flaws: []
+Liked by: ['Alfred Williams']
+Disliked by: ['Mathew Gonzalez']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-03', 'Killed in action 2018-07-09']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: Corey Munoz
+Age: 23
+Rank: Corporal
+Squad: squad137
+Battles: 5
+Personality: Cocky
+Favorite food: corpse-starch
+Wants to: travel the world
+Skills: ['Foresight', 'Rapid reload', 'Bionic leg']
+Flaws: ['Death-wish', 'Flashbacks']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Medallion Crimson']
+Remarks: ['Deployed 2018-06-14', 'Wounded in combat 2018-06-21', 'Promoted to Corporal 2018-06-21', 'Demoted to Guardsman 2018-06-30', 'Wounded in combat 2018-07-03', 'Awarded the Medallion Crimson 2018-07-03', 'Promoted to Corporal 2018-07-03', 'Killed in action 2018-07-09']
+Legacy: Inscription on an overgrown memorial plaque
+
+Name: Alfred Williams
+Age: 24
+Rank: Guardsman
+Squad: squad137
+Battles: 1
+Personality: Narcissist
+Favorite food: ploin fruit
+Wants to: become rich
+Skills: ['Unshakeable faith', 'Street fighter']
+Flaws: ['Pacifist']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-03', 'Killed in action 2018-07-09']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: Christopher Unterseher
+Age: 23
+Rank: Sergeant
+Squad: Scions738
+Battles: 3
+Personality: Mentor
+Favorite food: corpse-starch
+Wants to: protect a friend
+Skills: ['Cook', 'Musician', 'Bionic leg']
+Flaws: ['Dumb', 'Death-wish']
+Liked by: ['Leland Kirkland', 'John Adams']
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Medallion Crimson']
+Remarks: ['Deployed 2018-06-21', 'Promoted to Lance Corporal 2018-06-26', 'Wounded in combat 2018-06-30', 'Awarded the Medallion Crimson 2018-06-30', 'Promoted to Sergeant 2018-06-30', 'Killed in action 2018-07-09']
+Legacy: Cross with oath tag draped over it
+
+Name: Leland Kirkland
+Age: 25
+Rank: Sergeant
+Squad: Scions738
+Battles: 3
+Personality: Strict
+Favorite food: amasec is a food, right?
+Wants to: sleep in
+Skills: ['Bionic eye', 'Bulging biceps']
+Flaws: ['Flat footed', 'Addict']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-21', 'Promoted to Lance Corporal 2018-06-26', 'Wounded in combat 2018-06-30', 'Promoted to Sergeant 2018-06-30', 'Killed in action 2018-07-09']
+Legacy: Inscription on a nearby ruin
+
+Name: Wendell Huffman
+Age: 19
+Rank: Lance Corporal
+Squad: Scions738
+Battles: 5
+Personality: Braggart
+Favorite food: hydro fungus
+Wants to: write a book
+Skills: ['Street fighter', 'Die hard', 'Awesome scar']
+Flaws: ['Poor discipline', 'Illiterate', 'Disfigurement']
+Liked by: []
+Disliked by: ['Jimmy Jeanlouis']
+Confirmed kills: 0
+Awards: ['Medallion Crimson']
+Remarks: ['Deployed 2018-06-08', 'Wounded in combat 2018-06-14', 'Awarded the Medallion Crimson 2018-06-14', 'Wounded in combat 2018-06-26', 'Promoted to Lance Corporal 2018-06-30', 'Killed in action 2018-07-09']
+Legacy: Fond memories in the minds of his friends
+
+Name: Rebecca Preston
+Age: 20
+Rank: Guardsman
+Squad: SWT291
+Battles: 4
+Personality: Leech
+Favorite food: corpse-starch
+Wants to: survive
+Skills: ['Die hard', 'Cautious']
+Flaws: ['Basically deaf', 'Poor discipline']
+Liked by: []
+Disliked by: ['Ralph Knopf', 'Danny Zediker']
+Confirmed kills: 0
+Awards: ['Triple Skull']
+Remarks: ['Deployed 2018-06-21', 'Promoted to Corporal 2018-06-30', 'Awarded the Triple Skull 2018-06-30', 'Demoted to Guardsman 2018-07-03', 'Killed in action 2018-07-09']
+Legacy: Cross with oath tag draped over it
+
+Name: Leonard Labonte
+Age: 27
+Rank: Guardsman
+Squad: SWT291
+Battles: 5
+Personality: Loner
+Favorite food: ration biscuits
+Wants to: be remembered
+Skills: ['Beard', 'Athlete', 'Cautious']
+Flaws: ['Mostly deaf', 'Hesitant']
+Liked by: ['Rebecca Preston', 'George Shewmaker']
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Triple Skull']
+Remarks: ['Deployed 2018-06-20', 'Wounded in combat 2018-06-21', 'Wounded in combat 2018-06-30', 'Awarded the Triple Skull 2018-06-30', 'Killed in action 2018-07-09']
+Legacy: Inscription on a vehicle
+
+Name: Danny Zediker
+Age: 17
+Rank: Cadet
+Squad: SWT291
+Battles: 1
+Personality: Green
+Favorite food: recaf beans
+Wants to: redeem themselves
+Skills: ['Hardy']
+Flaws: ['Bad back']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-03', 'Killed in action 2018-07-09']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: Ralph Knopf
+Age: 28
+Rank: Guardsman
+Squad: SWT291
+Battles: 2
+Personality: Psychotic
+Favorite food: corpse-starch
+Wants to: transfer to a different regiment
+Skills: ['Combat master']
+Flaws: ['Awkward']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-30', 'Killed in action 2018-07-09']
+Legacy: Vengeful relative
+
+Name: George Shewmaker
+Age: 21
+Rank: Guardsman
+Squad: SWT291
+Battles: 2
+Personality: Heroic
+Favorite food: reprocessed grox meat
+Wants to: get back to the good old days
+Skills: ['Tinkerer', 'Unarmed warrior']
+Flaws: []
+Liked by: []
+Disliked by: ['Danny Zediker']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-30', 'Killed in action 2018-07-09']
+Legacy: Inscription on a comrade's weapon
+
+Name: Owyn Tarik
+Age: 24
+Rank: Guardsman
+Squad: SWT291
+Battles: 2
+Personality: Practical
+Favorite food: baked beans and recaf
+Wants to: get into the Elysian Drop Troops
+Skills: ['Resourceful', 'Fit', 'Hardy']
+Flaws: ['Stranger']
+Liked by: []
+Disliked by: ['George Shewmaker']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-01', 'Killed in action 2018-07-09']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: Colin Ross
+Age: 18
+Rank: Corporal
+Squad: squad68
+Battles: 3
+Personality: Spiteful
+Favorite food: amasec is a food, right?
+Wants to: redeem themselves
+Skills: ['Observant', 'Rapid reload']
+Flaws: ['Old wound']
+Liked by: ['Danial Ferguson']
+Disliked by: ['Joshua Walker']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-26', 'Promoted to Corporal 2018-06-30', 'Killed in action 2018-07-09']
+Legacy: Inscription on a nearby ruin
+
+Name: Eric Robertson
+Age: 25
+Rank: Guardsman
+Squad: squad68
+Battles: 1
+Personality: Sarcastic
+Favorite food: recaf beans
+Wants to: make a difference
+Skills: ['Bald', 'Heightened senses']
+Flaws: ['Oblivious', 'Death-wish']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-08', 'Killed in action 2018-07-09']
+Legacy: Inscription on a comrade's weapon
+
+Name: Jeremy Smith
+Age: 26
+Rank: Guardsman
+Squad: squad68
+Battles: 4
+Personality: Heroic
+Favorite food: ration biscuits
+Wants to: die for the Emperor
+Skills: ['Unshakeable faith']
+Flaws: ['Ugly']
+Liked by: ['Paul Brown', 'Brent Wahl', 'Joshua Walker', 'Danial Ferguson', 'Eric Robertson']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-21', 'Killed in action 2018-07-09']
+Legacy: Inscription on a vehicle
+
+Name: Danial Ferguson
+Age: 23
+Rank: Lance Corporal
+Squad: squad68
+Battles: 7
+Personality: Quiet
+Favorite food: protein paste
+Wants to: survive
+Skills: ['Rapid reload', 'Athlete', 'Handyman', 'Observant']
+Flaws: ['Unbearable guilt', 'Unbearable guilt']
+Liked by: ['Colin Ross']
+Disliked by: ['Brent Wahl']
+Confirmed kills: 1
+Awards: ['Ribbon Intrinsic', 'Service Badge', 'Macharian Cross']
+Remarks: ['Deployed 2018-06-05', 'Wounded in combat 2018-06-11', 'Promoted to Corporal 2018-06-21', 'Awarded the Ribbon Intrinsic 2018-06-21', 'Awarded the Service Badge 2018-06-30', 'Promoted to Lance Corporal 2018-07-08', 'Awarded the Macharian Cross 2018-07-08', 'Killed in action 2018-07-09']
+Legacy: A tombstone amongst thousands
+
+Name: Joshua Walker
+Age: 21
+Rank: Corporal
+Squad: squad68
+Battles: 3
+Personality: Sympathizer
+Favorite food: ploin fruit
+Wants to: write a book
+Skills: ['Heightened senses', 'Musician']
+Flaws: ['Addict']
+Liked by: []
+Disliked by: ['Colin Ross']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-26', 'Promoted to Corporal 2018-06-30', 'Killed in action 2018-07-09']
+Legacy: Cross with oath tag draped over it
+
+Name: Ronald Forster
+Age: 24
+Rank: Guardsman
+Squad: HWP84
+Battles: 1
+Personality: Loose cannon
+Favorite food: hydro fungus
+Wants to: just get five god damn minutes of peace and quiet for once
+Skills: ['Silent move']
+Flaws: ['Bad back', 'Poor discipline']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-30', 'Killed in action 2018-07-09']
+Legacy: Fond memories in the minds of his friends
+
+Name: Robert Carpenter
+Age: 16
+Rank: Guardsman
+Squad: HWP84
+Battles: 6
+Personality: Green
+Favorite food: ration biscuits
+Wants to: desert at the first opportunity
+Skills: ['Lucky', 'Unshakeable faith', 'Sound judgement', 'Trustworthy']
+Flaws: ['Bad back', 'Tainted', 'Disfigurement', 'Mostly deaf', 'Concussion']
+Liked by: ['Joseph Pinkney', 'Refugio Tate']
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Medallion Crimson', 'Service Badge']
+Remarks: ['Deployed 2018-05-30', 'Wounded in combat 2018-06-05', 'Awarded the Medallion Crimson 2018-06-05', 'Promoted to Guardsman 2018-06-21', 'Awarded the Service Badge 2018-06-30', 'Killed in action 2018-07-09']
+Legacy: A tombstone amongst thousands
+
+Name: Joseph Pinkney
+Age: 37
+Rank: Sergeant
+Squad: HWP84
+Battles: 7
+Personality: Jaded
+Favorite food: reprocessed grox meat
+Wants to: learn to fly
+Skills: ['Handyman', 'Bionic arm', 'Observant']
+Flaws: ['Disfigurement', 'Concussion']
+Liked by: ['Kevin Padilla']
+Disliked by: ['Robert Carpenter']
+Confirmed kills: 0
+Awards: ['Medallion Crimson', 'Service Badge']
+Remarks: ['Wounded in combat 2018-06-05', 'Wounded in combat 2018-06-14', 'Awarded the Medallion Crimson 2018-06-14', 'Promoted to Corporal 2018-06-14', 'Promoted to Lance Corporal 2018-06-26', 'Awarded the Service Badge 2018-06-26', 'Wounded in combat 2018-06-30', 'Promoted to Sergeant 2018-06-30', 'Killed in action 2018-07-09']
+Legacy: A tombstone amongst thousands
+
+Name: Wm Clay
+Age: 19
+Rank: Corporal
+Squad: HWP84
+Battles: 7
+Personality: Dreamer
+Favorite food: protein paste
+Wants to: kill heretics
+Skills: ['Nerves of steel', 'Born leader', 'Crack shot', 'Handyman']
+Flaws: ['Death-wish', 'Flashbacks', 'Old wound']
+Liked by: ['Kevin Padilla']
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Service Badge']
+Remarks: ['Promoted to Corporal 2018-05-30', 'Wounded in combat 2018-06-05', 'Awarded the Service Badge 2018-06-26', 'Wounded in combat 2018-06-30', 'Executed for desertion 2018-07-09']
+Legacy: A cautionary tale
+
+Name: Steven Santos
+Age: 20
+Rank: Sergeant
+Squad: HWP281
+Battles: 7
+Personality: Loner
+Favorite food: recaf beans
+Wants to: bring honor to their family
+Skills: ['Unshakeable faith', 'Bionic arm']
+Flaws: ['Disfigurement']
+Liked by: ['Gary Wermers']
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Medallion Crimson', 'Service Badge']
+Remarks: ['Deployed 2018-05-30', 'Promoted to Corporal 2018-06-08', 'Awarded the Medallion Crimson 2018-06-11', 'Promoted to Lance Corporal 2018-06-21', 'Wounded in combat 2018-06-26', 'Promoted to Sergeant 2018-06-26', 'Awarded the Service Badge 2018-06-26', 'Wounded in combat 2018-06-30', 'Killed in action 2018-07-09']
+Legacy: Cross with oath tag draped over it
+
+Name: Dennis Bailey
+Age: 25
+Rank: Guardsman
+Squad: HWP281
+Battles: 2
+Personality: Obsessive
+Favorite food: ploin fruit
+Wants to: sleep in
+Skills: ['Hardy']
+Flaws: ['Hesitant']
+Liked by: ['Lisa Decarr']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-26', 'Wounded in combat 2018-06-30', 'Converted to a servitor 2018-07-09']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: Vincent Franco
+Age: 18
+Rank: Sergeant
+Squad: RussE440
+Battles: 5
+Personality: Braggart
+Favorite food: corpse-starch
+Wants to: desert at the first opportunity
+Skills: ['Mustache', 'Tough as nails', 'Bionic leg', 'Trustworthy', 'Sound judgement']
+Flaws: ['Bad eyesight', 'Mostly deaf']
+Liked by: ['Martin Campbell']
+Disliked by: ['Benjamin Moran']
+Confirmed kills: 0
+Awards: ['Medallion Crimson']
+Remarks: ['Deployed 2018-06-11', 'Promoted to Corporal 2018-06-21', 'Promoted to Lance Corporal 2018-06-26', 'Wounded in combat 2018-06-30', 'Awarded the Medallion Crimson 2018-06-30', 'Wounded in combat 2018-07-03', 'Promoted to Sergeant 2018-07-03', 'Killed in action 2018-07-09']
+Legacy: Cross with oath tag draped over it
+
+Name: Jeffrey Todd
+Age: 20
+Rank: Lance Corporal
+Squad: Scions738
+Battles: 3
+Personality: Sarcastic
+Favorite food: reprocessed grox meat
+Wants to: serve up a cold plate of vengeance
+Skills: ['Street fighter', 'Hard target', 'Crack shot', 'Good looking', 'Tactical genius']
+Flaws: ['Asthma', 'Unlucky']
+Liked by: []
+Disliked by: ['George Shaddix']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-30', 'Wounded in combat 2018-07-09', 'Promoted to Lance Corporal 2018-07-09', 'Killed in action 2018-07-12']
+Legacy: Inscription on a comrade's weapon
+
+Name: John Adams
+Age: 26
+Rank: Corporal
+Squad: Scions738
+Battles: 10
+Personality: Quiet
+Favorite food: hydro fungus
+Wants to: be remembered
+Skills: ['Heightened senses', 'Lightning reflexes', 'Tough as nails', 'Bionic arm', 'Trustworthy']
+Flaws: ['Paranoid', 'Coward', 'Shell-shock']
+Liked by: ['Jason Smith']
+Disliked by: ['Gregory Valentine']
+Confirmed kills: 0
+Awards: ['Macharian Cross', 'Medallion Crimson', 'Service Badge', 'Order of the Eagles Claw']
+Remarks: ['Demoted to Guardsman 2018-05-30', 'Awarded the Macharian Cross 2018-06-05', 'Wounded in combat 2018-06-14', 'Awarded the Medallion Crimson 2018-06-14', 'Promoted to Corporal 2018-06-21', 'Awarded the Service Badge 2018-06-21', 'Awarded the Order of the Eagles Claw 2018-06-21', 'Promoted to Lance Corporal 2018-06-26', 'Wounded in combat 2018-06-30', 'Demoted to Corporal 2018-07-09', 'Killed in action 2018-07-12']
+Legacy: Equipment becomes a family heirloom
+
+Name: Timothy Damon
+Age: 22
+Rank: Guardsman
+Squad: squad68
+Battles: 1
+Personality: Never bathes
+Favorite food: corpse-starch
+Wants to: write a book
+Skills: ['Zealous', 'Zealous']
+Flaws: ['Oblivious']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-09', 'Killed in action 2018-07-12']
+Legacy: Anonymous sacrifice
+
+Name: William Dasilva
+Age: 23
+Rank: Guardsman
+Squad: squad68
+Battles: 1
+Personality: Steely
+Favorite food: corpse-starch
+Wants to: survive
+Skills: ['Silent move']
+Flaws: ['Poor aim']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-09', 'Killed in action 2018-07-12']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: Kevin May
+Age: 18
+Rank: Guardsman
+Squad: squad137
+Battles: 1
+Personality: Affable
+Wants to: survive
+Skills: []
+Flaws: []
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-09', 'Killed in action 2018-07-19']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: Lawrence Dye
+Age: 28
+Rank: Guardsman
+Squad: squad137
+Battles: 2
+Personality: Steely
+Wants to: start a family
+Skills: ['Zealous', 'Trustworthy']
+Flaws: ['Missing eye', 'Coward']
+Liked by: ['Mathew Gonzalez', 'David Collinsworth']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-03', 'Wounded in combat 2018-07-09', 'Killed in action 2018-07-19']
+Legacy: A tombstone amongst thousands
+
+Name: Michael Kilpatrick
+Age: 26
+Rank: Guardsman
+Squad: squad137
+Battles: 1
+Personality: Gambler
+Wants to: get promoted
+Skills: ['Heightened senses', 'Nerves of steel']
+Flaws: ['Overweight']
+Liked by: []
+Disliked by: ['Kevin Clayton']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-09', 'Killed in action 2018-07-19']
+Legacy: Anonymous sacrifice
+
+Name: Todd Carpenter
+Age: 23
+Rank: Guardsman
+Squad: squad137
+Battles: 1
+Personality: Slacker
+Wants to: earn the respect of their comrades
+Skills: ['Sound judgement']
+Flaws: []
+Liked by: []
+Disliked by: ['Lawrence Dye']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-09', 'Killed in action 2018-07-19']
+Legacy: Inscription on a nearby ruin
+
+Name: David Collinsworth
+Age: 18
+Rank: Corporal
+Squad: squad137
+Battles: 3
+Personality: Spiteful
+Wants to: make a difference
+Skills: ['Bionic leg', 'Trustworthy', 'Sound judgement']
+Flaws: ['Death-wish', 'Addict', 'Concussion', 'Coward', 'Shell-shock']
+Liked by: []
+Disliked by: ['Mathew Gonzalez']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-30', 'Wounded in combat 2018-07-03', 'Promoted to Corporal 2018-07-03', 'Wounded in combat 2018-07-09', 'Killed in action 2018-07-19']
+Legacy: Inscription on a nearby ruin
+
+Name: Mario Hardy
+Age: 18
+Rank: Guardsman
+Squad: squad137
+Battles: 1
+Personality: Steely
+Wants to: meet someone famous
+Skills: ['Hard target']
+Flaws: []
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-09', 'Killed in action 2018-07-19']
+Legacy: Vengeful relative
+
+Name: Jeff Montoya
+Age: 26
+Rank: Corporal
+Squad: squad137
+Battles: 3
+Personality: Steely
+Wants to: earn the respect of their comrades
+Skills: ['Nerves of steel', 'Handyman', 'Awesome scar', 'Cautious']
+Flaws: ['Hesitant', 'Old wound']
+Liked by: ['Mario Hardy']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-30', 'Wounded in combat 2018-07-03', 'Wounded in combat 2018-07-09', 'Promoted to Corporal 2018-07-09', 'Killed in action 2018-07-19']
+Legacy: Inscription on a nearby ruin
+
+Name: Anna Musial
+Age: 26
+Rank: Guardsman
+Squad: squad382
+Battles: 3
+Personality: Joker
+Wants to: write a book
+Skills: ['Unshakeable pride']
+Flaws: ['Insomniac', 'Pacifist', 'Old wound']
+Liked by: ['Larry Franklin']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-06-30', 'Wounded in combat 2018-07-09', 'Killed in action 2018-07-19']
+Legacy: Inscription on a comrade's weapon
+
+Name: Mike Avila
+Age: 28
+Rank: Guardsman
+Squad: squad382
+Battles: 6
+Personality: Backwater
+Wants to: kill heretics
+Skills: ['Trustworthy', 'Beard', 'Handyman']
+Flaws: ['Poor health', 'Illiterate', 'Missing eye', 'Shell-shock']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Service Badge']
+Remarks: ['Deployed 2018-06-11', 'Wounded in combat 2018-06-30', 'Wounded in combat 2018-07-09', 'Awarded the Service Badge 2018-07-09', 'Killed in action 2018-07-19']
+Legacy: Vengeful relative
+
+Name: Garrett James
+Age: 28
+Rank: Guardsman
+Squad: squad382
+Battles: 1
+Personality: Thief
+Wants to: make a difference
+Skills: []
+Flaws: ['Old wound']
+Liked by: []
+Disliked by: ['Glenn Monaco']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-09', 'Killed in action 2018-07-19']
+Legacy: Anonymous sacrifice
+
+Name: Jason Smith
+Age: 28
+Rank: Lance Sergeant
+Squad: Scions738
+Battles: 9
+Personality: Strict
+Wants to: become rich
+Skills: ['Lucky', 'Bionic eye', 'Observant', 'Tireless']
+Flaws: ['Poor aim', 'Hesitant', 'Mostly deaf', 'Hesitant']
+Liked by: ['Billie Aragaki']
+Disliked by: ['Clarence Ace']
+Confirmed kills: 0
+Awards: ['Service Badge']
+Remarks: ['Deployed 2018-05-30', 'Promoted to Lance Corporal 2018-06-08', 'Wounded in combat 2018-06-14', 'Awarded the Service Badge 2018-06-26', 'Wounded in combat 2018-06-30', 'Promoted to Sergeant 2018-06-30', 'Wounded in combat 2018-07-09', 'Promoted to Lance Sergeant 2018-07-09', 'Wounded in combat 2018-07-12', 'Killed in action 2018-07-19']
+Legacy: Cross with oath tag draped over it
+
+Name: Refugio Tate
+Age: 20
+Rank: Corporal
+Squad: HWP84
+Battles: 2
+Personality: Psychotic
+Wants to: get promoted
+Skills: ['Sound judgement']
+Flaws: ['Unbearable guilt', 'Flashbacks']
+Liked by: []
+Disliked by: []
+Confirmed kills: 1
+Awards: ['Eagle Ordinary', 'Triple Skull']
+Remarks: ['Deployed 2018-06-30', 'Promoted to Corporal 2018-07-09', 'Awarded the Eagle Ordinary 2018-07-09', 'Awarded the Triple Skull 2018-07-09', 'Killed in action 2018-07-19']
+Legacy: A tombstone amongst thousands
+
+Name: Kevin Padilla
+Age: 19
+Rank: Guardsman
+Squad: HWP84
+Battles: 7
+Personality: Narcissist
+Wants to: kill xenos
+Skills: ['Die hard', 'Tactical genius', 'Awesome scar']
+Flaws: ['Ugly', 'Disfigurement', 'Concussion', 'Shell-shock']
+Liked by: []
+Disliked by: ['John Fedezko']
+Confirmed kills: 0
+Awards: ['Medallion Crimson', 'Service Badge']
+Remarks: ['Deployed 2018-05-30', 'Wounded in combat 2018-06-05', 'Awarded the Medallion Crimson 2018-06-05', 'Wounded in combat 2018-06-14', 'Wounded in combat 2018-06-30', 'Awarded the Service Badge 2018-06-30', 'Killed in action 2018-07-19']
+Legacy: Inscription on a comrade's weapon
+
+Name: Luis Mccormick
+Age: 20
+Rank: Guardsman
+Squad: HWP84
+Battles: 1
+Personality: Affable
+Wants to: redeem themselves
+Skills: ['Observant']
+Flaws: []
+Liked by: ['Johnny Frost']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-09', 'Killed in action 2018-07-19']
+Legacy: Inscription on a nearby ruin
+
+Name: John Fedezko
+Age: 19
+Rank: Guardsman
+Squad: HWP84
+Battles: 1
+Personality: Psychotic
+Wants to: write a book
+Skills: ['Rapid reload']
+Flaws: ['Bad back']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-09', 'Killed in action 2018-07-19']
+Legacy: Inscription on a comrade's weapon
+
+Name: Paul Brown
+Age: 25
+Rank: Lance Sergeant
+Squad: squad68
+Battles: 7
+Personality: Strict
+Wants to: own their own house
+Skills: ['Tactical genius', 'Silent move', 'Observant']
+Flaws: ['Hesitant', 'Unlucky', 'Flashbacks', 'Unbearable guilt']
+Liked by: ['Billy Miller', 'John Webb']
+Disliked by: ['Joseph Crump']
+Confirmed kills: 0
+Awards: ['Ribbon Intrinsic', 'Service Badge']
+Remarks: ['Deployed 2018-06-11', 'Promoted to Corporal 2018-06-21', 'Awarded the Ribbon Intrinsic 2018-06-21', 'Promoted to Lance Corporal 2018-06-26', 'Promoted to Sergeant 2018-06-30', 'Promoted to Lance Sergeant 2018-07-08', 'Awarded the Service Badge 2018-07-09', 'Killed in action 2018-07-19']
+Legacy: Vengeful relative
+
+Name: Jason Nowden
+Age: 27
+Rank: Lance Corporal
+Squad: RussE440
+Battles: 3
+Personality: Reckless
+Wants to: acquire knowledge
+Skills: ['Foresight']
+Flaws: ['Asthma']
+Liked by: ['Martin Campbell']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-03', 'Promoted to Corporal 2018-07-09', 'Promoted to Lance Corporal 2018-07-12', 'Killed in action 2018-07-19']
+Legacy: Fond memories in the minds of his friends
+
+Name: Ivan Uong
+Age: 21
+Rank: Corporal
+Squad: Scions738
+Battles: 1
+Personality: Backwater
+Background: Merchant house
+Wants to: survive
+Skills: ['Handyman', 'Hard target', 'Bookworm', 'Combat master']
+Flaws: ['Tainted', 'Poor discipline']
+Liked by: ['Billie Aragaki']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-19', 'Killed in action 2018-07-19']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: Robert Self
+Age: 20
+Rank: Corporal
+Squad: Scions738
+Battles: 4
+Personality: Heroic
+Wants to: impress the commissar
+Skills: ['Athlete', 'Bionic arm', 'Bookworm', 'Tough as nails', 'Awesome scar']
+Flaws: ['Bad eyesight', 'Hesitant', 'Paranoid']
+Liked by: ['David White', 'Billie Aragaki']
+Disliked by: ['Jeffrey Todd', 'Ivan Uong']
+Confirmed kills: 0
+Awards: ['Eagle Ordinary']
+Remarks: ['Deployed 2018-06-30', 'Wounded in combat 2018-07-09', 'Promoted to Lance Corporal 2018-07-09', 'Awarded the Eagle Ordinary 2018-07-09', 'Demoted to Corporal 2018-07-19', 'Killed in action 2018-07-19']
+Legacy: Inscription on a comrade's weapon
+
+Name: Clarence Ace
+Age: 18
+Rank: Sergeant
+Squad: Scions738
+Battles: 8
+Personality: Green
+Wants to: own their own house
+Skills: ['Unshakeable pride', 'Unshakeable faith', 'Awesome scar', 'Bionic leg', 'Duelist', 'Bionic arm']
+Flaws: ['Poor aim', 'Old wound']
+Liked by: []
+Disliked by: ['Lucio Beardsley']
+Confirmed kills: 0
+Awards: ['Medallion Crimson', 'Eagle Ordinary', 'Service Badge']
+Remarks: ['Deployed 2018-06-14', 'Promoted to Guardsman 2018-06-21', 'Wounded in combat 2018-06-30', 'Promoted to Corporal 2018-07-03', 'Wounded in combat 2018-07-09', 'Awarded the Medallion Crimson 2018-07-09', 'Promoted to Lance Corporal 2018-07-09', 'Awarded the Eagle Ordinary 2018-07-09', 'Awarded the Service Badge 2018-07-09', 'Promoted to Sergeant 2018-07-12', 'Wounded in combat 2018-07-19', 'Killed in action 2018-07-19']
+Legacy: Equipment becomes a family heirloom
+
+Name: Samuel Pasch
+Age: 25
+Rank: Guardsman
+Squad: squad68
+Battles: 1
+Personality: Edgy
+Background: Outcast
+Wants to: own their own house
+Skills: ['Survivalist', 'Rapid reload']
+Flaws: ['Poor discipline', 'Gullible']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-19', 'Killed in action 2018-07-20']
+Legacy: Inscription on a comrade's weapon
+
+Name: Derek Cassidy
+Age: 23
+Rank: Guardsman
+Squad: squad68
+Battles: 1
+Personality: Cocky
+Background: Hiver
+Wants to: make a difference
+Skills: ['Hard target', 'Patient']
+Flaws: ['Unlucky', 'Hive bound']
+Liked by: ['Brent Wahl']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-19', 'Killed in action 2018-07-20']
+Legacy: Vengeful relative
+
+Name: William Jacobson
+Age: 28
+Rank: Lance Corporal
+Squad: squad68
+Battles: 3
+Personality: Nihilist
+Wants to: meet someone famous
+Skills: ['Bionic leg', 'Bald']
+Flaws: ['Concussion']
+Liked by: ['David Davis']
+Disliked by: ['James Hernandez']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-09', 'Wounded in combat 2018-07-12', 'Promoted to Corporal 2018-07-12', 'Promoted to Lance Corporal 2018-07-19', 'Killed in action 2018-07-20']
+Legacy: Inscription on a nearby ruin
+
+Name: Timothy Vines
+Age: 22
+Rank: Guardsman
+Squad: squad68
+Battles: 3
+Personality: Gambler
+Wants to: learn to fly
+Skills: ['Survivalist', 'Sound judgement']
+Flaws: ['Old wound']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-09', 'Wounded in combat 2018-07-12', 'Wounded in combat 2018-07-19', 'Killed in action 2018-07-20']
+Legacy: Vengeful relative
+
+Name: John Campbell
+Age: 27
+Rank: Cadet
+Squad: squad705
+Battles: 3
+Personality: Twitchy
+Wants to: eat like a king
+Skills: ['Good sense of direction', 'Heightened senses', 'Mustache']
+Flaws: ['Disfigurement', 'Flashbacks']
+Liked by: ['Ronald Bealer']
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Medallion Crimson']
+Remarks: ['Deployed 2018-07-03', 'Wounded in combat 2018-07-09', 'Awarded the Medallion Crimson 2018-07-09', 'Demoted to Cadet 2018-07-19', 'Killed in action 2018-07-24']
+Legacy: Inscription on a comrade's weapon
+
+Name: Eric Allen
+Age: 24
+Rank: Guardsman
+Squad: squad705
+Battles: 1
+Personality: Affable
+Background: Slave
+Wants to: redeem themselves
+Skills: ['Rapid reload']
+Flaws: ['Careless', 'Flat footed']
+Liked by: ['Miles Mullings']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-19', 'Killed in action 2018-07-24']
+Legacy: Fond memories in the minds of his friends
+
+Name: John Wayne
+Age: 19
+Rank: Guardsman
+Squad: squad705
+Battles: 2
+Personality: Gambler
+Wants to: protect a friend
+Skills: ['Handyman', 'Unshakeable pride']
+Flaws: ['Flat footed', 'Poor discipline']
+Liked by: ['Glen Flores']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-09', 'Wounded in combat 2018-07-19', 'Killed in action 2018-07-24']
+Legacy: Fond memories in the minds of his friends
+
+Name: James Beane
+Age: 26
+Rank: Guardsman
+Squad: squad137
+Battles: 1
+Personality: Quiet
+Background: Ganger
+Wants to: become famous
+Skills: ['Ambidextrous']
+Flaws: ['Addict', 'Cruel']
+Liked by: []
+Disliked by: ['Kirk Bauer']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-19', 'Killed in action 2018-07-24']
+Legacy: Vengeful relative
+
+Name: Nolan Carson
+Age: 21
+Rank: Guardsman
+Squad: squad137
+Battles: 1
+Personality: Talkative
+Background: Hiver
+Wants to: impress the commissar
+Skills: ['Unarmed warrior', 'Good looking']
+Flaws: []
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-19', 'Killed in action 2018-07-24']
+Legacy: Cross with oath tag draped over it
+
+Name: John Thrift
+Age: 23
+Rank: Guardsman
+Squad: squad137
+Battles: 2
+Personality: Spiteful
+Wants to: own their own house
+Skills: ['Awesome scar']
+Flaws: ['Shell-shock']
+Liked by: []
+Disliked by: ['Mathew Gonzalez']
+Confirmed kills: 0
+Awards: ['Triple Skull']
+Remarks: ['Deployed 2018-07-09', 'Wounded in combat 2018-07-19', 'Awarded the Triple Skull 2018-07-19', 'Killed in action 2018-07-24']
+Legacy: Cross with oath tag draped over it
+
+Name: Mathew Gonzalez
+Age: 28
+Rank: Corporal
+Squad: squad137
+Battles: 6
+Personality: Cocky
+Wants to: kill heretics
+Skills: ['Lightning reflexes', 'Brave', 'Awesome scar']
+Flaws: ['Careless', 'Tainted', 'Death-wish', 'Shell-shock', 'Unbearable guilt']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Triple Skull', 'Service Badge']
+Remarks: ['Deployed 2018-06-21', 'Wounded in combat 2018-07-03', 'Promoted to Corporal 2018-07-03', 'Wounded in combat 2018-07-09', 'Wounded in combat 2018-07-19', 'Awarded the Triple Skull 2018-07-19', 'Awarded the Service Badge 2018-07-19', 'Executed for desertion 2018-07-24']
+Legacy: Inscription on a vehicle
+
+Name: Eddy Curtis
+Age: 27
+Rank: Guardsman
+Squad: squad68
+Battles: 1
+Personality: Nihilist
+Background: Slave
+Wants to: make it home
+Skills: ['Hardy']
+Flaws: ['Hesitant', 'Bad eyesight']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-20', 'Killed in action 2018-07-24']
+Legacy: Inscription on a nearby ruin
+
+Name: Andrew Thomas
+Age: 18
+Rank: Guardsman
+Squad: squad68
+Battles: 1
+Personality: Quiet
+Background: Scavenger
+Wants to: impress the commissar
+Skills: []
+Flaws: []
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-20', 'Killed in action 2018-07-24']
+Legacy: Inscription on a comrade's weapon
+
+Name: Michael Smith
+Age: 27
+Rank: Guardsman
+Squad: squad68
+Battles: 1
+Personality: Affable
+Background: Hiver
+Wants to: kill xenos
+Skills: ['Bionic leg']
+Flaws: ['Coward', 'Addict']
+Liked by: ['William Steffan', 'Ronald Jackson']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-24', 'Killed in action 2018-07-24']
+Legacy: Vengeful relative
+
+Name: Wilton Wells
+Age: 23
+Rank: Corporal
+Squad: RussB185
+Battles: 1
+Personality: Cocky
+Background: Planetary defence
+Wants to: become famous
+Skills: []
+Flaws: ['Overweight']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-19', 'Killed in action 2018-07-30']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: Jeffrey Britt
+Age: 25
+Rank: Corporal
+Squad: RussD284
+Battles: 2
+Personality: Mentor
+Background: Slave
+Wants to: impress the commissar
+Skills: ['Athlete']
+Flaws: ['Old wound', 'Careless']
+Liked by: ['Christopher Khim', 'Mark Decker', 'Ricardo Green', 'Thomas Andres']
+Disliked by: ['John Alvarez', 'Mark Bowles']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-24', 'Promoted to Corporal 2018-07-24', 'Killed in action 2018-07-30']
+Legacy: Inscription on a vehicle
+
+Name: Russell Miyao
+Age: 28
+Rank: Guardsman
+Squad: RussE592
+Battles: 1
+Personality: Quiet
+Background: Scavenger
+Wants to: get back to the good old days
+Skills: ['Unremarkable', 'Unshakeable pride']
+Flaws: ['Tainted']
+Liked by: []
+Disliked by: ['Edward Klein', 'Jason Butterworth']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-24', 'Killed in action 2018-07-30']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: John Barker
+Age: 18
+Rank: Guardsman
+Squad: RussE592
+Battles: 1
+Personality: Steely
+Background: Voidborn
+Wants to: kill xenos
+Skills: ['Bionic leg', 'Lucky']
+Flaws: ['Overweight', 'Clumsy']
+Liked by: ['Edward Klein', 'Russell Miyao']
+Disliked by: ['Wesley Mcgill', 'Jason Butterworth']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-24', 'Killed in action 2018-07-30']
+Legacy: Fond memories in the minds of his friends
+
+Name: Charles Mack
+Age: 23
+Rank: Corporal
+Squad: chimera898
+Battles: 2
+Personality: Awkward
+Background: Administratum menial
+Wants to: eat like a king
+Skills: ['Foresight', 'Trustworthy']
+Flaws: ['Unlucky', 'Death-wish']
+Liked by: ['William Baver']
+Disliked by: ['Pedro Taylor', 'Tony Schweitzer']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-24', 'Promoted to Corporal 2018-07-24', 'Killed in action 2018-07-30']
+Legacy: Vengeful relative
+
+Name: William Baver
+Age: 21
+Rank: Guardsman
+Squad: chimera898
+Battles: 2
+Personality: Edgy
+Background: Slave
+Wants to: meet someone famous
+Skills: ['Silent move', 'Trustworthy']
+Flaws: ['Poor aim', 'Old wound']
+Liked by: ['Tony Schweitzer', 'Charles Mack', 'Pedro Taylor']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-24', 'Killed in action 2018-07-30']
+Legacy: Vengeful relative
+
+Name: Pedro Taylor
+Age: 23
+Rank: Corporal
+Squad: chimera898
+Battles: 2
+Personality: Sarcastic
+Background: Hiver
+Wants to: earn the respect of their superiors
+Skills: ['Unremarkable']
+Flaws: ['Ignorant']
+Liked by: ['Tony Schweitzer']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-24', 'Promoted to Corporal 2018-07-24', 'Killed in action 2018-07-30']
+Legacy: A tombstone amongst thousands
+
+Name: Gary Wermers
+Age: 20
+Rank: Corporal
+Squad: HWP281
+Battles: 10
+Personality: Loner
+Wants to: survive
+Skills: ['Crack shot', 'Nerves of steel', 'Hardy', 'Bionic arm']
+Flaws: ['Flashbacks', 'Disfigurement']
+Liked by: []
+Disliked by: ['Lisa Decarr', 'Monty Capps']
+Confirmed kills: 0
+Awards: ['Medallion Crimson', 'Service Badge']
+Remarks: ['Deployed 2018-05-30', 'Promoted to Corporal 2018-05-30', 'Promoted to Lance Corporal 2018-06-08', 'Wounded in combat 2018-06-11', 'Demoted to Corporal 2018-06-21', 'Wounded in combat 2018-06-26', 'Awarded the Medallion Crimson 2018-06-26', 'Awarded the Service Badge 2018-06-26', 'Wounded in combat 2018-06-30', 'Killed in action 2018-07-30']
+Legacy: Vengeful relative
+
+Name: John Polowy
+Age: 18
+Rank: Guardsman
+Squad: HWP84
+Battles: 1
+Personality: Strict
+Background: Slave
+Wants to: set a record
+Skills: []
+Flaws: ['Tainted', 'Clumsy']
+Liked by: []
+Disliked by: ['Kevin Holmes']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-19', 'Killed in action 2018-07-30']
+Legacy: Vengeful relative
+
+Name: Kenneth Hart
+Age: 27
+Rank: Guardsman
+Squad: HWP84
+Battles: 1
+Personality: Mentor
+Background: Scavenger
+Wants to: sleep in
+Skills: ['Survivalist', 'Quick draw']
+Flaws: ['Asthma']
+Liked by: ['Kevin Holmes']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-19', 'Killed in action 2018-07-30']
+Legacy: Fond memories in the minds of his friends
+
+Name: Jesse Wykes
+Age: 23
+Rank: Guardsman
+Squad: HWP84
+Battles: 1
+Personality: Awkward
+Background: Administratum menial
+Wants to: survive
+Skills: ['Heightened senses', 'Athlete']
+Flaws: ['Dyslexic', 'Fragile']
+Liked by: []
+Disliked by: ['Mark Cooley']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-19', 'Killed in action 2018-07-30']
+Legacy: Cross with oath tag draped over it
+
+Name: Tony Weaver
+Age: 24
+Rank: Guardsman
+Squad: squad68
+Battles: 2
+Personality: Sensible
+Background: Outcast
+Wants to: set a record
+Skills: ['Combat master', 'Good looking', 'Hardy']
+Flaws: ['Tainted']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-20', 'Wounded in combat 2018-07-24', 'Killed in action 2018-07-30']
+Legacy: Anonymous sacrifice
+
+Name: Donald Street
+Age: 21
+Rank: Guardsman
+Squad: squad68
+Battles: 2
+Personality: Awkward
+Background: Administratum menial
+Wants to: redeem themselves
+Skills: ['Good sense of direction', 'Athlete']
+Flaws: ['Death-wish']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-20', 'Killed in action 2018-07-30']
+Legacy: Fond memories in the minds of his friends
+
+Name: Jeffery Wong
+Age: 25
+Rank: Guardsman
+Squad: squad650
+Battles: 1
+Personality: Mentor
+Background: Slave
+Wants to: be remembered
+Skills: ['Bald', 'Tireless']
+Flaws: ['Cruel']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-24', 'Killed in action 2018-07-30']
+Legacy: Anonymous sacrifice
+
+Name: Mark Williams
+Age: 21
+Rank: Sergeant
+Squad: squad650
+Battles: 1
+Personality: Narcissist
+Background: Slave
+Wants to: make a difference
+Skills: ['Tireless']
+Flaws: ['Cruel']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-24', 'Killed in action 2018-07-30']
+Legacy: Cross with oath tag draped over it
+
+Name: Clifford Strassburg
+Age: 18
+Rank: Corporal
+Squad: squad650
+Battles: 2
+Personality: Strict
+Background: Administratum menial
+Wants to: survive
+Skills: ['Heightened senses', 'Silent move']
+Flaws: ['Cruel', 'Unbearable guilt']
+Liked by: []
+Disliked by: ['Ronald Jackson']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-19', 'Wounded in combat 2018-07-24', 'Promoted to Corporal 2018-07-24', 'Killed in action 2018-07-30']
+Legacy: Fond memories in the minds of his friends
+
+Name: Jeffrey Archer
+Age: 23
+Rank: Guardsman
+Squad: squad650
+Battles: 2
+Personality: Sympathizer
+Background: Forge worker
+Wants to: get laid
+Skills: ['Rapid reload']
+Flaws: ['Poor discipline', 'Dishonest']
+Liked by: []
+Disliked by: ['Allen Stevenson']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-19', 'Wounded in combat 2018-07-24', 'Killed in action 2018-07-30']
+Legacy: Anonymous sacrifice
+
+Name: Kirk Bauer
+Age: 23
+Rank: Cadet
+Squad: squad650
+Battles: 2
+Personality: Backwater
+Background: Agri worker
+Wants to: redeem themselves
+Skills: ['Musician']
+Flaws: ['Short temper', 'Hesitant', 'Flashbacks']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-19', 'Demoted to Cadet 2018-07-24', 'Killed in action 2018-07-30']
+Legacy: Anonymous sacrifice
+
+Name: Randall Edgecomb
+Age: 20
+Rank: Corporal
+Squad: squad705
+Battles: 1
+Personality: Dissenter
+Background: Planetary defence
+Wants to: acquire knowledge
+Skills: []
+Flaws: ['Ignorant', 'Poor initiative']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-24', 'Killed in action 2018-07-30']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: Ronald Bealer
+Age: 21
+Rank: Guardsman
+Squad: squad705
+Battles: 2
+Personality: Slacker
+Background: Forge worker
+Wants to: kill heretics
+Skills: ['Lateral thinker', 'Bionic eye']
+Flaws: ['Shell-shock']
+Liked by: ['Miles Mullings']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-19', 'Killed in action 2018-07-30']
+Legacy: A tombstone amongst thousands
+
+Name: Robert Bailey
+Age: 18
+Rank: Corporal
+Squad: Scions475
+Battles: 1
+Personality: Affable
+Background: Disgraced
+Wants to: survive
+Skills: ['Cautious', 'Athlete', 'Good sense of direction']
+Flaws: ['Fragile', 'Unbearable guilt']
+Liked by: ['Robert Stewart', 'Michael Duncan', 'John Mckinley']
+Disliked by: ['Benjamin Gutierrez', 'Orville Criner']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-30', 'Killed in action 2018-07-30']
+Legacy: Cross with oath tag draped over it
+
+Name: Tyler Offield
+Age: 18
+Rank: Corporal
+Squad: Scions475
+Battles: 1
+Personality: Smooth
+Background: Dilettante
+Wants to: set foot on Terra
+Skills: []
+Flaws: ['Clumsy', 'Allergies']
+Liked by: ['Michael Duncan']
+Disliked by: ['Joseph Casad', 'Robert Stewart']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-30', 'Killed in action 2018-07-30']
+Legacy: Inscription on a nearby ruin
+
+Name: Joseph Casad
+Age: 22
+Rank: Corporal
+Squad: Scions475
+Battles: 1
+Personality: Sarcastic
+Background: Bastard child
+Wants to: become famous
+Skills: ['Bookworm', 'Heightened senses']
+Flaws: ['Pacifist', 'Careless']
+Liked by: ['Benjamin Gutierrez']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-30', 'Killed in action 2018-07-30']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: David Craig
+Age: 27
+Rank: Corporal
+Squad: Scions738
+Battles: 1
+Personality: Spiteful
+Background: Disgraced
+Wants to: learn to fly
+Skills: ['Hardy', 'Tinkerer', 'Cook']
+Flaws: ['Bad eyesight', 'Tainted']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-19', 'Killed in action 2018-07-30']
+Legacy: Inscription on a comrade's weapon
+
+Name: Richard Daddario
+Age: 26
+Rank: Guardsman
+Squad: SuperHeavy789
+Battles: 1
+Personality: Leech
+Background: Outcast
+Wants to: desert at the first opportunity
+Skills: ['Quick draw']
+Flaws: ['Short temper', 'Gullible']
+Liked by: ['Edward Klein']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-24', 'Killed in action 2018-08-02']
+Legacy: Fond memories in the minds of his friends
+
+Name: Michelle Henderson
+Age: 26
+Rank: Guardsman
+Squad: SuperHeavy789
+Battles: 1
+Personality: Obsessive
+Background: Scavenger
+Wants to: start a family
+Skills: ['Trustworthy', 'Quick draw']
+Flaws: ['Weak', 'Unlucky', 'Tainted']
+Liked by: ['John Mcclellan']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-24', 'Killed in action 2018-08-02']
+Legacy: Inscription on a nearby ruin
+
+Name: John Alvarez
+Age: 28
+Rank: Corporal
+Squad: RussD284
+Battles: 3
+Personality: Boisterous
+Background: Voidborn
+Wants to: become rich
+Skills: ['Lateral thinker', 'Crack shot']
+Flaws: ['Poor health', 'Unbearable guilt', 'Disfigurement']
+Liked by: ['Thomas Andres']
+Disliked by: ['Christopher Khim']
+Confirmed kills: 0
+Awards: ['Medallion Crimson']
+Remarks: ['Deployed 2018-07-24', 'Wounded in combat 2018-07-30', 'Awarded the Medallion Crimson 2018-07-30', 'Promoted to Corporal 2018-07-30', 'Killed in action 2018-08-02']
+Legacy: Inscription on a comrade's weapon
+
+Name: Benjamin Moran
+Age: 27
+Rank: Sergeant
+Squad: RussD284
+Battles: 7
+Personality: Mentor
+Wants to: serve up a cold plate of vengeance
+Skills: ['Unshakeable faith', 'Crack shot', 'Trustworthy', 'Hardy', 'Mustache', 'Good sense of direction']
+Flaws: ['Death-wish', 'Slow', 'Old wound', 'Mostly deaf']
+Liked by: ['Steven Jackson', 'Donavan Carscallen', 'Todd Cressman', 'Mark Decker', 'Michael Kaspar', 'Mark Bowles']
+Disliked by: []
+Confirmed kills: 4
+Awards: ['Service Badge']
+Remarks: ['Deployed 2018-06-30', 'Promoted to Corporal 2018-07-03', 'Promoted to Lance Corporal 2018-07-09', 'Promoted to Sergeant 2018-07-19', 'Awarded the Service Badge 2018-07-24', 'Killed in action 2018-08-02']
+Legacy: Inscription on an overgrown memorial plaque
+
+Name: Robert Wooden
+Age: 24
+Rank: Guardsman
+Squad: squad68
+Battles: 1
+Personality: Spiteful
+Background: Slave
+Wants to: be remembered
+Skills: ['Street fighter', 'Trustworthy', 'Tireless']
+Flaws: ['Dishonest']
+Liked by: ['Kurt Atkins']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-30', 'Killed in action 2018-08-02']
+Legacy: A tombstone amongst thousands
+
+Name: Kevin Brock
+Age: 27
+Rank: Guardsman
+Squad: squad68
+Battles: 1
+Personality: Condescending
+Background: Forge worker
+Wants to: get laid
+Skills: ['Bookworm', 'Awesome scar', 'Bionic eye']
+Flaws: ['Unbearable guilt']
+Liked by: ['Roland Greaves']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-30', 'Killed in action 2018-08-02']
+Legacy: Fond memories in the minds of his friends
+
+Name: Carl Golden
+Age: 25
+Rank: Guardsman
+Squad: squad68
+Battles: 2
+Personality: Jaded
+Background: Administratum menial
+Wants to: survive
+Skills: ['Cautious', 'Handyman', 'Bookworm']
+Flaws: ['Coward', 'Slow']
+Liked by: ['Robert Case', 'Jose Davis']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-24', 'Wounded in combat 2018-07-30', 'Killed in action 2018-08-02']
+Legacy: Inscription on a comrade's weapon
+
+Name: Jose Davis
+Age: 23
+Rank: Guardsman
+Squad: squad68
+Battles: 1
+Personality: Pessimist
+Background: Outcast
+Wants to: bring honor to their family
+Skills: ['Observant', 'Nerves of steel']
+Flaws: ['Oblivious', 'Old wound']
+Liked by: ['Robert Case', 'Carl Golden']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-30', 'Killed in action 2018-08-02']
+Legacy: Inscription on a comrade's weapon
+
+Name: Roland Greaves
+Age: 21
+Rank: Guardsman
+Squad: squad68
+Battles: 1
+Personality: Awkward
+Background: Forge worker
+Wants to: own their own house
+Skills: ['Athlete', 'Bionic eye']
+Flaws: ['Ignorant']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-30', 'Killed in action 2018-08-02']
+Legacy: Anonymous sacrifice
+
+Name: William Steffan
+Age: 23
+Rank: Corporal
+Squad: squad68
+Battles: 3
+Personality: Loner
+Background: Planetary defence
+Wants to: protect a friend
+Skills: ['Foresight', 'Bionic eye', 'Street fighter']
+Flaws: ['Impulsive']
+Liked by: ['Carl Golden']
+Disliked by: ['Ronald Jackson']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-24', 'Wounded in combat 2018-07-30', 'Killed in action 2018-08-02']
+Legacy: Inscription on a comrade's weapon
+
+Name: Larry Christian
+Age: 23
+Rank: Guardsman
+Squad: squad650
+Battles: 3
+Personality: Spiteful
+Background: Scavenger
+Wants to: serve up a cold plate of vengeance
+Skills: ['Awesome scar', 'Unshakeable pride']
+Flaws: ['Fragile', 'Allergies', 'Coward', 'Disfigurement']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Medallion Crimson']
+Remarks: ['Deployed 2018-07-19', 'Wounded in combat 2018-07-30', 'Awarded the Medallion Crimson 2018-07-30', 'Killed in action 2018-08-02']
+Legacy: Vengeful relative
+
+Name: Joseph Cordova
+Age: 22
+Rank: Lance Corporal
+Squad: Scions475
+Battles: 2
+Personality: Loner
+Background: Disgraced
+Wants to: make a difference
+Skills: ['Survivalist', 'Die hard', 'Good looking']
+Flaws: ['Bad eyesight', 'Unbearable guilt']
+Liked by: ['John Mckinley']
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Eagle Ordinary', 'Ribbon Intrinsic']
+Remarks: ['Deployed 2018-07-30', 'Wounded in combat 2018-07-30', 'Promoted to Lance Corporal 2018-07-30', 'Awarded the Eagle Ordinary 2018-07-30', 'Awarded the Ribbon Intrinsic 2018-07-30', 'Killed in action 2018-08-02']
+Legacy: A cautionary tale
+
+Name: Alfredo Brown
+Age: 27
+Rank: Corporal
+Squad: Scions738
+Battles: 1
+Personality: Loner
+Background: Dilettante
+Wants to: set a record
+Skills: []
+Flaws: ['Poor discipline', 'Allergies']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-30', 'Killed in action 2018-08-02']
+Legacy: Fond memories in the minds of his friends
+
+Name: Charles Roberts
+Age: 20
+Rank: Corporal
+Squad: Scions738
+Battles: 2
+Personality: Braggart
+Background: Merchant house
+Wants to: set a record
+Skills: ['Tinkerer']
+Flaws: ['Unbearable guilt']
+Liked by: []
+Disliked by: ['Billie Aragaki']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-19', 'Killed in action 2018-08-02']
+Legacy: Anonymous sacrifice
+
+Name: Larry Lavallee
+Age: 25
+Rank: Corporal
+Squad: Scions738
+Battles: 2
+Personality: Smooth
+Background: Savant
+Wants to: impress the commissar
+Skills: ['Tireless', 'Bookworm', 'Sound judgement']
+Flaws: ['Weak', 'Pacifist', 'Disfigurement']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Medallion Crimson']
+Remarks: ['Deployed 2018-07-19', 'Wounded in combat 2018-07-30', 'Awarded the Medallion Crimson 2018-07-30', 'Killed in action 2018-08-02']
+Legacy: Fond memories in the minds of his friends
+
+Name: William Battles
+Age: 21
+Rank: Guardsman
+Squad: squad68
+Battles: 1
+Personality: Boisterous
+Background: Voidborn
+Wants to: travel the galaxy
+Skills: ['Bionic arm', 'Bulging biceps', 'Technical knock']
+Flaws: ['Unbearable guilt']
+Liked by: ['Robert Case']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-08-02', 'Killed in action 2018-08-05']
+Legacy: Fond memories in the minds of his friends
+
+Name: Curtis Knight
+Age: 25
+Rank: Corporal
+Squad: squad68
+Battles: 1
+Personality: Mentor
+Background: Planetary defence
+Wants to: become famous
+Skills: ['Quick draw']
+Flaws: ['Tainted', 'Unbearable guilt']
+Liked by: ['Joseph Kinsey']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-08-02', 'Killed in action 2018-08-05']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: Kurt Atkins
+Age: 24
+Rank: Corporal
+Squad: squad68
+Battles: 4
+Personality: Mentor
+Background: Scavenger
+Wants to: impress the commissar
+Skills: ['Sound judgement', 'Ambidextrous', 'Observant']
+Flaws: ['Weak', 'Paranoid']
+Liked by: ['Robert Case', 'Brent Wahl', 'Scott South', 'Joseph Crump']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-20', 'Promoted to Corporal 2018-07-24', 'Wounded in combat 2018-07-30', 'Wounded in combat 2018-08-02', 'Killed in action 2018-08-05']
+Legacy: Inscription on a vehicle
+
+Name: Kevin Campbell
+Age: 18
+Rank: Guardsman
+Squad: squad68
+Battles: 1
+Personality: Jaded
+Background: Voidborn
+Wants to: survive
+Skills: []
+Flaws: ['Cruel', 'Tainted']
+Liked by: ['Raymond Tep']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-08-02', 'Killed in action 2018-08-05']
+Legacy: Cross with oath tag draped over it
+
+Name: Joseph Kinsey
+Age: 24
+Rank: Guardsman
+Squad: squad68
+Battles: 1
+Personality: Obsessive
+Background: Administratum menial
+Wants to: transfer to a different regiment
+Skills: ['Trustworthy', 'Born leader']
+Flaws: ['Old wound', 'Coward']
+Liked by: ['Antonia Rumore', 'Warren Beaty']
+Disliked by: ['Kurt Atkins']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-08-02', 'Killed in action 2018-08-05']
+Legacy: Inscription on an overgrown memorial plaque
+
+Name: Robert Case
+Age: 19
+Rank: Corporal
+Squad: squad68
+Battles: 4
+Personality: Quiet
+Background: Hiver
+Wants to: survive
+Skills: ['Patient', 'Street fighter', 'Tough as nails']
+Flaws: ['Concussion', 'Unbearable guilt']
+Liked by: ['Kurt Atkins']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-20', 'Wounded in combat 2018-07-30', 'Wounded in combat 2018-08-02', 'Promoted to Corporal 2018-08-02', 'Killed in action 2018-08-05']
+Legacy: A tombstone amongst thousands
+
+Name: Theodore Simpson
+Age: 18
+Rank: Corporal
+Squad: squad650
+Battles: 2
+Personality: Strict
+Background: Planetary defence
+Wants to: make a difference
+Skills: ['Crack shot', 'Duelist']
+Flaws: []
+Liked by: []
+Disliked by: ['Warren Krouse', 'Danny Cleveland']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-30', 'Killed in action 2018-08-05']
+Legacy: Fond memories in the minds of his friends
+
+Name: Warren Krouse
+Age: 27
+Rank: Lance Corporal
+Squad: squad650
+Battles: 3
+Personality: Braggart
+Background: Planetary defence
+Wants to: make a difference
+Skills: ['Sound judgement', 'Good sense of direction']
+Flaws: ['Paranoid']
+Liked by: []
+Disliked by: ['Robert Fabre', 'Arthur Goodman']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-24', 'Wounded in combat 2018-07-30', 'Promoted to Lance Corporal 2018-08-02', 'Killed in action 2018-08-05']
+Legacy: Inscription on a nearby ruin
+
+Name: Danny Cleveland
+Age: 23
+Rank: Guardsman
+Squad: squad650
+Battles: 1
+Personality: Slacker
+Background: Scavenger
+Wants to: get laid
+Skills: ['Born leader', 'Hard target']
+Flaws: ['Ignorant']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-08-02', 'Killed in action 2018-08-05']
+Legacy: Fond memories in the minds of his friends
+
+Name: Miles Mullings
+Age: 27
+Rank: Lance Corporal
+Squad: squad705
+Battles: 4
+Personality: Mentor
+Background: Agri worker
+Wants to: get promoted
+Skills: ['Mustache', 'Duelist']
+Flaws: ['Insomniac', 'Bad eyesight', 'Hesitant', 'Coward']
+Liked by: ['William Steffan', 'Ronald Jackson', 'Marcus Ulloa', 'Joseph Avent', 'Brian Hendrickson']
+Disliked by: ['Michael Smith']
+Confirmed kills: 1
+Awards: []
+Remarks: ['Deployed 2018-07-24', 'Demoted to Lance Corporal 2018-07-24', 'Killed in action 2018-08-05']
+Legacy: Inscription on an overgrown memorial plaque
+
+Name: Joseph Avent
+Age: 20
+Rank: Guardsman
+Squad: squad705
+Battles: 2
+Personality: Thief
+Background: Slave
+Wants to: desert at the first opportunity
+Skills: ['Unremarkable']
+Flaws: ['Poor health']
+Liked by: ['Michael Hills', 'William Sanchez']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-30', 'Killed in action 2018-08-05']
+Legacy: Inscription on a comrade's weapon
+
+Name: Larry Franklin
+Age: 28
+Rank: Guardsman
+Squad: squad705
+Battles: 5
+Personality: Narcissist
+Wants to: own their own house
+Skills: ['Hard target', 'Bionic arm', 'Unshakeable pride', 'Good sense of direction', 'Rapid reload', 'Handyman', 'Heightened senses']
+Flaws: ['Poor discipline', 'Death-wish', 'Old wound']
+Liked by: ['Brian Hendrickson']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-09', 'Wounded in combat 2018-07-19', 'Wounded in combat 2018-07-24', 'Wounded in combat 2018-07-30', 'Killed in action 2018-08-05']
+Legacy: Inscription on a comrade's weapon
+
+Name: Glenn Monaco
+Age: 59
+Rank: Corporal
+Squad: squad705
+Battles: 5
+Personality: Old
+Wants to: survive
+Skills: ['Rapid reload', 'Awesome scar', 'Patient', 'Bionic eye']
+Flaws: ['Unbearable guilt', 'Bad eyesight']
+Liked by: ['Marcus Ulloa']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-09', 'Wounded in combat 2018-07-19', 'Wounded in combat 2018-07-24', 'Wounded in combat 2018-07-30', 'Promoted to Corporal 2018-08-02', 'Killed in action 2018-08-05']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: Glen Flores
+Age: 18
+Rank: Guardsman
+Squad: squad705
+Battles: 4
+Personality: Edgy
+Background: Hiver
+Wants to: serve up a cold plate of vengeance
+Skills: ['Rapid reload', 'Street fighter', 'Unremarkable']
+Flaws: ['Old wound']
+Liked by: ['Marcus Ulloa', 'Miles Mullings']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-19', 'Wounded in combat 2018-07-24', 'Killed in action 2018-08-05']
+Legacy: Cross with oath tag draped over it
+
+Name: Eugene Holsten
+Age: 27
+Rank: Corporal
+Squad: Scions475
+Battles: 3
+Personality: Pragmatic
+Background: Child of the creed
+Wants to: desert at the first opportunity
+Skills: ['Lightning reflexes']
+Flaws: ['Pacifist', 'Twitchy', 'Paranoid']
+Liked by: ['John Mckinley', 'Brian Rados', 'Benjamin Gutierrez']
+Disliked by: ['Orville Criner', 'Michael Duncan', 'Joshua Kellogg']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-30', 'Wounded in combat 2018-08-02', 'Killed in action 2018-08-05']
+Legacy: Inscription on a comrade's weapon
+
+Name: Brian Rados
+Age: 23
+Rank: Corporal
+Squad: Scions475
+Battles: 1
+Personality: Joker
+Background: Child of the creed
+Wants to: own their own house
+Skills: ['Bookworm', 'Patient', 'Observant']
+Flaws: ['Tainted', 'Short temper']
+Liked by: ['Robert Stewart', 'John Mckinley']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-08-02', 'Killed in action 2018-08-05']
+Legacy: Fond memories in the minds of his friends
+
+Name: Orville Criner
+Age: 24
+Rank: Lance Corporal
+Squad: Scions475
+Battles: 3
+Personality: Mentor
+Background: Militarum
+Wants to: survive
+Skills: ['Unshakeable pride', 'Heightened senses', 'Lateral thinker']
+Flaws: ['Careless', 'Oblivious', 'Death-wish']
+Liked by: ['John Mckinley', 'Michael Duncan', 'Benjamin Gutierrez']
+Disliked by: ['Joshua Kellogg']
+Confirmed kills: 0
+Awards: ['Ribbon Intrinsic']
+Remarks: ['Deployed 2018-07-30', 'Promoted to Lance Corporal 2018-07-30', 'Awarded the Ribbon Intrinsic 2018-07-30', 'Wounded in combat 2018-08-02', 'Killed in action 2018-08-05']
+Legacy: Equipment becomes a family heirloom
+
+Name: John Mckinley
+Age: 25
+Rank: Lance Sergeant
+Squad: Scions475
+Battles: 3
+Personality: Jaded
+Background: Militarum
+Wants to: make it home
+Skills: ['Bionic eye', 'Born leader', 'Beard', 'Good looking', 'Foresight', 'Bionic arm']
+Flaws: ['Unlucky', 'Coward']
+Liked by: ['Michael Duncan', 'Joshua Kellogg']
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Medallion Crimson', 'Ribbon Intrinsic']
+Remarks: ['Deployed 2018-07-30', 'Wounded in combat 2018-07-30', 'Awarded the Medallion Crimson 2018-07-30', 'Promoted to Lance Sergeant 2018-07-30', 'Awarded the Ribbon Intrinsic 2018-07-30', 'Killed in action 2018-08-05']
+Legacy: Inscription on an overgrown memorial plaque
+
+Name: Arthur Basbas
+Age: 27
+Rank: Corporal
+Squad: Scions475
+Battles: 2
+Personality: Obsessive
+Background: Savant
+Wants to: acquire knowledge
+Skills: ['Survivalist', 'Cautious', 'Tinkerer', 'Bionic arm', 'Good sense of direction']
+Flaws: ['Old wound']
+Liked by: ['Brian Rados', 'Eugene Holsten', 'John Mckinley']
+Disliked by: ['Leslie Partee']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-30', 'Killed in action 2018-08-05']
+Legacy: Inscription on a comrade's weapon
+
+Name: Benjamin Gutierrez
+Age: 27
+Rank: Lance Corporal
+Squad: Scions475
+Battles: 3
+Personality: Backwater
+Background: Vaunted wealth
+Wants to: protect a friend
+Skills: ['Survivalist', 'Cook', 'Brave']
+Flaws: []
+Liked by: ['Eugene Holsten', 'Orville Criner', 'Leslie Partee']
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Ribbon Intrinsic']
+Remarks: ['Deployed 2018-07-30', 'Promoted to Lance Corporal 2018-07-30', 'Awarded the Ribbon Intrinsic 2018-07-30', 'Wounded in combat 2018-08-02', 'Killed in action 2018-08-05']
+Legacy: Cross with oath tag draped over it
+
+Name: Juan Isch
+Age: 21
+Rank: Guardsman
+Squad: squad68
+Battles: 1
+Personality: Affable
+Background: Disgraced
+Wants to: survive
+Skills: []
+Flaws: ['Hesitant']
+Liked by: ['Walter Bledsoe']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-08-05', 'Killed in action 2018-08-10']
+Legacy: Fond memories in the minds of his friends
+
+Name: Antonia Rumore
+Age: 20
+Rank: Guardsman
+Squad: squad68
+Battles: 2
+Personality: Quiet
+Background: Planetary defence
+Wants to: set a record
+Skills: ['Crack shot']
+Flaws: ['Weak', 'Flashbacks']
+Liked by: ['Warren Beaty']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-08-02', 'Wounded in combat 2018-08-05', 'Killed in action 2018-08-10']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: Kristopher Redmond
+Age: 16
+Rank: Cadet
+Squad: squad68
+Battles: 1
+Personality: Naive
+Background: Ganger
+Wants to: start a business
+Skills: ['Good sense of direction']
+Flaws: ['Poor discipline']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-08-05', 'Killed in action 2018-08-10']
+Legacy: Cross with oath tag draped over it
+
+Name: Curtis Mann
+Age: 18
+Rank: Guardsman
+Squad: squad68
+Battles: 1
+Personality: Spiteful
+Background: Forge worker
+Wants to: set foot on Terra
+Skills: []
+Flaws: ['Ignorant', 'Pacifist']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-08-05', 'Killed in action 2018-08-10']
+Legacy: Inscription on a nearby ruin
+
+Name: Joseph Crump
+Age: 18
+Rank: Sergeant
+Squad: squad68
+Battles: 13
+Personality: Affable
+Wants to: serve up a cold plate of vengeance
+Skills: ['Unshakeable faith', 'Awesome scar', 'Hardy', 'Die hard', 'Bionic leg', 'Bionic arm']
+Flaws: ['Dyslexic', 'Mostly deaf']
+Liked by: ['John Webb', 'Ryan Torres', 'Billy Miller', 'Howard Bieniek']
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Ribbon Intrinsic', 'Service Badge', 'Medallion Crimson', 'Merit of Terra']
+Remarks: ['Deployed 2018-06-11', 'Wounded in combat 2018-06-21', 'Awarded the Ribbon Intrinsic 2018-06-21', 'Promoted to Corporal 2018-07-09', 'Awarded the Service Badge 2018-07-09', 'Awarded the Medallion Crimson 2018-07-12', 'Promoted to Lance Corporal 2018-07-19', 'Wounded in combat 2018-07-20', 'Promoted to Sergeant 2018-07-24', 'Awarded the Merit of Terra 2018-07-30', 'Wounded in combat 2018-08-05', 'Killed in action 2018-08-10']
+Legacy: Local deity
+
+Name: Dennis Gavin
+Age: 18
+Rank: Guardsman
+Squad: squad223
+Battles: 1
+Personality: Backwater
+Background: Agri worker
+Wants to: bring honor to their family
+Skills: []
+Flaws: ['Addict', 'Old wound']
+Liked by: ['Brian Maldonado']
+Disliked by: ['Michael Crist']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-08-10', 'Killed in action 2018-08-10']
+Legacy: Fond memories in the minds of his friends
+
+Name: Bradley Ott
+Age: 27
+Rank: Corporal
+Squad: squad223
+Battles: 1
+Personality: Narcissist
+Background: Outcast
+Wants to: get back to the good old days
+Skills: ['Lateral thinker', 'Beard']
+Flaws: []
+Liked by: ['Jesus Mccracken']
+Disliked by: ['Eugene Rodriguez', 'Matthew Harris', 'John Phillips']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-08-10', 'Killed in action 2018-08-10']
+Legacy: A tombstone amongst thousands
+
+Name: Matthew Harris
+Age: 28
+Rank: Guardsman
+Squad: squad223
+Battles: 1
+Personality: Backwater
+Background: Outcast
+Wants to: desert at the first opportunity
+Skills: ['Rapid reload']
+Flaws: ['Death-wish', 'Poor health']
+Liked by: []
+Disliked by: ['Eugene Rodriguez', 'Jesus Mccracken']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-08-10', 'Killed in action 2018-08-10']
+Legacy: Vengeful relative
+
+Name: Arthur Goodman
+Age: 18
+Rank: Guardsman
+Squad: squad650
+Battles: 3
+Personality: Pragmatic
+Background: Planetary defence
+Wants to: survive
+Skills: ['Patient', 'Tough as nails']
+Flaws: ['Poor discipline', 'Flashbacks']
+Liked by: ['Wiley Walstrum', 'Tony Thomas']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-30', 'Killed in action 2018-08-10']
+Legacy: A tombstone amongst thousands
+
+Name: Wiley Walstrum
+Age: 26
+Rank: Guardsman
+Squad: squad650
+Battles: 3
+Personality: Loose cannon
+Background: Administratum menial
+Wants to: kill xenos
+Skills: ['Sound judgement', 'Mustache', 'Silent move']
+Flaws: ['Fragile', 'Twitchy']
+Liked by: ['Ronald Jackson']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-30', 'Killed in action 2018-08-10']
+Legacy: A tombstone amongst thousands
+
+Name: Leon Mclaughlin
+Age: 27
+Rank: Guardsman
+Squad: squad650
+Battles: 1
+Personality: Quiet
+Background: Agri worker
+Wants to: redeem themselves
+Skills: ['Foresight']
+Flaws: ['Pacifist', 'Illiterate']
+Liked by: ['Warren Soren']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-08-05', 'Killed in action 2018-08-10']
+Legacy: Rifle with helmet and tags hung on it
+
+Name: John Kidd
+Age: 18
+Rank: Guardsman
+Squad: squad650
+Battles: 1
+Personality: Slacker
+Background: Administratum menial
+Wants to: protect a friend
+Skills: ['Unshakeable pride', 'Quick draw']
+Flaws: ['Clumsy', 'Gullible']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-08-05', 'Killed in action 2018-08-10']
+Legacy: Inscription on a comrade's weapon
+
+Name: William Baldwin
+Age: 23
+Rank: Corporal
+Squad: RussD284
+Battles: 2
+Personality: Loner
+Background: Outcast
+Wants to: transfer to a different regiment
+Skills: ['Unshakeable pride', 'Patient']
+Flaws: []
+Liked by: ['Michael Kaspar']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-08-02', 'Promoted to Corporal 2018-08-05', 'Killed in action 2018-08-10']
+Legacy: Inscription on a nearby ruin
+
+Name: Michael Christensen
+Age: 19
+Rank: Guardsman
+Squad: RussD284
+Battles: 2
+Personality: Slacker
+Background: Voidborn
+Wants to: become rich
+Skills: ['Cautious', 'Combat master']
+Flaws: []
+Liked by: []
+Disliked by: ['Sean Temple', 'William Baldwin']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-08-02', 'Wounded in combat 2018-08-05', 'Killed in action 2018-08-10']
+Legacy: Vengeful relative
+
+Name: Virginia Wooden
+Age: 22
+Rank: Guardsman
+Squad: RussD284
+Battles: 1
+Personality: Spiteful
+Background: Slave
+Wants to: kill heretics
+Skills: ['Bionic eye', 'Survivalist', 'Hardy']
+Flaws: ['Flat footed', 'Weak']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-08-05', 'Killed in action 2018-08-10']
+Legacy: Vengeful relative
+
+Name: Mark Decker
+Age: 19
+Rank: Corporal
+Squad: RussD284
+Battles: 5
+Personality: Nihilist
+Background: Administratum menial
+Wants to: protect a friend
+Skills: ['Tinkerer', 'Duelist']
+Flaws: ['Slow', 'Disfigurement', 'Concussion']
+Liked by: ['Thomas Andres', 'Ricardo Green', 'William Baldwin', 'Michael Christensen']
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Medallion Crimson', 'Eagle Ordinary']
+Remarks: ['Deployed 2018-07-24', 'Wounded in combat 2018-07-30', 'Awarded the Medallion Crimson 2018-07-30', 'Wounded in combat 2018-08-02', 'Promoted to Corporal 2018-08-02', 'Awarded the Eagle Ordinary 2018-08-02', 'Killed in action 2018-08-10']
+Legacy: A cautionary tale
+

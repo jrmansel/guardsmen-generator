@@ -1,0 +1,165 @@
+Name: Sean Lenoir
+Age: 25
+Rank: Lance Corporal
+Battles: 2
+Personality: Dissenter
+Background: Slave
+Wants to: redeem themselves
+Skills: ['Beard', 'Crack shot']
+Flaws: ['Short temper', 'Bad eyesight']
+Confirmed kills: 0
+Awards: ['Ribbon Intrinsic']
+Liked by: ['Joseph Eddy']
+Disliked by: ['Ronald Jackson', 'Clifton Beckem']
+Remarks: ['Deployed 2018-07-24', 'Promoted to Corporal 2018-08-02', 'Awarded the Ribbon Intrinsic 2018-08-02', 'Promoted to Lance Corporal 2018-08-05']
+
+Name: John Hammock
+Age: 25
+Rank: Corporal
+Battles: 2
+Personality: Slacker
+Background: Planetary defence
+Wants to: get promoted
+Skills: ['Crack shot', 'Lightning reflexes']
+Flaws: ['Flashbacks']
+Confirmed kills: 0
+Awards: ['Ribbon Intrinsic']
+Liked by: []
+Disliked by: ['Edward Klein', 'John Mcclellan']
+Remarks: ['Deployed 2018-07-24', 'Promoted to Corporal 2018-08-02', 'Awarded the Ribbon Intrinsic 2018-08-02']
+
+Name: Ronald Jackson
+Age: 18
+Rank: Guardsman
+Battles: 1
+Personality: Sensible
+Background: Slave
+Wants to: kill xenos
+Skills: ['Zealous', 'Tireless']
+Flaws: ['Unbearable guilt']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Sean Lenoir']
+Disliked by: []
+Remarks: ['Deployed 2018-08-02']
+
+Name: Joseph Eddy
+Age: 18
+Rank: Corporal
+Battles: 2
+Personality: Cocky
+Background: Planetary defence
+Wants to: sleep in
+Skills: ['Tireless']
+Flaws: []
+Confirmed kills: 0
+Awards: ['Ribbon Intrinsic']
+Liked by: ['John Mcclellan']
+Disliked by: ['Victor Luescher', 'Sean Lenoir']
+Remarks: ['Deployed 2018-07-24', 'Promoted to Corporal 2018-08-02', 'Awarded the Ribbon Intrinsic 2018-08-02']
+
+Name: Edward Klein
+Age: 24
+Rank: Corporal
+Battles: 2
+Personality: Spiteful
+Background: Forge worker
+Wants to: kill heretics
+Skills: ['Nerves of steel', 'Mustache', 'Unshakeable pride']
+Flaws: ['Flat footed']
+Confirmed kills: 0
+Awards: ['Ribbon Intrinsic']
+Liked by: []
+Disliked by: ['John Mcclellan']
+Remarks: ['Deployed 2018-07-24', 'Promoted to Corporal 2018-08-02', 'Awarded the Ribbon Intrinsic 2018-08-02']
+
+Name: Victor Luescher
+Age: 24
+Rank: Corporal
+Battles: 2
+Personality: Steely
+Background: Ganger
+Wants to: survive
+Skills: ['Bionic leg', 'Unremarkable', 'Duelist']
+Flaws: ['Unlucky', 'Death-wish']
+Confirmed kills: 0
+Awards: ['Eagle Ordinary', 'Ribbon Intrinsic']
+Liked by: ['Samuel Emig', 'Ronald Jackson']
+Disliked by: []
+Remarks: ['Deployed 2018-07-24', 'Promoted to Corporal 2018-08-02', 'Awarded the Eagle Ordinary 2018-08-02', 'Awarded the Ribbon Intrinsic 2018-08-02']
+
+Name: Adam West
+Age: 21
+Rank: Guardsman
+Battles: 1
+Personality: Reckless
+Background: Scavenger
+Wants to: become famous
+Skills: ['Cautious', 'Tireless']
+Flaws: []
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-08-02']
+
+Name: Clifton Beckem
+Age: 59
+Rank: Corporal
+Battles: 2
+Personality: Naive
+Background: Agri worker
+Wants to: redeem themselves
+Skills: ['Crack shot', 'Ambidextrous', 'Unshakeable faith']
+Flaws: ['Death-wish']
+Confirmed kills: 0
+Awards: ['Ribbon Intrinsic']
+Liked by: ['Joseph Eddy']
+Disliked by: ['Sean Lenoir', 'Edward Klein']
+Remarks: ['Deployed 2018-07-24', 'Promoted to Corporal 2018-08-02', 'Awarded the Ribbon Intrinsic 2018-08-02']
+
+Name: David Licata
+Age: 27
+Rank: Corporal
+Battles: 2
+Personality: Sensible
+Background: Outcast
+Wants to: impress the commissar
+Skills: ['Lateral thinker']
+Flaws: ['Dishonest', 'Addict']
+Confirmed kills: 0
+Awards: ['Ribbon Intrinsic']
+Liked by: ['Edward Klein', 'Sean Lenoir', 'Clifton Beckem']
+Disliked by: ['John Hammock', 'John Mcclellan']
+Remarks: ['Deployed 2018-07-24', 'Promoted to Corporal 2018-08-02', 'Awarded the Ribbon Intrinsic 2018-08-02']
+
+Name: Marc Harrison
+Age: 21
+Rank: Guardsman
+Battles: 1
+Personality: Dissenter
+Background: Ganger
+Wants to: make it home
+Skills: ['Mustache']
+Flaws: ['Addict']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: ['Adam West']
+Remarks: ['Deployed 2018-08-02']
+
+Name: John Mcclellan
+Age: 24
+Rank: Corporal
+Battles: 2
+Personality: Jaded
+Background: Agri worker
+Wants to: marry a distant paramour
+Skills: ['Trustworthy']
+Flaws: ['Dyslexic', 'Impulsive']
+Confirmed kills: 0
+Awards: ['Ribbon Intrinsic']
+Liked by: ['Victor Luescher', 'Bernard Gibbs']
+Disliked by: []
+Remarks: ['Deployed 2018-07-24', 'Promoted to Corporal 2018-08-02', 'Awarded the Ribbon Intrinsic 2018-08-02']
+

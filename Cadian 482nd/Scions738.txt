@@ -1,0 +1,74 @@
+Name: Lionel Broach
+Age: 28
+Rank: Sergeant
+Battles: 2
+Personality: Loner
+Background: Dilettante
+Wants to: start a family
+Skills: ['Rapid reload', 'Tinkerer', 'Awesome scar']
+Flaws: ['Asthma', 'Smart-ass', 'Old wound']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: ['Billie Aragaki']
+Remarks: ['Deployed 2018-07-19', 'Wounded in combat 2018-07-30', 'Promoted to Lance Corporal 2018-07-30', 'Wounded in combat 2018-08-02', 'Promoted to Sergeant 2018-08-02']
+
+Name: Billie Aragaki
+Age: 28
+Rank: Sergeant
+Battles: 4
+Personality: Loner
+Wants to: redeem themselves
+Skills: ['Ambidextrous', 'Rapid reload', 'Die hard', 'Awesome scar']
+Flaws: ['Unlucky']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-07-12', 'Wounded in combat 2018-07-19', 'Wounded in combat 2018-07-19', 'Wounded in combat 2018-07-30', 'Promoted to Lance Corporal 2018-07-30', 'Promoted to Sergeant 2018-08-02']
+
+Name: Lavern Johnson
+Age: 28
+Rank: Corporal
+Battles: 0
+Personality: Loner
+Background: Disgraced
+Wants to: marry a distant paramour
+Skills: ['Duelist', 'Lightning reflexes', 'Street fighter']
+Flaws: ['Coward', 'Unbearable guilt']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-08-02']
+
+Name: Jeffrey Wagner
+Age: 20
+Rank: Corporal
+Battles: 0
+Personality: Drunkard
+Background: Arbiter
+Wants to: earn the respect of their superiors
+Skills: ['Observant', 'Good sense of direction']
+Flaws: ['Careless', 'Asthma']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: ['David Ahern']
+Remarks: ['Deployed 2018-08-02']
+
+Name: David Ahern
+Age: 27
+Rank: Corporal
+Battles: 0
+Personality: Loyal
+Background: Militarum
+Wants to: set a record
+Skills: ['Observant', 'Lightning reflexes']
+Flaws: ['Death-wish', 'Overconfident']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Billie Aragaki']
+Disliked by: []
+Remarks: ['Deployed 2018-08-02']
+

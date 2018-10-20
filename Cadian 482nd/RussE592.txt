@@ -1,0 +1,89 @@
+Name: James Steele
+Age: 19
+Rank: Corporal
+Battles: 1
+Personality: Never bathes
+Background: Ganger
+Wants to: travel the galaxy
+Skills: ['Tough as nails']
+Flaws: []
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: ['Steven Jackson']
+Remarks: ['Deployed 2018-07-30', 'Promoted to Corporal 2018-08-05']
+
+Name: Todd Cressman
+Age: 41
+Rank: Corporal
+Battles: 2
+Personality: Superstitious
+Background: Voidborn
+Wants to: make a difference
+Skills: ['Tinkerer', 'Hardy', 'Good sense of direction']
+Flaws: ['Coward']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Benjamin Moran']
+Disliked by: []
+Remarks: ['Deployed 2018-07-19', 'Promoted to Corporal 2018-08-05']
+
+Name: Jason Butterworth
+Age: 22
+Rank: Guardsman
+Battles: 2
+Personality: Narcissist
+Background: Voidborn
+Wants to: meet someone famous
+Skills: ['Cautious', 'Bald', 'Awesome scar']
+Flaws: []
+Confirmed kills: 0
+Awards: []
+Liked by: ['Steven Jackson']
+Disliked by: ['Jerome Philipp', 'Edward Klein']
+Remarks: ['Deployed 2018-07-24', 'Wounded in combat 2018-07-30']
+
+Name: Wesley Mcgill
+Age: 18
+Rank: Guardsman
+Battles: 2
+Personality: Loyal
+Background: Agri worker
+Wants to: learn to fly
+Skills: ['Good sense of direction', 'Ambidextrous', 'Tactical genius', 'Street fighter']
+Flaws: ['Nightmares']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Edward Klein', 'James Steele']
+Disliked by: ['Jason Butterworth', 'Jerome Philipp', 'Steven Jackson']
+Remarks: ['Deployed 2018-07-24']
+
+Name: Aaron Gibson
+Age: 19
+Rank: Guardsman
+Battles: 1
+Personality: Quiet
+Background: Administratum menial
+Wants to: desert at the first opportunity
+Skills: ['Awesome scar', 'Silent move', 'Tireless']
+Flaws: ['Impulsive', 'Slow']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Steven Jackson']
+Disliked by: ['Jason Butterworth']
+Remarks: ['Deployed 2018-07-30']
+
+Name: Steven Jackson
+Age: 23
+Rank: Lance Corporal
+Battles: 6
+Personality: Smooth
+Wants to: protect a friend
+Skills: ['Bionic arm', 'Bionic leg', 'Sound judgement']
+Flaws: ['Shell-shock']
+Confirmed kills: 1
+Awards: ['Medallion Crimson', 'Service Badge']
+Liked by: ['Donavan Carscallen']
+Disliked by: ['Benjamin Moran']
+Remarks: ['Deployed 2018-06-30', 'Wounded in combat 2018-07-03', 'Awarded the Medallion Crimson 2018-07-03', 'Promoted to Corporal 2018-07-09', 'Promoted to Lance Corporal 2018-07-12', 'Wounded in combat 2018-07-19', 'Awarded the Service Badge 2018-07-30']
+

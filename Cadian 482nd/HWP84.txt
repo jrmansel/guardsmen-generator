@@ -1,0 +1,88 @@
+Name: Mark Cooley
+Age: 28
+Rank: Corporal
+Battles: 2
+Personality: Optimist
+Wants to: survive
+Skills: ['Hard target', 'Sound judgement', 'Brave']
+Flaws: []
+Confirmed kills: 0
+Awards: ['Triple Skull']
+Liked by: ['Mark Kochanski']
+Disliked by: []
+Remarks: ['Deployed 2018-07-09', 'Wounded in combat 2018-07-19', 'Awarded the Triple Skull 2018-07-19', 'Wounded in combat 2018-07-30', 'Promoted to Corporal 2018-07-30']
+
+Name: Kevin Holmes
+Age: 28
+Rank: Guardsman
+Battles: 1
+Personality: Dissenter
+Background: Ganger
+Wants to: write a book
+Skills: ['Observant', 'Unshakeable pride']
+Flaws: ['Coward']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: ['Johnny Frost']
+Remarks: ['Deployed 2018-07-19']
+
+Name: Johnny Frost
+Age: 33
+Rank: Guardsman
+Battles: 2
+Personality: Steely
+Wants to: transfer to a different regiment
+Skills: ['Tinkerer', 'Ambidextrous', 'Unshakeable faith']
+Flaws: ['Dyslexic', 'Unbearable guilt', 'Nightmares', 'Coward']
+Confirmed kills: 0
+Awards: ['Triple Skull']
+Liked by: ['Omar Schneider']
+Disliked by: []
+Remarks: ['Deployed 2018-07-09', 'Wounded in combat 2018-07-19', 'Awarded the Triple Skull 2018-07-19']
+
+Name: Omar Schneider
+Age: 27
+Rank: Guardsman
+Battles: 0
+Personality: Naive
+Background: Agri worker
+Wants to: eat like a king
+Skills: ['Lateral thinker']
+Flaws: ['Dishonest', 'Dyslexic']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-07-30']
+
+Name: Mark Kochanski
+Age: 22
+Rank: Guardsman
+Battles: 0
+Personality: Talkative
+Background: Ganger
+Wants to: set foot on Terra
+Skills: ['Die hard']
+Flaws: []
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-07-30']
+
+Name: Christopher Thompson
+Age: 23
+Rank: Guardsman
+Battles: 0
+Personality: Talkative
+Background: Hiver
+Wants to: impress the commissar
+Skills: ['Born leader']
+Flaws: ['Weak']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-07-30']
+

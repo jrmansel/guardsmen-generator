@@ -1,0 +1,484 @@
+Name: William Wilson
+Age: 19
+Rank: Guardsman
+Squad: squad68
+Battles: 1
+Personality: Narcissist
+Favorite food: reprocessed grox meat
+Wants to: serve up a cold plate of vengeance
+Skills: ['Athlete']
+Flaws: ['Asthma', 'Addict', 'Missing leg']
+Liked by: []
+Disliked by: ['Fred Hudgins', 'Larry Murrell', 'James Rodgers']
+Awards: ['Medallion Crimson']
+Remarks: ['Wounded in combat 2018-05-08', 'Awarded the Medallion Crimson 2018-05-08', 'Discharged to a non-combat unit 2018-05-08']
+
+Name: Clinton Valentine
+Age: 22
+Rank: Guardsman
+Squad: squad382
+Battles: 1
+Personality: Narcissist
+Favorite food: reprocessed grox meat
+Wants to: start a family
+Skills: ['Hard target']
+Flaws: ['Clumsy', 'Dyslexic', 'Missing leg']
+Liked by: []
+Disliked by: ['Frederick Morgan']
+Awards: ['Medallion Crimson']
+Remarks: ['Wounded in combat 2018-05-08', 'Awarded the Medallion Crimson 2018-05-08', 'Discharged to a non-combat unit 2018-05-08']
+
+Name: William Colunga
+Age: 25
+Rank: Guardsman
+Squad: SWT590
+Battles: 1
+Personality: Jaded
+Favorite food: hydro fungus
+Wants to: make it home
+Skills: ['Awesome scar', 'Beard']
+Flaws: ['Clumsy', 'Missing arm']
+Liked by: []
+Disliked by: []
+Awards: ['Medallion Crimson']
+Remarks: ['Wounded in combat 2018-05-17', 'Awarded the Medallion Crimson 2018-05-17', 'Discharged to a non-combat unit 2018-05-17']
+
+Name: Robert Prickett
+Age: 22
+Rank: Guardsman
+Squad: squad137
+Battles: 1
+Personality: Heroic
+Favorite food: corpse-starch
+Wants to: earn the respect of their superiors
+Skills: ['Good looking', 'Bookworm']
+Flaws: ['Fragile', 'Missing arm']
+Liked by: ['Lyle Mier']
+Disliked by: []
+Awards: ['Medallion Crimson']
+Remarks: ['Wounded in combat 2018-05-17', 'Awarded the Medallion Crimson 2018-05-17', 'Discharged to a non-combat unit 2018-05-17']
+
+Name: Danny Koetter
+Age: 18
+Rank: Corporal
+Squad: squad382
+Battles: 2
+Personality: Nihilist
+Favorite food: corpse-starch
+Wants to: survive
+Skills: ['Crack shot', 'Born leader']
+Flaws: ['Fragile', 'Tainted', 'Missing leg']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Medallion Crimson']
+Remarks: ['Deployed 2018-05-30', 'Promoted to Corporal 2018-06-05', 'Wounded in combat 2018-06-08', 'Awarded the Medallion Crimson 2018-06-08', 'Discharged to a non-combat unit 2018-06-08']
+
+Name: Denis Green
+Age: 27
+Rank: Guardsman
+Squad: squad68
+Battles: 1
+Personality: Slacker
+Favorite food: hydro fungus
+Wants to: desert at the first opportunity
+Skills: ['Silent move', 'Silent move']
+Flaws: ['Insomniac', 'Missing leg']
+Liked by: []
+Disliked by: ['Paul Brown']
+Confirmed kills: 0
+Awards: ['Medallion Crimson']
+Remarks: ['Deployed 2018-06-11', 'Wounded in combat 2018-06-21', 'Awarded the Medallion Crimson 2018-06-21', 'Discharged to a non-combat unit 2018-06-21']
+
+Name: Ryan Torres
+Age: 25
+Rank: Guardsman
+Squad: squad68
+Battles: 1
+Personality: Superstitious
+Favorite food: protein paste
+Wants to: meet someone famous
+Skills: ['Bulging biceps', 'Ambidextrous']
+Flaws: ['Fragile', 'Tainted', 'Missing arm']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Medallion Crimson']
+Remarks: ['Deployed 2018-06-21', 'Wounded in combat 2018-06-26', 'Awarded the Medallion Crimson 2018-06-26', 'Discharged to a non-combat unit 2018-06-26']
+
+Name: Fred Hudgins
+Age: 26
+Rank: Lance Sergeant
+Squad: squad68
+Battles: 10
+Personality: Numb
+Favorite food: corpse-starch
+Wants to: travel the world
+Skills: ['Awesome scar', 'Lightning reflexes', 'Combat master', 'Ambidextrous', 'Unshakeable faith']
+Flaws: ['Coward']
+Liked by: []
+Disliked by: []
+Confirmed kills: 2
+Awards: ['Triple Skull', 'Service Badge', 'Triple Skull', 'Ribbon Intrinsic', 'Winged Skull']
+Remarks: ['Wounded in combat 2018-05-08', 'Wounded in combat 2018-05-30', 'Awarded the Triple Skull 2018-05-30', 'Awarded the Service Badge 2018-05-30', 'Wounded in combat 2018-06-05', 'Promoted to Lance Sergeant 2018-06-05', 'Awarded the Triple Skull 2018-06-05', 'Demoted to Sergeant 2018-06-11', 'Promoted to Lance Sergeant 2018-06-21', 'Awarded the Ribbon Intrinsic 2018-06-21', 'Awarded the Winged Skull 2018-06-21', 'Granted honorable discharge 2018-06-26']
+
+Name: Juan Newitt
+Age: 26
+Rank: Sergeant
+Squad: squad137
+Battles: 10
+Personality: Pessimist
+Favorite food: corpse-starch
+Wants to: make it home
+Skills: ['Unshakeable faith', 'Quick draw', 'Rapid reload', 'Bionic arm', 'Bionic eye']
+Flaws: ['Flashbacks', 'Concussion', 'Death-wish', 'Concussion']
+Liked by: []
+Disliked by: []
+Confirmed kills: 2
+Awards: ['Medallion Crimson', 'Triple Skull', 'Service Badge']
+Remarks: ['Promoted to Corporal 2018-05-08', 'Wounded in combat 2018-05-17', 'Promoted to Lance Corporal 2018-05-17', 'Wounded in combat 2018-05-22', 'Wounded in combat 2018-05-26', 'Awarded the Medallion Crimson 2018-05-26', 'Awarded the Triple Skull 2018-05-30', 'Awarded the Service Badge 2018-05-30', 'Wounded in combat 2018-06-05', 'Wounded in combat 2018-06-14', 'Promoted to Sergeant 2018-06-21', 'Granted honorable discharge 2018-06-26']
+
+Name: David Vice
+Age: 25
+Rank: Lance Sergeant
+Squad: squad382
+Battles: 10
+Personality: Loose cannon
+Favorite food: corpse-starch
+Wants to: survive
+Skills: ['Hardy', 'Athlete', 'Tough as nails', 'Awesome scar']
+Flaws: ['Hesitant']
+Liked by: []
+Disliked by: []
+Confirmed kills: 4
+Awards: ['Triple Skull', 'Ribbon Intrinsic', 'Service Badge']
+Remarks: ['Wounded in combat 2018-05-08', 'Awarded the Triple Skull 2018-05-08', 'Promoted to Corporal 2018-05-22', 'Awarded the Ribbon Intrinsic 2018-05-22', 'Promoted to Lance Corporal 2018-05-30', 'Awarded the Service Badge 2018-05-30', 'Promoted to Sergeant 2018-06-05', 'Promoted to Lance Sergeant 2018-06-11', 'Granted honorable discharge 2018-06-26']
+
+Name: Jimmy Jeanlouis
+Age: 20
+Rank: Lance Sergeant
+Squad: scions738
+Battles: 10
+Personality: Incompetent
+Favorite food: recaf beans
+Wants to: sleep in
+Skills: ['Beard', 'Quick draw', 'Tinkerer', 'Cautious', 'Hardy', 'Observant', 'Bionic leg']
+Flaws: ['Tainted', 'Dyslexic']
+Liked by: ['Wendell Huffman', 'Leland Kirkland']
+Disliked by: ['Jack Rucker']
+Confirmed kills: 3
+Awards: ['Service Badge', 'Medallion Crimson', 'Eagle Ordinary']
+Remarks: ['Wounded in combat 2018-05-22', 'Promoted to Lance Corporal 2018-05-26', 'Promoted to Sergeant 2018-05-30', 'Awarded the Service Badge 2018-06-05', 'Wounded in combat 2018-06-14', 'Awarded the Medallion Crimson 2018-06-14', 'Awarded the Eagle Ordinary 2018-06-14', 'Promoted to Lance Sergeant 2018-06-30', 'Granted honorable discharge 2018-06-30']
+
+Name: Mack Clevenger
+Age: 20
+Rank: Sergeant
+Squad: RussB692
+Battles: 10
+Personality: Numb
+Favorite food: amasec is a food, right?
+Wants to: become a sports star
+Skills: ['Foresight', 'Hard target', 'Cautious', 'Lateral thinker']
+Flaws: ['Allergies']
+Liked by: ['Timothy Jones', 'Justin Huff', 'Christopher Byers']
+Disliked by: ['Bernard Gibbs']
+Confirmed kills: 2
+Awards: ['Service Badge', 'Macharian Cross', 'Ribbon Intrinsic']
+Remarks: ['Awarded the Service Badge 2018-06-08', 'Awarded the Macharian Cross 2018-06-21', 'Promoted to Corporal 2018-06-30', 'Wounded in combat 2018-07-03', 'Promoted to Lance Corporal 2018-07-03', 'Awarded the Ribbon Intrinsic 2018-07-03', 'Promoted to Sergeant 2018-07-09', 'Granted honorable discharge 2018-07-09']
+
+Name: Justin Huff
+Age: 20
+Rank: Sergeant
+Squad: RussB692
+Battles: 10
+Personality: Mentor
+Favorite food: corpse-starch
+Wants to: survive
+Skills: ['Athlete', 'Observant', 'Lightning reflexes', 'Die hard']
+Flaws: []
+Liked by: ['Christopher Byers', 'Mack Clevenger', 'Bernard Gibbs', 'Timothy Jones']
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Service Badge', 'Macharian Cross', 'Ribbon Intrinsic']
+Remarks: ['Awarded the Service Badge 2018-06-08', 'Promoted to Corporal 2018-06-21', 'Promoted to Lance Corporal 2018-07-03', 'Awarded the Macharian Cross 2018-07-03', 'Awarded the Ribbon Intrinsic 2018-07-03', 'Promoted to Sergeant 2018-07-09', 'Granted honorable discharge 2018-07-09']
+
+Name: Christopher Byers
+Age: 25
+Rank: Lance Sergeant
+Squad: RussB692
+Battles: 10
+Personality: Loyal
+Favorite food: ploin fruit
+Wants to: transfer to a different regiment
+Skills: ['Good looking', 'Lateral thinker', 'Tough as nails', 'Beard', 'Observant']
+Flaws: ['Insomniac', 'Mostly deaf']
+Liked by: ['Bernard Gibbs', 'Mack Clevenger', 'Justin Huff']
+Disliked by: []
+Confirmed kills: 8
+Awards: ['Service Badge', 'Ribbon Intrinsic']
+Remarks: ['Promoted to Corporal 2018-05-26', 'Awarded the Service Badge 2018-06-08', 'Promoted to Lance Corporal 2018-06-21', 'Wounded in combat 2018-07-03', 'Promoted to Sergeant 2018-07-03', 'Awarded the Ribbon Intrinsic 2018-07-03', 'Promoted to Lance Sergeant 2018-07-09', 'Granted honorable discharge 2018-07-09']
+
+Name: Timothy Jones
+Age: 24
+Rank: Lance Corporal
+Squad: RussB692
+Battles: 10
+Personality: Spiteful
+Favorite food: ploin fruit
+Wants to: travel the world
+Skills: ['Trustworthy', 'Survivalist', 'Beard', 'Lightning reflexes']
+Flaws: ['Addict', 'Clumsy']
+Liked by: ['Bernard Gibbs', 'Christopher Byers', 'Mack Clevenger']
+Disliked by: ['Michael Saunders']
+Confirmed kills: 1
+Awards: ['Macharian Cross', 'Service Badge', 'Ribbon Intrinsic']
+Remarks: ['Awarded the Macharian Cross 2018-05-26', 'Awarded the Service Badge 2018-06-08', 'Promoted to Corporal 2018-07-03', 'Awarded the Ribbon Intrinsic 2018-07-03', 'Promoted to Lance Corporal 2018-07-09', 'Granted honorable discharge 2018-07-09']
+
+Name: Gregory Valentine
+Age: 22
+Rank: Tempestor Prime
+Squad: TempestorPrime729
+Battles: 10
+Personality: Affable
+Favorite food: ration biscuits
+Wants to: start a business
+Skills: ['Zealous', 'Tinkerer', 'Handyman', 'Unshakeable pride', 'Lateral thinker', 'Good sense of direction', 'Street fighter', 'Sound judgement']
+Flaws: ['Bad eyesight', 'Clumsy']
+Liked by: ['Jimmy Jeanlouis', 'David White']
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Macharian Cross', 'Service Badge', 'Order of the Eagles Claw', 'Honorifica Imperialis']
+Remarks: ['Promoted to Lance Sergeant 2018-05-30', 'Awarded the Macharian Cross 2018-06-05', 'Awarded the Service Badge 2018-06-05', 'Earned officer commission 2018-06-08', 'Awarded the Order of the Eagles Claw 2018-06-21', 'Awarded the Honorifica Imperialis 2018-07-09', 'Granted honorable discharge 2018-07-09']
+
+Name: Tyler Collins
+Age: 19
+Rank: Lance Sergeant
+Squad: RussE440
+Battles: 10
+Personality: Nihilist
+Favorite food: protein paste
+Wants to: redeem themselves
+Skills: ['Rapid reload', 'Born leader', 'Awesome scar', 'Die hard', 'Silent move', 'Bionic arm']
+Flaws: ['Unbearable guilt', 'Short temper', 'Mostly deaf']
+Liked by: ['Martin Campbell', 'Benjamin Moran']
+Disliked by: []
+Confirmed kills: 1
+Awards: ['Service Badge', 'Medallion Crimson']
+Remarks: ['Wounded in combat 2018-06-11', 'Promoted to Corporal 2018-06-21', 'Awarded the Service Badge 2018-06-21', 'Wounded in combat 2018-06-30', 'Awarded the Medallion Crimson 2018-07-03', 'Promoted to Lance Corporal 2018-07-03', 'Promoted to Sergeant 2018-07-09', 'Promoted to Lance Sergeant 2018-07-12', 'Granted honorable discharge 2018-07-12']
+
+Name: David White
+Age: 19
+Rank: Lance Sergeant
+Squad: Scions738
+Battles: 10
+Personality: Twitchy
+Favorite food: corpse-starch
+Wants to: transfer to a different regiment
+Skills: ['Heightened senses', 'Zealous', 'Handyman', 'Hard target']
+Flaws: ['Death-wish', 'Disfigurement', 'Old wound', 'Concussion']
+Liked by: ['Robert Self']
+Disliked by: []
+Confirmed kills: 1
+Awards: ['Medallion Crimson', 'Service Badge', 'Order of the Eagles Claw', 'Eagle Ordinary']
+Remarks: ['Wounded in combat 2018-05-30', 'Awarded the Medallion Crimson 2018-05-30', 'Promoted to Lance Corporal 2018-05-30', 'Wounded in combat 2018-06-14', 'Promoted to Sergeant 2018-06-21', 'Awarded the Service Badge 2018-06-21', 'Awarded the Order of the Eagles Claw 2018-06-21', 'Wounded in combat 2018-06-30', 'Wounded in combat 2018-07-03', 'Wounded in combat 2018-07-09', 'Promoted to Lance Sergeant 2018-07-09', 'Awarded the Eagle Ordinary 2018-07-09', 'Wounded in combat 2018-07-12', 'Granted honorable discharge 2018-07-12']
+
+Name: David Baez
+Age: 26
+Rank: Guardsman
+Squad: squad68
+Battles: 1
+Personality: Obsessive
+Wants to: earn the respect of their superiors
+Skills: ['Quick draw', 'Handyman']
+Flaws: ['Dyslexic', 'Missing arm']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Medallion Crimson']
+Remarks: ['Deployed 2018-07-12', 'Wounded in combat 2018-07-19', 'Awarded the Medallion Crimson 2018-07-19', 'Discharged to a non-combat unit 2018-07-19']
+
+Name: Martin Campbell
+Age: 25
+Rank: Lieutenant
+Squad: RussE440
+Battles: 10
+Personality: Dissenter
+Wants to: get back to the good old days
+Skills: ['Patient', 'Die hard', 'Rapid reload']
+Flaws: ['Old wound', 'Death-wish']
+Liked by: ['Tyler Collins']
+Disliked by: ['Vincent Franco']
+Confirmed kills: 10
+Awards: ['Macharian Cross', 'Service Badge']
+Remarks: ['Promoted to Corporal 2018-05-26', 'Awarded the Macharian Cross 2018-05-30', 'Promoted to Lance Corporal 2018-06-21', 'Awarded the Service Badge 2018-06-21', 'Promoted to Sergeant 2018-06-26', 'Wounded in combat 2018-06-30', 'Promoted to Lance Sergeant 2018-06-30', 'Wounded in combat 2018-07-03', 'Earned officer commission 2018-07-03', 'Granted honorable discharge 2018-07-19']
+
+Name: Brandon Ramirez
+Age: 21
+Rank: Corporal
+Squad: Scions738
+Battles: 2
+Personality: Braggart
+Wants to: get laid
+Skills: ['Quick draw', 'Brave']
+Flaws: ['Hesitant', 'Slow', 'Missing eye', 'Missing arm']
+Liked by: []
+Disliked by: ['Dane Reyes']
+Confirmed kills: 0
+Awards: ['Medallion Crimson']
+Remarks: ['Deployed 2018-07-12', 'Wounded in combat 2018-07-19', 'Wounded in combat 2018-07-19', 'Awarded the Medallion Crimson 2018-07-19', 'Discharged to a non-combat unit 2018-07-19']
+
+Name: James Hernandez
+Age: 24
+Rank: Guardsman
+Squad: squad68
+Battles: 2
+Personality: Nihilist
+Wants to: make it home
+Skills: ['Tinkerer']
+Flaws: ['Mostly deaf', 'Missing arm']
+Liked by: ['Brent Wahl']
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Medallion Crimson']
+Remarks: ['Deployed 2018-07-12', 'Wounded in combat 2018-07-19', 'Wounded in combat 2018-07-20', 'Awarded the Medallion Crimson 2018-07-20', 'Discharged to a non-combat unit 2018-07-20']
+
+Name: John Webb
+Age: 18
+Rank: Corporal
+Squad: squad68
+Battles: 10
+Personality: Quiet
+Wants to: get back to the good old days
+Skills: ['Handyman', 'Tough as nails', 'Bionic eye', 'Lateral thinker', 'Foresight', 'Athlete', 'Cautious', 'Beard']
+Flaws: []
+Liked by: []
+Disliked by: []
+Confirmed kills: 2
+Awards: ['Ribbon Intrinsic', 'Service Badge']
+Remarks: ['Deployed 2018-06-05', 'Wounded in combat 2018-06-11', 'Promoted to Guardsman 2018-06-21', 'Awarded the Ribbon Intrinsic 2018-06-21', 'Awarded the Service Badge 2018-06-30', 'Wounded in combat 2018-07-09', 'Wounded in combat 2018-07-12', 'Promoted to Corporal 2018-07-12', 'Granted honorable discharge 2018-07-20']
+
+Name: Lisa Decarr
+Age: 22
+Rank: Sergeant
+Squad: HWP281
+Battles: 10
+Personality: Twitchy
+Wants to: earn the respect of their superiors
+Skills: ['Good looking', 'Born leader', 'Heightened senses', 'Bionic eye', 'Bionic arm', 'Bionic eye', 'Lateral thinker']
+Flaws: ['Nightmares']
+Liked by: ['Michael Rank', 'Joseph Hong', 'Monty Capps']
+Disliked by: []
+Confirmed kills: 2
+Awards: ['Macharian Cross', 'Medallion Crimson', 'Service Badge']
+Remarks: ['Deployed 2018-05-30', 'Promoted to Corporal 2018-05-30', 'Promoted to Lance Corporal 2018-06-08', 'Awarded the Macharian Cross 2018-06-08', 'Wounded in combat 2018-06-11', 'Promoted to Sergeant 2018-06-11', 'Demoted to Lance Corporal 2018-06-21', 'Wounded in combat 2018-06-26', 'Awarded the Medallion Crimson 2018-06-26', 'Awarded the Service Badge 2018-06-26', 'Wounded in combat 2018-06-30', 'Wounded in combat 2018-07-09', 'Promoted to Sergeant 2018-07-09', 'Wounded in combat 2018-07-30', 'Granted honorable discharge 2018-07-30']
+
+Name: Brent Wahl
+Age: 22
+Rank: Corporal
+Squad: squad68
+Battles: 10
+Personality: Superstitious
+Wants to: transfer to a different regiment
+Skills: ['Beard', 'Cautious', 'Athlete', 'Foresight', 'Crack shot']
+Flaws: ['Dumb', 'Death-wish', 'Paranoid']
+Liked by: ['Charles Lloyd', 'Kurt Atkins', 'Robert Case']
+Disliked by: ['Joseph Crump']
+Confirmed kills: 1
+Awards: ['Ribbon Intrinsic', 'Service Badge']
+Remarks: ['Deployed 2018-06-14', 'Promoted to Corporal 2018-06-21', 'Awarded the Ribbon Intrinsic 2018-06-21', 'Wounded in combat 2018-07-12', 'Awarded the Service Badge 2018-07-12', 'Wounded in combat 2018-07-19', 'Demoted to Guardsman 2018-07-20', 'Promoted to Corporal 2018-07-24', 'Granted honorable discharge 2018-07-30']
+
+Name: Scott South
+Age: 19
+Rank: Guardsman
+Squad: squad68
+Battles: 1
+Personality: Sarcastic
+Background: Outcast
+Wants to: desert at the first opportunity
+Skills: ['Unremarkable']
+Flaws: []
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-07-24', 'Deserted and was never seen again 2018-07-30']
+
+Name: Samuel Emig
+Age: 23
+Rank: Guardsman
+Squad: SuperHeavy789
+Battles: 1
+Personality: Sensible
+Background: Agri worker
+Wants to: serve up a cold plate of vengeance
+Skills: ['Street fighter', 'Good sense of direction']
+Flaws: ['Pacifist', 'Short temper', 'Illiterate', 'Missing leg']
+Liked by: ['John Hammock', 'Victor Luescher']
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Medallion Crimson']
+Remarks: ['Deployed 2018-07-24', 'Wounded in combat 2018-08-02', 'Awarded the Medallion Crimson 2018-08-02', 'Discharged to a non-combat unit 2018-08-02']
+
+Name: Ricardo Green
+Age: 28
+Rank: Corporal
+Squad: RussD284
+Battles: 3
+Personality: Jaded
+Background: Outcast
+Wants to: set foot on Terra
+Skills: ['Silent move', 'Observant']
+Flaws: ['Careless', 'Disfigurement', 'Flashbacks', 'Missing arm']
+Liked by: ['Mark Decker']
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Medallion Crimson']
+Remarks: ['Deployed 2018-07-24', 'Wounded in combat 2018-07-30', 'Awarded the Medallion Crimson 2018-07-30', 'Promoted to Corporal 2018-07-30', 'Wounded in combat 2018-08-02', 'Discharged to a non-combat unit 2018-08-02']
+
+Name: Bernard Gibbs
+Age: 23
+Rank: Warrant Officer 2nd Class
+Squad: SuperHeavy789
+Battles: 12
+Personality: Spiteful
+Wants to: kill xenos
+Skills: ['Tinkerer', 'Bionic eye', 'Street fighter']
+Flaws: ['Overweight', 'Poor discipline', 'Concussion', 'Mostly deaf']
+Liked by: ['Mack Clevenger']
+Disliked by: ['Timothy Jones', 'Christopher Byers', 'Justin Huff']
+Confirmed kills: 13
+Awards: ['Service Badge', 'Ribbon Intrinsic', 'Merit of Terra', 'Macharian Cross', 'Ribbon Intrinsic']
+Remarks: ['Promoted to Corporal 2018-05-30', 'Awarded the Service Badge 2018-06-08', 'Promoted to Lance Corporal 2018-06-30', 'Wounded in combat 2018-07-03', 'Promoted to Sergeant 2018-07-03', 'Awarded the Ribbon Intrinsic 2018-07-03', 'Wounded in combat 2018-07-09', 'Promoted to Lance Sergeant 2018-07-09', 'Awarded the Merit of Terra 2018-07-09', 'Transferred to superheavy789 2018-07-24', 'Awarded the Macharian Cross 2018-08-02', 'Awarded the Ribbon Intrinsic 2018-08-02', 'Earned officer commission 2018-08-05']
+
+Name: Sean Temple
+Age: 16
+Rank: Cadet
+Squad: RussD284
+Battles: 1
+Personality: Loner
+Background: Outcast
+Wants to: serve up a cold plate of vengeance
+Skills: ['Patient']
+Flaws: ['Absent minded', 'Missing leg']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Medallion Crimson']
+Remarks: ['Deployed 2018-08-02', 'Wounded in combat 2018-08-05', 'Awarded the Medallion Crimson 2018-08-05', 'Discharged to a non-combat unit 2018-08-05']
+
+Name: Warren Beaty
+Age: 18
+Rank: Guardsman
+Squad: squad68
+Battles: 1
+Personality: Superstitious
+Background: Agri worker
+Wants to: eat like a king
+Skills: ['Lightning reflexes', 'Nerves of steel']
+Flaws: ['Hesitant', 'Cruel', 'Missing leg']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: ['Medallion Crimson']
+Remarks: ['Deployed 2018-08-02', 'Wounded in combat 2018-08-05', 'Awarded the Medallion Crimson 2018-08-05', 'Discharged to a non-combat unit 2018-08-05']
+

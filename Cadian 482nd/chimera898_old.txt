@@ -1,0 +1,60 @@
+Name: Tony Schweitzer
+Age: 23
+Rank: Lance Corporal
+Battles: 2
+Personality: Mentor
+Background: Planetary defence
+Wants to: meet someone famous
+Skills: ['Hard target', 'Zealous']
+Flaws: ['Death-wish', 'Careless', 'Missing eye', 'Shell-shock']
+Confirmed kills: 3
+Awards: ['Triple Skull']
+Liked by: ['Daryl Laughman']
+Disliked by: []
+Remarks: ['Deployed 2018-07-24', 'Wounded in combat 2018-07-30', 'Promoted to Lance Corporal 2018-07-30', 'Awarded the Triple Skull 2018-07-30']
+
+Name: Andrew Mcginn
+Age: 21
+Rank: Guardsman
+Battles: 0
+Personality: Loose cannon
+Background: Ganger
+Wants to: survive
+Skills: []
+Flaws: ['Poor discipline']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Tony Schweitzer']
+Disliked by: []
+Remarks: ['Deployed 2018-07-30']
+
+Name: Daryl Laughman
+Age: 23
+Rank: Guardsman
+Battles: 0
+Personality: Braggart
+Background: Voidborn
+Wants to: survive
+Skills: ['Strong willed']
+Flaws: ['Impulsive', 'Oblivious', 'Fragile']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Andrew Mcginn']
+Disliked by: []
+Remarks: ['Deployed 2018-07-30']
+
+Name: Timothy Tritt
+Age: 19
+Rank: Guardsman
+Battles: 0
+Personality: Boisterous
+Background: Administratum menial
+Wants to: start a business
+Skills: []
+Flaws: []
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-07-30']
+

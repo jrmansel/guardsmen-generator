@@ -1,0 +1,90 @@
+Name: Joe Baker
+Age: 22
+Rank: Guardsman
+Battles: 0
+Personality: Gambler
+Background: Scavenger
+Wants to: marry a distant paramour
+Skills: ['Zealous', 'Handyman']
+Flaws: ['Poor health']
+Liked by: []
+Disliked by: ['Bennie Rodriguez', 'Michael Brown']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-30']
+
+Name: Michael Brown
+Age: 20
+Rank: Guardsman
+Battles: 0
+Personality: Loyal
+Background: Ganger
+Wants to: serve up a cold plate of vengeance
+Skills: ['Lightning reflexes']
+Flaws: ['Poor discipline']
+Liked by: []
+Disliked by: ['Joe Baker']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-30']
+
+Name: Bennie Rodriguez
+Age: 20
+Rank: Guardsman
+Battles: 0
+Personality: Dissenter
+Background: Ganger
+Wants to: marry a distant paramour
+Skills: []
+Flaws: ['Hesitant']
+Liked by: []
+Disliked by: ['John Watt', 'Joe Baker']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-30']
+
+Name: Octavio Rutledge
+Age: 22
+Rank: Guardsman
+Battles: 0
+Personality: Thief
+Background: Hiver
+Wants to: serve up a cold plate of vengeance
+Skills: ['Unarmed warrior']
+Flaws: ['Fragile']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-30']
+
+Name: John Watt
+Age: 23
+Rank: Guardsman
+Battles: 0
+Personality: Thief
+Background: Scavenger
+Wants to: make it home
+Skills: []
+Flaws: ['Coward']
+Liked by: ['Bennie Rodriguez']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-30']
+
+Name: Terry Estevez
+Age: 25
+Rank: Guardsman
+Battles: 0
+Personality: Joker
+Background: Voidborn
+Wants to: desert at the first opportunity
+Skills: ['Die hard', 'Mustache', 'Technical knock']
+Flaws: []
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-30']
+

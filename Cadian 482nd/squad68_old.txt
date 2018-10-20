@@ -1,0 +1,149 @@
+Name: Raymond Tep
+Age: 21
+Rank: Lance Corporal
+Battles: 3
+Personality: Obsessive
+Background: Forge worker
+Wants to: earn the respect of their comrades
+Skills: ['Lightning reflexes']
+Flaws: ['Dishonest', 'Mostly deaf']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: ['Joseph Crump']
+Remarks: ['Deployed 2018-07-24', 'Wounded in combat 2018-07-30', 'Wounded in combat 2018-08-02', 'Promoted to Corporal 2018-08-02', 'Wounded in combat 2018-08-05', 'Promoted to Lance Corporal 2018-08-05']
+
+Name: Joseph Crump
+Age: 18
+Rank: Sergeant
+Battles: 12
+Personality: Affable
+Wants to: serve up a cold plate of vengeance
+Skills: ['Unshakeable faith', 'Awesome scar', 'Hardy', 'Die hard', 'Bionic leg', 'Bionic arm']
+Flaws: ['Dyslexic', 'Mostly deaf']
+Confirmed kills: 0
+Awards: ['Ribbon Intrinsic', 'Service Badge', 'Medallion Crimson', 'Merit of Terra']
+Liked by: ['John Webb', 'Ryan Torres', 'Billy Miller']
+Disliked by: []
+Remarks: ['Deployed 2018-06-11', 'Wounded in combat 2018-06-21', 'Awarded the Ribbon Intrinsic 2018-06-21', 'Promoted to Corporal 2018-07-09', 'Awarded the Service Badge 2018-07-09', 'Awarded the Medallion Crimson 2018-07-12', 'Promoted to Lance Corporal 2018-07-19', 'Wounded in combat 2018-07-20', 'Promoted to Sergeant 2018-07-24', 'Awarded the Merit of Terra 2018-07-30', 'Wounded in combat 2018-08-05']
+
+Name: Antonia Rumore
+Age: 20
+Rank: Guardsman
+Battles: 1
+Personality: Quiet
+Background: Planetary defence
+Wants to: set a record
+Skills: ['Crack shot']
+Flaws: ['Weak', 'Flashbacks']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Warren Beaty']
+Disliked by: []
+Remarks: ['Deployed 2018-08-02', 'Wounded in combat 2018-08-05']
+
+Name: Juan Isch
+Age: 21
+Rank: Guardsman
+Battles: 0
+Personality: Affable
+Background: Disgraced
+Wants to: survive
+Skills: []
+Flaws: ['Hesitant']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Walter Bledsoe']
+Disliked by: []
+Remarks: ['Deployed 2018-08-05']
+
+Name: Andrew Criner
+Age: 25
+Rank: Guardsman
+Battles: 0
+Personality: Sensible
+Background: Planetary defence
+Wants to: own their own house
+Skills: ['Street fighter', 'Unshakeable pride']
+Flaws: []
+Confirmed kills: 0
+Awards: []
+Liked by: ['Joseph Crump']
+Disliked by: []
+Remarks: ['Deployed 2018-08-05']
+
+Name: Luke Hill
+Age: 26
+Rank: Guardsman
+Battles: 0
+Personality: Awkward
+Background: Hiver
+Wants to: kill xenos
+Skills: []
+Flaws: []
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-08-05']
+
+Name: Curtis Mann
+Age: 18
+Rank: Guardsman
+Battles: 0
+Personality: Spiteful
+Background: Forge worker
+Wants to: set foot on Terra
+Skills: []
+Flaws: ['Ignorant', 'Pacifist']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-08-05']
+
+Name: Howard Bieniek
+Age: 54
+Rank: Corporal
+Battles: 0
+Personality: Loyal
+Background: Planetary defence
+Wants to: learn to fly
+Skills: ['Bulging biceps', 'Tinkerer']
+Flaws: ['Gullible']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-08-05']
+
+Name: Kristopher Redmond
+Age: 16
+Rank: Cadet
+Battles: 0
+Personality: Naive
+Background: Ganger
+Wants to: start a business
+Skills: ['Good sense of direction']
+Flaws: ['Poor discipline']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-08-05']
+
+Name: Walter Bledsoe
+Age: 22
+Rank: Guardsman
+Battles: 0
+Personality: Reckless
+Background: Slave
+Wants to: transfer to a different regiment
+Skills: ['Cautious', 'Tireless']
+Flaws: ['Fragile', 'Addict', 'Unlucky']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-08-05']
+

@@ -1,0 +1,88 @@
+Name: Johnny Frost
+Age: 33
+Rank: Guardsman
+Battles: 1
+Personality: Steely
+Wants to: transfer to a different regiment
+Skills: ['Tinkerer', 'Ambidextrous', 'Unshakeable faith']
+Flaws: ['Dyslexic', 'Unbearable guilt', 'Nightmares']
+Confirmed kills: 0
+Awards: ['Triple Skull']
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-07-09', 'Wounded in combat 2018-07-19', 'Awarded the Triple Skull 2018-07-19']
+
+Name: Mark Cooley
+Age: 28
+Rank: Guardsman
+Battles: 1
+Personality: Optimist
+Wants to: survive
+Skills: ['Hard target', 'Sound judgement']
+Flaws: []
+Confirmed kills: 0
+Awards: ['Triple Skull']
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-07-09', 'Wounded in combat 2018-07-19', 'Awarded the Triple Skull 2018-07-19']
+
+Name: Kenneth Hart
+Age: 27
+Rank: Guardsman
+Battles: 0
+Personality: Mentor
+Background: Scavenger
+Wants to: sleep in
+Skills: ['Survivalist', 'Quick draw']
+Flaws: ['Asthma']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-07-19']
+
+Name: Jesse Wykes
+Age: 23
+Rank: Guardsman
+Battles: 0
+Personality: Awkward
+Background: Administratum menial
+Wants to: survive
+Skills: ['Heightened senses', 'Athlete']
+Flaws: ['Dyslexic', 'Fragile']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: ['Mark Cooley']
+Remarks: ['Deployed 2018-07-19']
+
+Name: Kevin Holmes
+Age: 28
+Rank: Guardsman
+Battles: 0
+Personality: Dissenter
+Background: Ganger
+Wants to: write a book
+Skills: ['Observant', 'Unshakeable pride']
+Flaws: []
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: ['Johnny Frost']
+Remarks: ['Deployed 2018-07-19']
+
+Name: John Polowy
+Age: 18
+Rank: Guardsman
+Battles: 0
+Personality: Strict
+Background: Slave
+Wants to: set a record
+Skills: []
+Flaws: ['Tainted', 'Clumsy']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: ['Kevin Holmes']
+Remarks: ['Deployed 2018-07-19']
+

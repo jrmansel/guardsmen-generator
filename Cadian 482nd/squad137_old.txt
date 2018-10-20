@@ -1,0 +1,148 @@
+Name: Ronald Jackson
+Age: 20
+Rank: Guardsman
+Battles: 0
+Personality: Steely
+Background: Voidborn
+Wants to: be remembered
+Skills: ['Die hard', 'Ambidextrous']
+Flaws: ['Careless', 'Old wound', 'Mistrusted']
+Liked by: ['Miles Mullings', 'William Steffan']
+Disliked by: ['Michael Smith']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-07-24']
+
+Name: John Thrift
+Age: 23
+Rank: Guardsman
+Battles: 1
+Personality: Spiteful
+Wants to: own their own house
+Skills: ['Awesome scar']
+Flaws: ['Shell-shock']
+Confirmed kills: 0
+Awards: ['Triple Skull']
+Liked by: []
+Disliked by: ['Mathew Gonzalez']
+Remarks: ['Deployed 2018-07-09', 'Wounded in combat 2018-07-19', 'Awarded the Triple Skull 2018-07-19']
+
+Name: Mathew Gonzalez
+Age: 28
+Rank: Corporal
+Battles: 5
+Personality: Cocky
+Wants to: kill heretics
+Skills: ['Lightning reflexes', 'Brave', 'Awesome scar']
+Flaws: ['Careless', 'Tainted', 'Death-wish', 'Shell-shock', 'Unbearable guilt']
+Confirmed kills: 0
+Awards: ['Triple Skull', 'Service Badge']
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-06-21', 'Wounded in combat 2018-07-03', 'Promoted to Corporal 2018-07-03', 'Wounded in combat 2018-07-09', 'Wounded in combat 2018-07-19', 'Awarded the Triple Skull 2018-07-19', 'Awarded the Service Badge 2018-07-19']
+
+Name: James Beane
+Age: 26
+Rank: Guardsman
+Battles: 0
+Personality: Quiet
+Background: Ganger
+Wants to: become famous
+Skills: ['Ambidextrous']
+Flaws: ['Addict', 'Cruel']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: ['Kirk Bauer']
+Remarks: ['Deployed 2018-07-19']
+
+Name: Nolan Carson
+Age: 21
+Rank: Guardsman
+Battles: 0
+Personality: Talkative
+Background: Hiver
+Wants to: impress the commissar
+Skills: ['Unarmed warrior', 'Good looking']
+Flaws: []
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-07-19']
+
+Name: Clifford Strassburg
+Age: 18
+Rank: Guardsman
+Battles: 0
+Personality: Strict
+Background: Administratum menial
+Wants to: survive
+Skills: ['Heightened senses']
+Flaws: ['Cruel', 'Unbearable guilt']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Mathew Gonzalez']
+Disliked by: []
+Remarks: ['Deployed 2018-07-19']
+
+Name: Allen Stevenson
+Age: 28
+Rank: Guardsman
+Battles: 0
+Personality: Sympathizer
+Background: Planetary defence
+Wants to: write a book
+Skills: ['Combat master']
+Flaws: ['Insomniac']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-07-19']
+
+Name: Jeffrey Archer
+Age: 23
+Rank: Guardsman
+Battles: 0
+Personality: Sympathizer
+Background: Forge worker
+Wants to: get laid
+Skills: []
+Flaws: ['Poor discipline', 'Dishonest']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: ['Allen Stevenson']
+Remarks: ['Deployed 2018-07-19']
+
+Name: Larry Christian
+Age: 23
+Rank: Guardsman
+Battles: 0
+Personality: Spiteful
+Background: Scavenger
+Wants to: serve up a cold plate of vengeance
+Skills: ['Awesome scar', 'Unshakeable pride']
+Flaws: ['Fragile', 'Allergies']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-07-19']
+
+Name: Kirk Bauer
+Age: 23
+Rank: Guardsman
+Battles: 0
+Personality: Backwater
+Background: Agri worker
+Wants to: redeem themselves
+Skills: ['Musician']
+Flaws: ['Short temper', 'Hesitant']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-07-19']
+

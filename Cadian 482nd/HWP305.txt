@@ -1,0 +1,90 @@
+Name: Joe Baker
+Age: 22
+Rank: Corporal
+Battles: 1
+Personality: Gambler
+Background: Scavenger
+Wants to: marry a distant paramour
+Skills: ['Zealous', 'Handyman']
+Flaws: ['Poor health']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Octavio Rutledge']
+Disliked by: ['Bennie Rodriguez', 'Michael Brown']
+Remarks: ['Deployed 2018-07-30', 'Promoted to Corporal 2018-07-30']
+
+Name: Terry Estevez
+Age: 25
+Rank: Corporal
+Battles: 1
+Personality: Joker
+Background: Voidborn
+Wants to: desert at the first opportunity
+Skills: ['Die hard', 'Mustache', 'Technical knock']
+Flaws: []
+Confirmed kills: 0
+Awards: []
+Liked by: ['Michael Brown']
+Disliked by: []
+Remarks: ['Deployed 2018-07-30', 'Promoted to Corporal 2018-07-30']
+
+Name: Michael Brown
+Age: 20
+Rank: Guardsman
+Battles: 1
+Personality: Loyal
+Background: Ganger
+Wants to: serve up a cold plate of vengeance
+Skills: ['Lightning reflexes', 'Duelist']
+Flaws: ['Poor discipline']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: ['Joe Baker', 'Bennie Rodriguez']
+Remarks: ['Deployed 2018-07-30']
+
+Name: Octavio Rutledge
+Age: 22
+Rank: Guardsman
+Battles: 1
+Personality: Thief
+Background: Hiver
+Wants to: serve up a cold plate of vengeance
+Skills: ['Unarmed warrior']
+Flaws: ['Fragile']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: ['Michael Brown']
+Remarks: ['Deployed 2018-07-30']
+
+Name: Bennie Rodriguez
+Age: 20
+Rank: Guardsman
+Battles: 1
+Personality: Dissenter
+Background: Ganger
+Wants to: marry a distant paramour
+Skills: ['Observant']
+Flaws: ['Hesitant']
+Confirmed kills: 0
+Awards: ['Macharian Cross']
+Liked by: []
+Disliked by: ['John Watt', 'Joe Baker']
+Remarks: ['Deployed 2018-07-30', 'Awarded the Macharian Cross 2018-07-30']
+
+Name: John Watt
+Age: 23
+Rank: Guardsman
+Battles: 1
+Personality: Thief
+Background: Scavenger
+Wants to: make it home
+Skills: ['Handyman']
+Flaws: ['Coward']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Bennie Rodriguez']
+Disliked by: ['Octavio Rutledge']
+Remarks: ['Deployed 2018-07-30']
+

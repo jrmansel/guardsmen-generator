@@ -1,0 +1,75 @@
+Name: Peter Dial
+Age: 19
+Rank: Lance Corporal
+Battles: 3
+Personality: Jaded
+Background: Outcast
+Wants to: start a family
+Skills: ['Combat master', 'Die hard', 'Athlete']
+Flaws: ['Paranoid']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Henry Roop', 'Charles Smith']
+Disliked by: ['Ralph Maslow']
+Remarks: ['Deployed 2018-07-30', 'Promoted to Corporal 2018-07-30', 'Promoted to Lance Corporal 2018-08-05']
+
+Name: Henry Roop
+Age: 22
+Rank: Lance Sergeant
+Battles: 3
+Personality: Narcissist
+Background: Outcast
+Wants to: set foot on Terra
+Skills: ['Sound judgement', 'Survivalist', 'Mustache']
+Flaws: []
+Confirmed kills: 0
+Awards: ['Macharian Cross']
+Liked by: ['Charles Smith', 'Peter Dial']
+Disliked by: ['William Couper', 'Ralph Maslow']
+Remarks: ['Deployed 2018-07-30', 'Promoted to Lance Sergeant 2018-08-05', 'Awarded the Macharian Cross 2018-08-05']
+
+Name: Charles Smith
+Age: 18
+Rank: Lance Corporal
+Battles: 3
+Personality: Naive
+Background: Agri worker
+Wants to: kill heretics
+Skills: ['Rapid reload', 'Lucky', 'Good sense of direction', 'Observant', 'Brave']
+Flaws: []
+Confirmed kills: 2
+Awards: ['Macharian Cross']
+Liked by: ['William Couper']
+Disliked by: ['Ralph Maslow', 'Peter Dial']
+Remarks: ['Deployed 2018-07-30', 'Promoted to Corporal 2018-08-02', 'Awarded the Macharian Cross 2018-08-02', 'Promoted to Lance Corporal 2018-08-05']
+
+Name: Ralph Maslow
+Age: 22
+Rank: Sergeant
+Battles: 3
+Personality: Reckless
+Background: Voidborn
+Wants to: be remembered
+Skills: ['Strong willed', 'Silent move', 'Good sense of direction']
+Flaws: ['Bad back']
+Confirmed kills: 0
+Awards: []
+Liked by: ['William Couper', 'Charles Smith', 'Henry Roop']
+Disliked by: []
+Remarks: ['Deployed 2018-07-30', 'Promoted to Corporal 2018-07-30', 'Promoted to Lance Corporal 2018-08-02', 'Promoted to Sergeant 2018-08-05']
+
+Name: William Couper
+Age: 19
+Rank: Lance Corporal
+Battles: 3
+Personality: Nihilist
+Background: Agri worker
+Wants to: travel the galaxy
+Skills: ['Patient']
+Flaws: ['Insomniac', 'Coward']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: ['Peter Dial']
+Remarks: ['Deployed 2018-07-30', 'Promoted to Corporal 2018-07-30', 'Promoted to Lance Corporal 2018-08-05']
+

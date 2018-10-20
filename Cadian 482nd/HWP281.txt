@@ -1,0 +1,86 @@
+Name: Gregory Player
+Age: 27
+Rank: Corporal
+Battles: 1
+Personality: Gambler
+Background: Ganger
+Wants to: meet someone famous
+Skills: ['Unshakeable pride', 'Heightened senses']
+Flaws: ['Hesitant', 'Slow']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-07-30', 'Promoted to Corporal 2018-08-10']
+
+Name: Joseph Hong
+Age: 26
+Rank: Corporal
+Battles: 4
+Personality: Sympathizer
+Wants to: write a book
+Skills: ['Lucky', 'Survivalist', 'Hardy']
+Flaws: ['Unbearable guilt', 'Tainted', 'Missing eye']
+Confirmed kills: 1
+Awards: ['Macharian Cross']
+Liked by: []
+Disliked by: ['Michael Rank', 'Ward Kelly', 'Donald Morrison']
+Remarks: ['Deployed 2018-07-09', 'Wounded in combat 2018-07-30', 'Promoted to Corporal 2018-08-10', 'Awarded the Macharian Cross 2018-08-10']
+
+Name: Monty Capps
+Age: 21
+Rank: Corporal
+Battles: 4
+Personality: Leech
+Wants to: earn the respect of their superiors
+Skills: ['Ambidextrous', 'Observant', 'Tough as nails', 'Heightened senses']
+Flaws: ['Careless', 'Clumsy', 'Concussion']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Ward Kelly']
+Disliked by: ['Joseph Hong']
+Remarks: ['Deployed 2018-07-09', 'Wounded in combat 2018-07-30', 'Promoted to Corporal 2018-08-10']
+
+Name: Michael Rank
+Age: 23
+Rank: Lance Corporal
+Battles: 6
+Personality: Steely
+Wants to: impress the commissar
+Skills: ['Brave', 'Unremarkable', 'Unshakeable faith', 'Rapid reload', 'Tough as nails']
+Flaws: ['Disfigurement']
+Confirmed kills: 2
+Awards: ['Medallion Crimson', 'Service Badge']
+Liked by: ['Lisa Decarr', 'Monty Capps', 'Joseph Hong']
+Disliked by: []
+Remarks: ['Deployed 2018-06-26', 'Wounded in combat 2018-06-30', 'Awarded the Medallion Crimson 2018-06-30', 'Promoted to Corporal 2018-07-09', 'Promoted to Lance Corporal 2018-07-30', 'Awarded the Service Badge 2018-07-30']
+
+Name: Donald Morrison
+Age: 59
+Rank: Guardsman
+Battles: 1
+Personality: Quiet
+Background: Administratum menial
+Wants to: set a record
+Skills: ['Street fighter']
+Flaws: ['Ignorant', 'Pacifist', 'Ugly']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-07-30']
+
+Name: Ward Kelly
+Age: 24
+Rank: Corporal
+Battles: 5
+Personality: Narcissist
+Wants to: earn the respect of their superiors
+Skills: ['Hard target', 'Athlete', 'Survivalist']
+Flaws: []
+Confirmed kills: 0
+Awards: ['Service Badge']
+Liked by: ['Joseph Hong', 'Michael Rank', 'Gregory Player']
+Disliked by: ['Lisa Decarr']
+Remarks: ['Deployed 2018-06-30', 'Wounded in combat 2018-07-09', 'Promoted to Corporal 2018-07-30', 'Awarded the Service Badge 2018-08-10']
+

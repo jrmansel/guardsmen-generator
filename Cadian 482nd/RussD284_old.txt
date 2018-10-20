@@ -1,0 +1,89 @@
+Name: Mark Bowles
+Age: 23
+Rank: Sergeant
+Battles: 5
+Personality: Narcissist
+Wants to: protect a friend
+Skills: ['Good looking', 'Observant', 'Die hard', 'Trustworthy']
+Flaws: ['Allergies', 'Disfigurement']
+Confirmed kills: 7
+Awards: ['Medallion Crimson', 'Service Badge']
+Liked by: ['Virginia Wooden']
+Disliked by: ['Ricardo Green', 'Michael Christensen']
+Remarks: ['Deployed 2018-07-12', 'Wounded in combat 2018-07-19', 'Awarded the Medallion Crimson 2018-07-19', 'Wounded in combat 2018-07-30', 'Promoted to Corporal 2018-07-30', 'Promoted to Lance Corporal 2018-08-02', 'Promoted to Sergeant 2018-08-05', 'Awarded the Service Badge 2018-08-05']
+
+Name: Michael Kaspar
+Age: 23
+Rank: Lance Corporal
+Battles: 2
+Personality: Never bathes
+Background: Hiver
+Wants to: set foot on Terra
+Skills: ['Cook', 'Crack shot', 'Bionic arm']
+Flaws: []
+Confirmed kills: 0
+Awards: ['Medallion Crimson']
+Liked by: ['Michael Christensen', 'Mark Bowles']
+Disliked by: ['Mark Decker']
+Remarks: ['Deployed 2018-07-30', 'Wounded in combat 2018-08-02', 'Awarded the Medallion Crimson 2018-08-02', 'Promoted to Corporal 2018-08-02', 'Promoted to Lance Corporal 2018-08-05']
+
+Name: William Baldwin
+Age: 23
+Rank: Corporal
+Battles: 1
+Personality: Loner
+Background: Outcast
+Wants to: transfer to a different regiment
+Skills: ['Unshakeable pride', 'Patient']
+Flaws: []
+Confirmed kills: 0
+Awards: []
+Liked by: ['Michael Kaspar']
+Disliked by: []
+Remarks: ['Deployed 2018-08-02', 'Promoted to Corporal 2018-08-05']
+
+Name: Mark Decker
+Age: 19
+Rank: Corporal
+Battles: 4
+Personality: Nihilist
+Background: Administratum menial
+Wants to: protect a friend
+Skills: ['Tinkerer', 'Duelist']
+Flaws: ['Slow', 'Disfigurement', 'Concussion']
+Confirmed kills: 0
+Awards: ['Medallion Crimson', 'Eagle Ordinary']
+Liked by: ['Thomas Andres', 'Ricardo Green', 'William Baldwin', 'Michael Christensen']
+Disliked by: []
+Remarks: ['Deployed 2018-07-24', 'Wounded in combat 2018-07-30', 'Awarded the Medallion Crimson 2018-07-30', 'Wounded in combat 2018-08-02', 'Promoted to Corporal 2018-08-02', 'Awarded the Eagle Ordinary 2018-08-02']
+
+Name: Michael Christensen
+Age: 19
+Rank: Guardsman
+Battles: 1
+Personality: Slacker
+Background: Voidborn
+Wants to: become rich
+Skills: ['Cautious', 'Combat master']
+Flaws: []
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: ['Sean Temple', 'William Baldwin']
+Remarks: ['Deployed 2018-08-02', 'Wounded in combat 2018-08-05']
+
+Name: Virginia Wooden
+Age: 22
+Rank: Guardsman
+Battles: 0
+Personality: Spiteful
+Background: Slave
+Wants to: kill heretics
+Skills: ['Bionic eye', 'Survivalist', 'Hardy']
+Flaws: ['Flat footed', 'Weak']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-08-05']
+

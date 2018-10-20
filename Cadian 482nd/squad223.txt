@@ -1,0 +1,150 @@
+Name: Keith Perez
+Age: 19
+Rank: Guardsman
+Battles: 1
+Personality: Leech
+Background: Administratum menial
+Wants to: make it home
+Skills: ['Foresight', 'Born leader']
+Flaws: ['Dishonest']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Ruben Whitehead']
+Disliked by: ['John Phillips', 'Eugene Rodriguez', 'Jesus Mccracken']
+Remarks: ['Deployed 2018-08-10']
+
+Name: Jesus Mccracken
+Age: 20
+Rank: Guardsman
+Battles: 1
+Personality: Psychotic
+Background: Outcast
+Wants to: serve up a cold plate of vengeance
+Skills: ['Lightning reflexes']
+Flaws: ['Poor health', 'Dyslexic']
+Confirmed kills: 0
+Awards: []
+Liked by: ['John Phillips']
+Disliked by: ['Ruben Whitehead', 'Eugene Rodriguez']
+Remarks: ['Deployed 2018-08-10']
+
+Name: John Phillips
+Age: 19
+Rank: Guardsman
+Battles: 1
+Personality: Affable
+Background: Outcast
+Wants to: serve up a cold plate of vengeance
+Skills: ['Tireless', 'Ambidextrous']
+Flaws: ['Coward']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Keith Perez', 'Jesus Mccracken', 'Ruben Whitehead']
+Disliked by: []
+Remarks: ['Deployed 2018-08-10']
+
+Name: Eugene Rodriguez
+Age: 23
+Rank: Guardsman
+Battles: 1
+Personality: Steely
+Background: Scavenger
+Wants to: bring honor to their family
+Skills: ['Sound judgement', 'Silent move', 'Survivalist']
+Flaws: ['Death-wish']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-08-10']
+
+Name: Ruben Whitehead
+Age: 39
+Rank: Guardsman
+Battles: 1
+Personality: Steely
+Background: Forge worker
+Wants to: survive
+Skills: ['Unshakeable pride']
+Flaws: ['Unbearable guilt']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Eugene Rodriguez', 'Michael Crist']
+Disliked by: []
+Remarks: ['Deployed 2018-08-10']
+
+Name: Brian Maldonado
+Age: 23
+Rank: Corporal
+Battles: 1
+Personality: Smooth
+Background: Hiver
+Wants to: become famous
+Skills: ['Cautious']
+Flaws: ['Ignorant', 'Disfigurement']
+Confirmed kills: 0
+Awards: ['Medallion Crimson']
+Liked by: ['Michael Crist', 'John Phillips']
+Disliked by: []
+Remarks: ['Deployed 2018-08-10', 'Wounded in combat 2018-08-10', 'Awarded the Medallion Crimson 2018-08-10']
+
+Name: Michael Crist
+Age: 27
+Rank: Sergeant
+Battles: 1
+Personality: Backwater
+Background: Scavenger
+Wants to: desert at the first opportunity
+Skills: ['Bionic eye']
+Flaws: ['Addict', 'Insomniac', 'Tainted']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-08-10', 'Wounded in combat 2018-08-10']
+
+Name: Kim Lopez
+Age: 22
+Rank: Guardsman
+Battles: 0
+Personality: Nihilist
+Background: Administratum menial
+Wants to: travel the galaxy
+Skills: ['Lateral thinker', 'Heightened senses']
+Flaws: ['Slow']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-08-10']
+
+Name: Jeremy Eakes
+Age: 20
+Rank: Guardsman
+Battles: 0
+Personality: Dissenter
+Background: Outcast
+Wants to: start a business
+Skills: ['Mustache', 'Lateral thinker']
+Flaws: ['Unlucky']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-08-10']
+
+Name: Leonard Hanson
+Age: 16
+Rank: Cadet
+Battles: 0
+Personality: Reckless
+Background: Administratum menial
+Wants to: become rich
+Skills: ['Patient']
+Flaws: ['Impulsive']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-08-10']
+

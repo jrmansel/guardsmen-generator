@@ -1,0 +1,146 @@
+Name: Brian Hendrickson
+Age: 63
+Rank: Lance Corporal
+Battles: 4
+Personality: Numb
+Background: Administratum menial
+Wants to: survive
+Skills: ['Brave', 'Sound judgement', 'Rapid reload']
+Flaws: ['Insomniac']
+Confirmed kills: 1
+Awards: []
+Liked by: ['Michael Hills', 'William Sanchez']
+Disliked by: ['Marcus Ulloa']
+Remarks: ['Deployed 2018-07-24', 'Promoted to Corporal 2018-07-30', 'Wounded in combat 2018-08-05', 'Promoted to Lance Corporal 2018-08-10']
+
+Name: Roger Blankenship
+Age: 23
+Rank: Corporal
+Battles: 1
+Personality: Numb
+Background: Ganger
+Wants to: become famous
+Skills: ['Duelist']
+Flaws: ['Paranoid', 'Old wound']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Michael Hills', 'David Ambres']
+Disliked by: []
+Remarks: ['Deployed 2018-08-05', 'Promoted to Corporal 2018-08-10']
+
+Name: Michael Hills
+Age: 25
+Rank: Lance Corporal
+Battles: 6
+Personality: Pessimist
+Wants to: travel the world
+Skills: ['Die hard', 'Street fighter']
+Flaws: ['Dumb', 'Ugly', 'Mostly deaf', 'Missing eye']
+Confirmed kills: 0
+Awards: ['Service Badge']
+Liked by: ['David Ambres', 'Brandon Sloan']
+Disliked by: ['William Sanchez']
+Remarks: ['Deployed 2018-07-09', 'Wounded in combat 2018-07-19', 'Wounded in combat 2018-07-24', 'Wounded in combat 2018-07-30', 'Promoted to Corporal 2018-08-02', 'Awarded the Service Badge 2018-08-05', 'Promoted to Lance Corporal 2018-08-10']
+
+Name: David Davis
+Age: 21
+Rank: Corporal
+Battles: 8
+Personality: Jaded
+Wants to: desert at the first opportunity
+Skills: ['Die hard', 'Sound judgement', 'Survivalist', 'Awesome scar', 'Handyman', 'Duelist']
+Flaws: ['Basically deaf']
+Confirmed kills: 0
+Awards: ['Service Badge']
+Liked by: ['Joseph Crump', 'Brent Wahl']
+Disliked by: ['Robert Case', 'Samuel Guimond']
+Remarks: ['Deployed 2018-06-26', 'Wounded in combat 2018-07-08', 'Wounded in combat 2018-07-09', 'Wounded in combat 2018-07-12', 'Awarded the Service Badge 2018-07-19', 'Wounded in combat 2018-07-20', 'Transferred to command974 from squad68 2018-07-24', 'Transferred to squad705 2018-08-10', 'Promoted to Corporal 2018-08-10']
+
+Name: David Ambres
+Age: 25
+Rank: Guardsman
+Battles: 3
+Personality: Joker
+Background: Administratum menial
+Wants to: kill xenos
+Skills: ['Handyman', 'Hard target']
+Flaws: ['Twitchy', 'Ugly']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: ['Brian Hendrickson']
+Remarks: ['Deployed 2018-07-30', 'Wounded in combat 2018-08-05']
+
+Name: Marcus Ulloa
+Age: 23
+Rank: Guardsman
+Battles: 4
+Personality: Reckless
+Background: Slave
+Wants to: survive
+Skills: ['Bionic eye', 'Patient']
+Flaws: ['Insomniac', 'Oblivious', 'Hesitant', 'Disfigurement', 'Coward']
+Confirmed kills: 0
+Awards: ['Medallion Crimson']
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-07-24', 'Wounded in combat 2018-08-05', 'Awarded the Medallion Crimson 2018-08-05']
+
+Name: Billy Miller
+Age: 28
+Rank: Corporal
+Battles: 5
+Personality: Smooth
+Wants to: just get five god damn minutes of peace and quiet for once
+Skills: ['Mustache', 'Lightning reflexes', 'Bulging biceps', 'Bionic eye', 'Lateral thinker']
+Flaws: ['Hesitant']
+Confirmed kills: 1
+Awards: ['Macharian Cross', 'Service Badge']
+Liked by: ['David Baez', 'Marcus Ulloa']
+Disliked by: []
+Remarks: ['Deployed 2018-07-09', 'Wounded in combat 2018-07-12', 'Promoted to Corporal 2018-07-19', 'Wounded in combat 2018-07-20', 'Transferred to command974 from squad68 2018-07-24', 'Transferred to squad705 2018-08-10', 'Awarded the Macharian Cross 2018-08-10', 'Awarded the Service Badge 2018-08-10']
+
+Name: William Sanchez
+Age: 23
+Rank: Lance Corporal
+Battles: 6
+Personality: Twitchy
+Wants to: kill xenos
+Skills: ['Quick draw', 'Awesome scar', 'Hardy', 'Crack shot', 'Handyman']
+Flaws: ['Death-wish', 'Bad back', 'Paranoid']
+Confirmed kills: 1
+Awards: ['Service Badge']
+Liked by: ['Richard Clifford']
+Disliked by: ['Billy Miller']
+Remarks: ['Deployed 2018-07-09', 'Wounded in combat 2018-07-19', 'Promoted to Corporal 2018-08-02', 'Promoted to Lance Corporal 2018-08-05', 'Awarded the Service Badge 2018-08-05']
+
+Name: Richard Clifford
+Age: 24
+Rank: Guardsman
+Battles: 1
+Personality: Gambler
+Background: Merchant house
+Wants to: acquire knowledge
+Skills: ['Unshakeable pride', 'Sound judgement', 'Die hard']
+Flaws: ['Cruel', 'Old wound']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Michael Hills']
+Disliked by: []
+Remarks: ['Deployed 2018-08-05', 'Wounded in combat 2018-08-10']
+
+Name: Samuel Guimond
+Age: 24
+Rank: Guardsman
+Battles: 1
+Personality: Thief
+Background: Ganger
+Wants to: desert at the first opportunity
+Skills: ['Awesome scar']
+Flaws: ['Insomniac']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: ['John Pisano', 'William Sanchez']
+Remarks: ['Deployed 2018-08-05', 'Wounded in combat 2018-08-10']
+

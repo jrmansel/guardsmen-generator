@@ -1,0 +1,150 @@
+Name: Keith Perez
+Age: 19
+Rank: Guardsman
+Battles: 0
+Personality: Leech
+Background: Administratum menial
+Wants to: make it home
+Skills: ['Foresight', 'Born leader']
+Flaws: ['Dishonest']
+Liked by: ['Dennis Gavin']
+Disliked by: ['John Phillips', 'Eugene Rodriguez']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-08-10']
+
+Name: John Phillips
+Age: 19
+Rank: Guardsman
+Battles: 0
+Personality: Affable
+Background: Outcast
+Wants to: serve up a cold plate of vengeance
+Skills: ['Tireless']
+Flaws: []
+Liked by: ['Keith Perez', 'Jesus Mccracken', 'Ruben Whitehead']
+Disliked by: ['Dennis Gavin']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-08-10']
+
+Name: Michael Crist
+Age: 27
+Rank: Sergeant
+Battles: 0
+Personality: Backwater
+Background: Scavenger
+Wants to: desert at the first opportunity
+Skills: ['Bionic eye']
+Flaws: ['Addict', 'Insomniac', 'Tainted']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-08-10']
+
+Name: Eugene Rodriguez
+Age: 23
+Rank: Guardsman
+Battles: 0
+Personality: Steely
+Background: Scavenger
+Wants to: bring honor to their family
+Skills: ['Sound judgement', 'Silent move', 'Survivalist']
+Flaws: ['Death-wish']
+Liked by: []
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-08-10']
+
+Name: Dennis Gavin
+Age: 18
+Rank: Guardsman
+Battles: 0
+Personality: Backwater
+Background: Agri worker
+Wants to: bring honor to their family
+Skills: []
+Flaws: ['Addict', 'Old wound']
+Liked by: ['Brian Maldonado']
+Disliked by: ['Michael Crist']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-08-10']
+
+Name: Jesus Mccracken
+Age: 20
+Rank: Guardsman
+Battles: 0
+Personality: Psychotic
+Background: Outcast
+Wants to: survive
+Skills: []
+Flaws: ['Poor health', 'Dyslexic']
+Liked by: ['John Phillips']
+Disliked by: ['Ruben Whitehead', 'Eugene Rodriguez']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-08-10']
+
+Name: Ruben Whitehead
+Age: 39
+Rank: Guardsman
+Battles: 0
+Personality: Steely
+Background: Forge worker
+Wants to: survive
+Skills: ['Unshakeable pride']
+Flaws: []
+Liked by: ['Eugene Rodriguez', 'Michael Crist']
+Disliked by: ['Matthew Harris']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-08-10']
+
+Name: Bradley Ott
+Age: 27
+Rank: Corporal
+Battles: 0
+Personality: Narcissist
+Background: Outcast
+Wants to: get back to the good old days
+Skills: ['Lateral thinker', 'Beard']
+Flaws: []
+Liked by: ['Jesus Mccracken']
+Disliked by: ['Eugene Rodriguez', 'Matthew Harris', 'John Phillips']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-08-10']
+
+Name: Matthew Harris
+Age: 28
+Rank: Guardsman
+Battles: 0
+Personality: Backwater
+Background: Outcast
+Wants to: desert at the first opportunity
+Skills: ['Rapid reload']
+Flaws: ['Death-wish', 'Poor health']
+Liked by: []
+Disliked by: ['Eugene Rodriguez', 'Jesus Mccracken']
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-08-10']
+
+Name: Brian Maldonado
+Age: 23
+Rank: Corporal
+Battles: 0
+Personality: Smooth
+Background: Hiver
+Wants to: become famous
+Skills: ['Cautious']
+Flaws: ['Ignorant']
+Liked by: ['Michael Crist', 'John Phillips']
+Disliked by: []
+Confirmed kills: 0
+Awards: []
+Remarks: ['Deployed 2018-08-10']
+

@@ -1,0 +1,150 @@
+Name: Tony Thomas
+Age: 25
+Rank: Guardsman
+Battles: 2
+Personality: Strict
+Background: Agri worker
+Wants to: acquire knowledge
+Skills: ['Duelist', 'Athlete', 'Lightning reflexes']
+Flaws: []
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: ['Allen Stevenson', 'John Kidd']
+Remarks: ['Deployed 2018-07-30']
+
+Name: Arthur Goodman
+Age: 18
+Rank: Guardsman
+Battles: 2
+Personality: Pragmatic
+Background: Planetary defence
+Wants to: survive
+Skills: ['Patient', 'Tough as nails']
+Flaws: ['Poor discipline', 'Flashbacks']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Wiley Walstrum', 'Tony Thomas']
+Disliked by: []
+Remarks: ['Deployed 2018-07-30']
+
+Name: Warren Soren
+Age: 18
+Rank: Corporal
+Battles: 2
+Personality: Jaded
+Background: Outcast
+Wants to: die for the Emperor
+Skills: ['Lightning reflexes', 'Survivalist']
+Flaws: []
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: ['Robert Fabre']
+Remarks: ['Deployed 2018-07-30', 'Promoted to Corporal 2018-08-02']
+
+Name: Wiley Walstrum
+Age: 26
+Rank: Guardsman
+Battles: 2
+Personality: Loose cannon
+Background: Administratum menial
+Wants to: kill xenos
+Skills: ['Sound judgement', 'Mustache', 'Silent move']
+Flaws: ['Fragile', 'Twitchy']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Ronald Jackson']
+Disliked by: []
+Remarks: ['Deployed 2018-07-30']
+
+Name: Robert Fabre
+Age: 18
+Rank: Cadet
+Battles: 3
+Personality: Pragmatic
+Background: Planetary defence
+Wants to: meet someone famous
+Skills: ['Quick draw', 'Awesome scar', 'Good sense of direction']
+Flaws: ['Cruel', 'Ignorant', 'Flashbacks']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Warren Soren']
+Disliked by: []
+Remarks: ['Deployed 2018-07-24', 'Wounded in combat 2018-07-30']
+
+Name: Kenneth Vogt
+Age: 28
+Rank: Guardsman
+Battles: 0
+Personality: Heroic
+Background: Forge worker
+Wants to: kill xenos
+Skills: ['Die hard', 'Lucky']
+Flaws: ['Flat footed', 'Hive bound']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Wiley Walstrum']
+Disliked by: []
+Remarks: ['Deployed 2018-08-05']
+
+Name: John Kidd
+Age: 18
+Rank: Guardsman
+Battles: 0
+Personality: Slacker
+Background: Administratum menial
+Wants to: protect a friend
+Skills: ['Unshakeable pride', 'Quick draw']
+Flaws: ['Clumsy', 'Gullible']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-08-05']
+
+Name: Leon Mclaughlin
+Age: 27
+Rank: Guardsman
+Battles: 0
+Personality: Quiet
+Background: Agri worker
+Wants to: redeem themselves
+Skills: ['Foresight']
+Flaws: ['Pacifist', 'Illiterate']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Warren Soren']
+Disliked by: []
+Remarks: ['Deployed 2018-08-05']
+
+Name: Brandon Sloan
+Age: 22
+Rank: Corporal
+Battles: 0
+Personality: Smooth
+Background: Planetary defence
+Wants to: travel the galaxy
+Skills: ['Cook', 'Bulging biceps']
+Flaws: ['Poor initiative']
+Confirmed kills: 0
+Awards: []
+Liked by: ['John Pisano']
+Disliked by: []
+Remarks: ['Deployed 2018-08-05']
+
+Name: John Pisano
+Age: 21
+Rank: Guardsman
+Battles: 0
+Personality: Drunkard
+Background: Forge worker
+Wants to: learn to fly
+Skills: ['Bionic eye']
+Flaws: ['Unbearable guilt']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: ['David Ambres']
+Remarks: ['Deployed 2018-08-05']
+

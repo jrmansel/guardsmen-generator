@@ -1,0 +1,150 @@
+Name: Michael Duncan
+Age: 23
+Rank: Sergeant
+Battles: 2
+Personality: Numb
+Background: Militarum
+Wants to: die for the Emperor
+Skills: ['Tireless', 'Duelist']
+Flaws: ['Poor health', 'Careless']
+Confirmed kills: 0
+Awards: ['Eagle Ordinary', 'Ribbon Intrinsic']
+Liked by: ['Orville Criner']
+Disliked by: ['Benjamin Gutierrez', 'Joshua Kellogg']
+Remarks: ['Deployed 2018-07-30', 'Promoted to Lance Corporal 2018-07-30', 'Awarded the Eagle Ordinary 2018-07-30', 'Awarded the Ribbon Intrinsic 2018-07-30', 'Promoted to Sergeant 2018-08-02']
+
+Name: John Mckinley
+Age: 25
+Rank: Lance Sergeant
+Battles: 2
+Personality: Jaded
+Background: Militarum
+Wants to: make it home
+Skills: ['Bionic eye', 'Born leader', 'Beard', 'Good looking', 'Foresight', 'Bionic arm']
+Flaws: ['Unlucky', 'Coward']
+Confirmed kills: 0
+Awards: ['Medallion Crimson', 'Ribbon Intrinsic']
+Liked by: ['Michael Duncan', 'Joshua Kellogg']
+Disliked by: []
+Remarks: ['Deployed 2018-07-30', 'Wounded in combat 2018-07-30', 'Awarded the Medallion Crimson 2018-07-30', 'Promoted to Lance Sergeant 2018-07-30', 'Awarded the Ribbon Intrinsic 2018-07-30']
+
+Name: Leslie Partee
+Age: 26
+Rank: Corporal
+Battles: 1
+Personality: Sensible
+Background: Vaunted wealth
+Wants to: travel the galaxy
+Skills: ['Good looking', 'Handyman', 'Observant']
+Flaws: ['Poor discipline']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Michael Duncan']
+Disliked by: []
+Remarks: ['Deployed 2018-07-30']
+
+Name: Arthur Basbas
+Age: 27
+Rank: Corporal
+Battles: 1
+Personality: Obsessive
+Background: Savant
+Wants to: acquire knowledge
+Skills: ['Survivalist', 'Cautious', 'Tinkerer', 'Bionic arm', 'Good sense of direction']
+Flaws: ['Old wound']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Brian Rados']
+Disliked by: ['Leslie Partee']
+Remarks: ['Deployed 2018-07-30']
+
+Name: Robert Stewart
+Age: 56
+Rank: Lance Corporal
+Battles: 2
+Personality: Obsessive
+Background: Vaunted wealth
+Wants to: impress the commissar
+Skills: ['Hard target', 'Bionic arm']
+Flaws: ['Dyslexic', 'Coward', 'Old wound']
+Confirmed kills: 0
+Awards: ['Ribbon Intrinsic', 'Medallion Crimson']
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-07-30', 'Wounded in combat 2018-07-30', 'Promoted to Lance Corporal 2018-07-30', 'Awarded the Ribbon Intrinsic 2018-07-30', 'Wounded in combat 2018-08-02', 'Awarded the Medallion Crimson 2018-08-02']
+
+Name: Benjamin Gutierrez
+Age: 27
+Rank: Lance Corporal
+Battles: 2
+Personality: Backwater
+Background: Vaunted wealth
+Wants to: protect a friend
+Skills: ['Survivalist', 'Cook', 'Brave']
+Flaws: []
+Confirmed kills: 0
+Awards: ['Ribbon Intrinsic']
+Liked by: ['Eugene Holsten', 'Orville Criner', 'Leslie Partee']
+Disliked by: []
+Remarks: ['Deployed 2018-07-30', 'Promoted to Lance Corporal 2018-07-30', 'Awarded the Ribbon Intrinsic 2018-07-30', 'Wounded in combat 2018-08-02']
+
+Name: Eugene Holsten
+Age: 27
+Rank: Corporal
+Battles: 2
+Personality: Pragmatic
+Background: Child of the creed
+Wants to: desert at the first opportunity
+Skills: ['Lightning reflexes']
+Flaws: ['Pacifist', 'Twitchy', 'Paranoid']
+Confirmed kills: 0
+Awards: []
+Liked by: ['John Mckinley', 'Brian Rados']
+Disliked by: ['Orville Criner', 'Michael Duncan', 'Joshua Kellogg']
+Remarks: ['Deployed 2018-07-30', 'Wounded in combat 2018-08-02']
+
+Name: Orville Criner
+Age: 24
+Rank: Lance Corporal
+Battles: 2
+Personality: Mentor
+Background: Militarum
+Wants to: survive
+Skills: ['Unshakeable pride', 'Heightened senses', 'Lateral thinker']
+Flaws: ['Careless', 'Oblivious', 'Death-wish']
+Confirmed kills: 0
+Awards: ['Ribbon Intrinsic']
+Liked by: ['John Mckinley', 'Michael Duncan', 'Benjamin Gutierrez']
+Disliked by: ['Joshua Kellogg']
+Remarks: ['Deployed 2018-07-30', 'Promoted to Lance Corporal 2018-07-30', 'Awarded the Ribbon Intrinsic 2018-07-30', 'Wounded in combat 2018-08-02']
+
+Name: Joshua Kellogg
+Age: 56
+Rank: Corporal
+Battles: 1
+Personality: Sarcastic
+Background: Arbiter
+Wants to: marry a distant paramour
+Skills: ['Duelist', 'Bookworm', 'Quick draw']
+Flaws: ['Absent minded', 'Cruel', 'Concussion']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Brian Rados']
+Disliked by: []
+Remarks: ['Deployed 2018-07-30', 'Wounded in combat 2018-08-02']
+
+Name: Brian Rados
+Age: 23
+Rank: Corporal
+Battles: 0
+Personality: Joker
+Background: Child of the creed
+Wants to: own their own house
+Skills: ['Bookworm', 'Patient', 'Observant']
+Flaws: ['Tainted', 'Short temper']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Robert Stewart']
+Disliked by: []
+Remarks: ['Deployed 2018-08-02']
+

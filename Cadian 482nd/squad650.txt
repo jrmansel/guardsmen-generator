@@ -1,0 +1,150 @@
+Name: Robert Fabre
+Age: 18
+Rank: Cadet
+Battles: 4
+Personality: Pragmatic
+Background: Planetary defence
+Wants to: meet someone famous
+Skills: ['Quick draw', 'Awesome scar', 'Good sense of direction', 'Foresight']
+Flaws: ['Cruel', 'Ignorant', 'Flashbacks']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Warren Soren']
+Disliked by: []
+Remarks: ['Deployed 2018-07-24', 'Wounded in combat 2018-07-30', 'Wounded in combat 2018-08-10']
+
+Name: Brandon Sloan
+Age: 22
+Rank: Corporal
+Battles: 1
+Personality: Smooth
+Background: Planetary defence
+Wants to: travel the galaxy
+Skills: ['Cook', 'Bulging biceps']
+Flaws: ['Poor initiative', 'Hesitant']
+Confirmed kills: 0
+Awards: []
+Liked by: ['John Pisano', 'Tony Thomas']
+Disliked by: []
+Remarks: ['Deployed 2018-08-05', 'Wounded in combat 2018-08-10']
+
+Name: Warren Soren
+Age: 18
+Rank: Corporal
+Battles: 3
+Personality: Loner
+Background: Outcast
+Wants to: die for the Emperor
+Skills: ['Lightning reflexes', 'Survivalist']
+Flaws: []
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: ['Robert Fabre', 'Philip Dotson']
+Remarks: ['Deployed 2018-07-30', 'Promoted to Corporal 2018-08-02', 'Wounded in combat 2018-08-10']
+
+Name: Kenneth Vogt
+Age: 28
+Rank: Guardsman
+Battles: 1
+Personality: Heroic
+Background: Forge worker
+Wants to: kill xenos
+Skills: ['Die hard', 'Lucky']
+Flaws: ['Flat footed', 'Hive bound']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Warren Soren', 'Richard Scuderi']
+Disliked by: []
+Remarks: ['Deployed 2018-08-05', 'Wounded in combat 2018-08-10']
+
+Name: John Pisano
+Age: 21
+Rank: Guardsman
+Battles: 1
+Personality: Drunkard
+Background: Forge worker
+Wants to: learn to fly
+Skills: ['Bionic eye', 'Tireless']
+Flaws: ['Unbearable guilt', 'Mostly deaf']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: ['David Ambres', 'Robert Fabre']
+Remarks: ['Deployed 2018-08-05', 'Wounded in combat 2018-08-10']
+
+Name: Tony Thomas
+Age: 25
+Rank: Guardsman
+Battles: 3
+Personality: Strict
+Background: Agri worker
+Wants to: acquire knowledge
+Skills: ['Duelist', 'Athlete', 'Lightning reflexes']
+Flaws: []
+Confirmed kills: 0
+Awards: []
+Liked by: ['Warren Soren']
+Disliked by: ['Allen Stevenson']
+Remarks: ['Deployed 2018-07-30', 'Wounded in combat 2018-08-10']
+
+Name: Reyes Garcia
+Age: 21
+Rank: Corporal
+Battles: 0
+Personality: Obsessive
+Background: Planetary defence
+Wants to: redeem themselves
+Skills: []
+Flaws: []
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-08-10']
+
+Name: Philip Dotson
+Age: 16
+Rank: Cadet
+Battles: 0
+Personality: Quiet
+Background: Administratum menial
+Wants to: eat like a king
+Skills: ['Born leader', 'Patient']
+Flaws: ['Coward', 'Ugly']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Richard Scuderi']
+Disliked by: []
+Remarks: ['Deployed 2018-08-10']
+
+Name: Richard Scuderi
+Age: 31
+Rank: Corporal
+Battles: 0
+Personality: Strict
+Background: Planetary defence
+Wants to: write a book
+Skills: []
+Flaws: []
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: ['Kenneth Vogt']
+Remarks: ['Deployed 2018-08-10']
+
+Name: Jim Perdue
+Age: 19
+Rank: Guardsman
+Battles: 0
+Personality: Affable
+Background: Agri worker
+Wants to: bring honor to their family
+Skills: ['Brave', 'Foresight']
+Flaws: ['Flat footed', 'Poor discipline']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Kenneth Vogt']
+Disliked by: []
+Remarks: ['Deployed 2018-08-10']
+

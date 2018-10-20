@@ -1,0 +1,89 @@
+Name: Mark Bowles
+Age: 23
+Rank: Lance Sergeant
+Battles: 6
+Personality: Narcissist
+Wants to: protect a friend
+Skills: ['Good looking', 'Observant', 'Die hard', 'Trustworthy', 'Awesome scar', 'Unshakeable faith']
+Flaws: ['Allergies', 'Disfigurement']
+Confirmed kills: 7
+Awards: ['Medallion Crimson', 'Service Badge', 'Triple Skull']
+Liked by: ['Patrick Goodermote']
+Disliked by: ['Ricardo Green']
+Remarks: ['Deployed 2018-07-12', 'Wounded in combat 2018-07-19', 'Awarded the Medallion Crimson 2018-07-19', 'Wounded in combat 2018-07-30', 'Promoted to Corporal 2018-07-30', 'Promoted to Lance Corporal 2018-08-02', 'Promoted to Sergeant 2018-08-05', 'Awarded the Service Badge 2018-08-05', 'Promoted to Lance Sergeant 2018-08-10', 'Awarded the Triple Skull 2018-08-10']
+
+Name: Michael Kaspar
+Age: 23
+Rank: Sergeant
+Battles: 3
+Personality: Never bathes
+Background: Hiver
+Wants to: set foot on Terra
+Skills: ['Cook', 'Crack shot', 'Bionic arm']
+Flaws: []
+Confirmed kills: 0
+Awards: ['Medallion Crimson', 'Triple Skull']
+Liked by: ['Mark Bowles']
+Disliked by: []
+Remarks: ['Deployed 2018-07-30', 'Wounded in combat 2018-08-02', 'Awarded the Medallion Crimson 2018-08-02', 'Promoted to Corporal 2018-08-02', 'Promoted to Lance Corporal 2018-08-05', 'Wounded in combat 2018-08-10', 'Promoted to Sergeant 2018-08-10', 'Awarded the Triple Skull 2018-08-10']
+
+Name: Steven Hardy
+Age: 27
+Rank: Guardsman
+Battles: 0
+Personality: Backwater
+Background: Administratum menial
+Wants to: die for the Emperor
+Skills: ['Silent move']
+Flaws: []
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-08-10']
+
+Name: Patrick Goodermote
+Age: 25
+Rank: Guardsman
+Battles: 0
+Personality: Heroic
+Background: Disgraced
+Wants to: survive
+Skills: ['Born leader', 'Zealous']
+Flaws: ['Allergies']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Steven Hardy']
+Disliked by: []
+Remarks: ['Deployed 2018-08-10']
+
+Name: Lewis Archila
+Age: 27
+Rank: Guardsman
+Battles: 0
+Personality: Spiteful
+Background: Voidborn
+Wants to: desert at the first opportunity
+Skills: ['Survivalist', 'Cook']
+Flaws: ['Tainted']
+Confirmed kills: 0
+Awards: []
+Liked by: ['Mark Bowles']
+Disliked by: ['Patrick Goodermote']
+Remarks: ['Deployed 2018-08-10']
+
+Name: Ben Joyner
+Age: 28
+Rank: Guardsman
+Battles: 0
+Personality: Pessimist
+Background: Scavenger
+Wants to: become famous
+Skills: []
+Flaws: []
+Confirmed kills: 0
+Awards: []
+Liked by: ['Mark Bowles']
+Disliked by: []
+Remarks: ['Deployed 2018-08-10']
+

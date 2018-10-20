@@ -1,0 +1,74 @@
+Name: Lionel Broach
+Age: 28
+Rank: Lance Corporal
+Battles: 1
+Personality: Loner
+Background: Dilettante
+Wants to: start a family
+Skills: ['Rapid reload', 'Tinkerer', 'Awesome scar']
+Flaws: ['Asthma', 'Smart-ass', 'Old wound']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-07-19', 'Wounded in combat 2018-07-30', 'Promoted to Lance Corporal 2018-07-30']
+
+Name: Billie Aragaki
+Age: 28
+Rank: Lance Corporal
+Battles: 3
+Personality: Loner
+Wants to: redeem themselves
+Skills: ['Ambidextrous', 'Rapid reload', 'Die hard']
+Flaws: ['Unlucky']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-07-12', 'Wounded in combat 2018-07-19', 'Wounded in combat 2018-07-19', 'Wounded in combat 2018-07-30', 'Promoted to Lance Corporal 2018-07-30']
+
+Name: Larry Lavallee
+Age: 25
+Rank: Corporal
+Battles: 1
+Personality: Smooth
+Background: Savant
+Wants to: impress the commissar
+Skills: ['Tireless', 'Bookworm', 'Sound judgement']
+Flaws: ['Weak', 'Pacifist', 'Disfigurement']
+Confirmed kills: 0
+Awards: ['Medallion Crimson']
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-07-19', 'Wounded in combat 2018-07-30', 'Awarded the Medallion Crimson 2018-07-30']
+
+Name: Charles Roberts
+Age: 20
+Rank: Corporal
+Battles: 1
+Personality: Braggart
+Background: Merchant house
+Wants to: set a record
+Skills: ['Tinkerer']
+Flaws: ['Unbearable guilt']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: ['Billie Aragaki']
+Remarks: ['Deployed 2018-07-19']
+
+Name: Alfredo Brown
+Age: 27
+Rank: Corporal
+Battles: 0
+Personality: Loner
+Background: Dilettante
+Wants to: set a record
+Skills: []
+Flaws: ['Poor discipline', 'Allergies']
+Confirmed kills: 0
+Awards: []
+Liked by: []
+Disliked by: []
+Remarks: ['Deployed 2018-07-30']
+
